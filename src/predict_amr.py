@@ -10,28 +10,26 @@ from sklearn.svm import SVC
 from xgboost import XGBClassifier
 import os
 
-# Load the synthetic data
+# Load dummy data
 df = pd.read_csv("../outputs/synthetic_git_amr_data.csv")
 
-# Feature selection: Select the relevant columns for training
+# Relevant columns for training
 X = df[["cases", "amr_abundance"]]  # Features (predictor variables)
 y = (df["amr_abundance"] > 0.5).astype(int)  # Label: 1 if AMR abundance > 0.5, else 0 (binary classification)
 
 # Train/test split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-# Initialize models
+# start models
 models = {
     "Logistic Regression": LogisticRegression(),
     "Random Forest": RandomForestClassifier(),
     "SVM": SVC(probability=True),
     "XGBoost": XGBClassifier()
 }
-
-# Store results for comparison
 results = []
 
-# Train and evaluate each model
+# Train and evaluate performance of each model
 for name, model in models.items():
     # Train the model
     model.fit(X_train, y_train)
@@ -40,7 +38,7 @@ for name, model in models.items():
     y_pred = model.predict(X_test)
     y_pred_proba = model.predict_proba(X_test)[:, 1]  # Probabilities for ROC
 
-    # Calculate evaluation metrics
+    # Calculate metrics
     accuracy = model.score(X_test, y_test)
     auc = roc_auc_score(y_test, y_pred_proba)
     fpr, tpr, thresholds = roc_curve(y_test, y_pred_proba)
@@ -64,19 +62,13 @@ for name, model in models.items():
     plt.xlabel("False Positive Rate")
     plt.ylabel("True Positive Rate")
     plt.legend(loc="lower right")
-
-    # Save ROC curve to the figures folder
     os.makedirs("../figures", exist_ok=True)
     plt.savefig(f"../figures/roc_curve_{name}.png")
     plt.close()
 
-# Create a DataFrame for results comparison
+# Compare results
 results_df = pd.DataFrame(results)
-
-# Display comparison of models
 print(results_df[["Model", "Accuracy", "AUC"]])
-
-# Save the results comparison to CSV
 results_df.to_csv("../outputs/model_comparison.csv", index=False)
 
 # Save confusion matrices as figures
@@ -87,12 +79,10 @@ for result in results:
     plt.title(f"Confusion Matrix for {result['Model']}")
     plt.ylabel("True Label")
     plt.xlabel("Predicted Label")
-
-    # Save confusion matrix figure
     plt.savefig(f"../figures/confusion_matrix_{result['Model']}.png")
     plt.close()
 
-# Save the classification reports for reference
+# classification reports for reference
 for result in results:
     model_name = result["Model"]
     report = result["Classification Report"]
