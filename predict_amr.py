@@ -10,17 +10,17 @@ from sklearn.svm import SVC
 from xgboost import XGBClassifier
 import os
 
-# Load the synthetic data
+# load the synthetic data
 df = pd.read_csv("../outputs/synthetic_git_amr_data.csv")
 
-# Selct features for training
+# Select features for training
 X = df[["cases", "amr_abundance"]]  # Features (predictor variables)
 y = (df["amr_abundance"] > 0.5).astype(int)  # Label: 1 if AMR abundance > 0.5, else 0 (binary classification)
 
-# Train/test split
+# train/test split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-# Initialse models
+# initialise models
 models = {
     "Logistic Regression": LogisticRegression(),
     "Random Forest": RandomForestClassifier(),
