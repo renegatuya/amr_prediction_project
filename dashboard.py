@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from PIL import Image
 
-# Load model and figures
+# Model and figures
 model = joblib.load('best_amr_model.pkl')
 model_comparison_img = Image.open('/Users/ndore/Academics/PhD/courses/python_1/assignements/amr_prediction_project/outputs/model_comparison.png')
 
@@ -15,7 +15,7 @@ st.title("AMR Prediction Dashboard")
 st.subheader("Model Comparison")
 st.image(model_comparison_img, caption='Model Comparison')
 
-#  Upload CSV for predictions
+#  Apply model
 uploaded_file = st.file_uploader("Choose a CSV file for prediction", type="csv")
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
@@ -26,7 +26,7 @@ if uploaded_file is not None:
     st.subheader("Predictions")
     st.write(predictions)
 
-    # Plot a simple graph with matplotlib
+    # visualise
     st.subheader("Predictions Over Time")
     plt.figure(figsize=(10, 6))
     plt.plot(predictions)
