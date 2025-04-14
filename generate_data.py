@@ -35,11 +35,11 @@ for country, districts in regions.items():
                 lam = max(0, 5 + 15 * seasonal_effect)  # Ensure lambda is non-negative
                 base_cases = np.random.poisson(lam)
 
-                # Add outbreak 
+                # outbreak spikes 
                 outbreak = np.random.binomial(1, 0.05)
                 cases = base_cases + (np.random.randint(20, 50) if outbreak else 0)
 
-                # Simulate AMR gene abundance from cases
+                # AMR gene abundance from cases
                 amr_abundance = round(np.random.normal(loc=0.2 * cases, scale=5), 2)
                 amr_abundance = max(0, amr_abundance)
 
@@ -52,15 +52,13 @@ for country, districts in regions.items():
                     "amr_abundance": amr_abundance
                 })
 
-# Create DataFrame
+# Create dataframe
 df = pd.DataFrame(data)
-
-# Save data
 output_dir = "../outputs"
 os.makedirs(output_dir, exist_ok=True)
 df.to_csv(os.path.join(output_dir, "synthetic_git_amr_data.csv"), index=False)
 
-# Plot example: total cases per week
+# visualise total cases per week
 total_cases_weekly = df.groupby("week")["cases"].sum().reset_index()
 plt.figure(figsize=(12, 6))
 sns.lineplot(data=total_cases_weekly, x="week", y="cases", color="blue")
@@ -72,7 +70,7 @@ plt.tight_layout()
 plt.savefig(os.path.join(output_dir, "total_cases_over_time.png"))
 plt.close()
 
-# Plot heatmap of correlation (by country)
+# heatmap of correlation (by country)
 avg_amr = df.groupby("country")["amr_abundance"].mean()
 avg_cases = df.groupby("country")["cases"].mean()
 summary_df = pd.DataFrame({"cases": avg_cases, "amr_abundance": avg_amr})
@@ -82,5 +80,5 @@ plt.tight_layout()
 plt.savefig(os.path.join(output_dir, "correlation_heatmap.png"))
 plt.close()
 
-print("Synthetic data and visuals generated and saved to outputs folder.")
+print("Synthetic data and visuals saved to outputs folder.")
 
