@@ -22,7 +22,6 @@ df_encoded = pd.get_dummies(df, columns=["country", "district", "pathogen"], dro
 X = df_encoded.drop(columns=["week", "amr_abundance"])
 joblib.dump(X.columns, "model_features.pkl")
 y = df_encoded["amr_abundance"]
-joblib.dump(X.columns, 'model_features.pkl')
 
 # Train-test split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -89,7 +88,7 @@ plt.tight_layout()
 plt.savefig(os.path.join(figures_dir, "model_comparison_mse.png"))
 plt.close()
 
-print(Models Completed. Visuals saved in figures directory)
+print("Models Completed. Visuals saved in figures directory.")
 
 # Save model - best performing model
 best_model = rf_random.best_estimator_
