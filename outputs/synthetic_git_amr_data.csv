@@ -1,0 +1,4681 @@
+week,country,district,pathogen,cases,amr_abundance
+2023-01-01,Rwanda,Kigali,Cholera,5,2.4
+2023-01-01,Rwanda,Kigali,E. coli,4,5.85
+2023-01-01,Rwanda,Kigali,Salmonella,4,0.0
+2023-01-01,Rwanda,Kigali,Shigella,6,0.0
+2023-01-01,Rwanda,Kigali,Rotavirus,5,0.0
+2023-01-08,Rwanda,Kigali,Cholera,4,10.06
+2023-01-08,Rwanda,Kigali,E. coli,10,1.42
+2023-01-08,Rwanda,Kigali,Salmonella,6,0.0
+2023-01-08,Rwanda,Kigali,Shigella,4,5.95
+2023-01-08,Rwanda,Kigali,Rotavirus,6,5.86
+2023-01-15,Rwanda,Kigali,Cholera,12,2.84
+2023-01-15,Rwanda,Kigali,E. coli,8,0.1
+2023-01-15,Rwanda,Kigali,Salmonella,12,3.88
+2023-01-15,Rwanda,Kigali,Shigella,4,2.11
+2023-01-15,Rwanda,Kigali,Rotavirus,11,0.0
+2023-01-22,Rwanda,Kigali,Cholera,8,1.62
+2023-01-22,Rwanda,Kigali,E. coli,12,0.0
+2023-01-22,Rwanda,Kigali,Salmonella,12,9.32
+2023-01-22,Rwanda,Kigali,Shigella,8,10.13
+2023-01-22,Rwanda,Kigali,Rotavirus,7,5.77
+2023-01-29,Rwanda,Kigali,Cholera,14,0.86
+2023-01-29,Rwanda,Kigali,E. coli,17,0.0
+2023-01-29,Rwanda,Kigali,Salmonella,16,1.58
+2023-01-29,Rwanda,Kigali,Shigella,13,1.57
+2023-01-29,Rwanda,Kigali,Rotavirus,13,3.73
+2023-02-05,Rwanda,Kigali,Cholera,15,7.24
+2023-02-05,Rwanda,Kigali,E. coli,14,6.47
+2023-02-05,Rwanda,Kigali,Salmonella,10,0.0
+2023-02-05,Rwanda,Kigali,Shigella,15,0.0
+2023-02-05,Rwanda,Kigali,Rotavirus,12,3.13
+2023-02-12,Rwanda,Kigali,Cholera,21,17.87
+2023-02-12,Rwanda,Kigali,E. coli,15,3.47
+2023-02-12,Rwanda,Kigali,Salmonella,12,1.78
+2023-02-12,Rwanda,Kigali,Shigella,20,7.7
+2023-02-12,Rwanda,Kigali,Rotavirus,20,7.55
+2023-02-19,Rwanda,Kigali,Cholera,19,4.26
+2023-02-19,Rwanda,Kigali,E. coli,11,6.56
+2023-02-19,Rwanda,Kigali,Salmonella,19,9.13
+2023-02-19,Rwanda,Kigali,Shigella,16,9.85
+2023-02-19,Rwanda,Kigali,Rotavirus,14,7.74
+2023-02-26,Rwanda,Kigali,Cholera,18,0.0
+2023-02-26,Rwanda,Kigali,E. coli,18,5.39
+2023-02-26,Rwanda,Kigali,Salmonella,22,12.2
+2023-02-26,Rwanda,Kigali,Shigella,13,3.24
+2023-02-26,Rwanda,Kigali,Rotavirus,18,3.68
+2023-03-05,Rwanda,Kigali,Cholera,16,5.41
+2023-03-05,Rwanda,Kigali,E. coli,17,0.0
+2023-03-05,Rwanda,Kigali,Salmonella,13,10.91
+2023-03-05,Rwanda,Kigali,Shigella,19,5.69
+2023-03-05,Rwanda,Kigali,Rotavirus,20,12.26
+2023-03-12,Rwanda,Kigali,Cholera,17,2.21
+2023-03-12,Rwanda,Kigali,E. coli,12,11.76
+2023-03-12,Rwanda,Kigali,Salmonella,14,10.52
+2023-03-12,Rwanda,Kigali,Shigella,9,8.42
+2023-03-12,Rwanda,Kigali,Rotavirus,19,2.79
+2023-03-19,Rwanda,Kigali,Cholera,20,4.3
+2023-03-19,Rwanda,Kigali,E. coli,19,6.0
+2023-03-19,Rwanda,Kigali,Salmonella,26,4.66
+2023-03-19,Rwanda,Kigali,Shigella,13,0.17
+2023-03-19,Rwanda,Kigali,Rotavirus,17,4.44
+2023-03-26,Rwanda,Kigali,Cholera,24,9.56
+2023-03-26,Rwanda,Kigali,E. coli,26,12.46
+2023-03-26,Rwanda,Kigali,Salmonella,17,0.0
+2023-03-26,Rwanda,Kigali,Shigella,24,0.0
+2023-03-26,Rwanda,Kigali,Rotavirus,25,2.96
+2023-04-02,Rwanda,Kigali,Cholera,27,6.71
+2023-04-02,Rwanda,Kigali,E. coli,18,2.24
+2023-04-02,Rwanda,Kigali,Salmonella,21,1.13
+2023-04-02,Rwanda,Kigali,Shigella,17,7.25
+2023-04-02,Rwanda,Kigali,Rotavirus,24,8.14
+2023-04-09,Rwanda,Kigali,Cholera,11,0.65
+2023-04-09,Rwanda,Kigali,E. coli,14,6.82
+2023-04-09,Rwanda,Kigali,Salmonella,21,2.03
+2023-04-09,Rwanda,Kigali,Shigella,47,10.42
+2023-04-09,Rwanda,Kigali,Rotavirus,21,0.0
+2023-04-16,Rwanda,Kigali,Cholera,22,2.64
+2023-04-16,Rwanda,Kigali,E. coli,19,11.75
+2023-04-16,Rwanda,Kigali,Salmonella,23,6.96
+2023-04-16,Rwanda,Kigali,Shigella,22,0.17
+2023-04-16,Rwanda,Kigali,Rotavirus,20,3.77
+2023-04-23,Rwanda,Kigali,Cholera,17,2.56
+2023-04-23,Rwanda,Kigali,E. coli,22,5.83
+2023-04-23,Rwanda,Kigali,Salmonella,56,15.56
+2023-04-23,Rwanda,Kigali,Shigella,36,8.12
+2023-04-23,Rwanda,Kigali,Rotavirus,18,5.91
+2023-04-30,Rwanda,Kigali,Cholera,17,0.0
+2023-04-30,Rwanda,Kigali,E. coli,16,11.84
+2023-04-30,Rwanda,Kigali,Salmonella,15,0.0
+2023-04-30,Rwanda,Kigali,Shigella,27,6.11
+2023-04-30,Rwanda,Kigali,Rotavirus,13,7.79
+2023-05-07,Rwanda,Kigali,Cholera,16,4.49
+2023-05-07,Rwanda,Kigali,E. coli,9,7.96
+2023-05-07,Rwanda,Kigali,Salmonella,20,4.83
+2023-05-07,Rwanda,Kigali,Shigella,20,8.04
+2023-05-07,Rwanda,Kigali,Rotavirus,14,0.0
+2023-05-14,Rwanda,Kigali,Cholera,7,0.0
+2023-05-14,Rwanda,Kigali,E. coli,16,7.89
+2023-05-14,Rwanda,Kigali,Salmonella,28,2.75
+2023-05-14,Rwanda,Kigali,Shigella,17,6.37
+2023-05-14,Rwanda,Kigali,Rotavirus,17,9.46
+2023-05-21,Rwanda,Kigali,Cholera,9,6.13
+2023-05-21,Rwanda,Kigali,E. coli,12,1.88
+2023-05-21,Rwanda,Kigali,Salmonella,19,4.44
+2023-05-21,Rwanda,Kigali,Shigella,13,0.19
+2023-05-21,Rwanda,Kigali,Rotavirus,13,0.0
+2023-05-28,Rwanda,Kigali,Cholera,16,10.7
+2023-05-28,Rwanda,Kigali,E. coli,12,2.78
+2023-05-28,Rwanda,Kigali,Salmonella,10,3.76
+2023-05-28,Rwanda,Kigali,Shigella,12,0.0
+2023-05-28,Rwanda,Kigali,Rotavirus,19,6.36
+2023-06-04,Rwanda,Kigali,Cholera,10,2.61
+2023-06-04,Rwanda,Kigali,E. coli,8,11.47
+2023-06-04,Rwanda,Kigali,Salmonella,16,3.32
+2023-06-04,Rwanda,Kigali,Shigella,18,5.18
+2023-06-04,Rwanda,Kigali,Rotavirus,12,6.73
+2023-06-11,Rwanda,Kigali,Cholera,13,4.96
+2023-06-11,Rwanda,Kigali,E. coli,9,0.0
+2023-06-11,Rwanda,Kigali,Salmonella,11,5.08
+2023-06-11,Rwanda,Kigali,Shigella,11,0.0
+2023-06-11,Rwanda,Kigali,Rotavirus,12,0.44
+2023-06-18,Rwanda,Kigali,Cholera,12,1.37
+2023-06-18,Rwanda,Kigali,E. coli,5,0.0
+2023-06-18,Rwanda,Kigali,Salmonella,12,0.0
+2023-06-18,Rwanda,Kigali,Shigella,11,5.39
+2023-06-18,Rwanda,Kigali,Rotavirus,4,12.75
+2023-06-25,Rwanda,Kigali,Cholera,10,0.0
+2023-06-25,Rwanda,Kigali,E. coli,11,4.96
+2023-06-25,Rwanda,Kigali,Salmonella,7,2.88
+2023-06-25,Rwanda,Kigali,Shigella,11,0.0
+2023-06-25,Rwanda,Kigali,Rotavirus,7,3.34
+2023-07-02,Rwanda,Kigali,Cholera,5,9.53
+2023-07-02,Rwanda,Kigali,E. coli,6,3.79
+2023-07-02,Rwanda,Kigali,Salmonella,3,0.0
+2023-07-02,Rwanda,Kigali,Shigella,5,2.02
+2023-07-02,Rwanda,Kigali,Rotavirus,3,0.0
+2023-07-09,Rwanda,Kigali,Cholera,3,0.0
+2023-07-09,Rwanda,Kigali,E. coli,3,0.0
+2023-07-09,Rwanda,Kigali,Salmonella,6,2.43
+2023-07-09,Rwanda,Kigali,Shigella,3,5.79
+2023-07-09,Rwanda,Kigali,Rotavirus,2,0.0
+2023-07-16,Rwanda,Kigali,Cholera,3,0.0
+2023-07-16,Rwanda,Kigali,E. coli,1,0.0
+2023-07-16,Rwanda,Kigali,Salmonella,2,5.83
+2023-07-16,Rwanda,Kigali,Shigella,1,0.0
+2023-07-16,Rwanda,Kigali,Rotavirus,2,0.0
+2023-07-23,Rwanda,Kigali,Cholera,0,1.19
+2023-07-23,Rwanda,Kigali,E. coli,0,0.0
+2023-07-23,Rwanda,Kigali,Salmonella,0,4.61
+2023-07-23,Rwanda,Kigali,Shigella,0,6.11
+2023-07-23,Rwanda,Kigali,Rotavirus,0,0.0
+2023-07-30,Rwanda,Kigali,Cholera,0,12.86
+2023-07-30,Rwanda,Kigali,E. coli,0,0.75
+2023-07-30,Rwanda,Kigali,Salmonella,0,0.72
+2023-07-30,Rwanda,Kigali,Shigella,0,4.89
+2023-07-30,Rwanda,Kigali,Rotavirus,0,0.07
+2023-08-06,Rwanda,Kigali,Cholera,0,0.31
+2023-08-06,Rwanda,Kigali,E. coli,39,2.39
+2023-08-06,Rwanda,Kigali,Salmonella,0,3.08
+2023-08-06,Rwanda,Kigali,Shigella,0,1.63
+2023-08-06,Rwanda,Kigali,Rotavirus,0,0.0
+2023-08-13,Rwanda,Kigali,Cholera,0,0.0
+2023-08-13,Rwanda,Kigali,E. coli,0,5.25
+2023-08-13,Rwanda,Kigali,Salmonella,0,0.0
+2023-08-13,Rwanda,Kigali,Shigella,0,3.03
+2023-08-13,Rwanda,Kigali,Rotavirus,0,0.0
+2023-08-20,Rwanda,Kigali,Cholera,0,8.48
+2023-08-20,Rwanda,Kigali,E. coli,0,0.0
+2023-08-20,Rwanda,Kigali,Salmonella,0,2.0
+2023-08-20,Rwanda,Kigali,Shigella,0,0.57
+2023-08-20,Rwanda,Kigali,Rotavirus,0,0.75
+2023-08-27,Rwanda,Kigali,Cholera,0,1.54
+2023-08-27,Rwanda,Kigali,E. coli,0,0.0
+2023-08-27,Rwanda,Kigali,Salmonella,0,0.85
+2023-08-27,Rwanda,Kigali,Shigella,45,8.08
+2023-08-27,Rwanda,Kigali,Rotavirus,0,5.52
+2023-09-03,Rwanda,Kigali,Cholera,0,5.76
+2023-09-03,Rwanda,Kigali,E. coli,0,0.0
+2023-09-03,Rwanda,Kigali,Salmonella,0,6.8
+2023-09-03,Rwanda,Kigali,Shigella,0,9.05
+2023-09-03,Rwanda,Kigali,Rotavirus,0,0.0
+2023-09-10,Rwanda,Kigali,Cholera,0,0.0
+2023-09-10,Rwanda,Kigali,E. coli,0,0.0
+2023-09-10,Rwanda,Kigali,Salmonella,0,0.0
+2023-09-10,Rwanda,Kigali,Shigella,0,11.49
+2023-09-10,Rwanda,Kigali,Rotavirus,0,7.02
+2023-09-17,Rwanda,Kigali,Cholera,0,0.0
+2023-09-17,Rwanda,Kigali,E. coli,0,0.74
+2023-09-17,Rwanda,Kigali,Salmonella,0,0.0
+2023-09-17,Rwanda,Kigali,Shigella,0,4.12
+2023-09-17,Rwanda,Kigali,Rotavirus,0,0.0
+2023-09-24,Rwanda,Kigali,Cholera,0,0.0
+2023-09-24,Rwanda,Kigali,E. coli,41,10.98
+2023-09-24,Rwanda,Kigali,Salmonella,0,3.04
+2023-09-24,Rwanda,Kigali,Shigella,0,0.0
+2023-09-24,Rwanda,Kigali,Rotavirus,0,0.0
+2023-10-01,Rwanda,Kigali,Cholera,0,4.94
+2023-10-01,Rwanda,Kigali,E. coli,0,0.9
+2023-10-01,Rwanda,Kigali,Salmonella,0,0.0
+2023-10-01,Rwanda,Kigali,Shigella,0,0.0
+2023-10-01,Rwanda,Kigali,Rotavirus,0,0.0
+2023-10-08,Rwanda,Kigali,Cholera,0,0.0
+2023-10-08,Rwanda,Kigali,E. coli,0,4.65
+2023-10-08,Rwanda,Kigali,Salmonella,0,0.0
+2023-10-08,Rwanda,Kigali,Shigella,0,0.0
+2023-10-08,Rwanda,Kigali,Rotavirus,0,4.08
+2023-10-15,Rwanda,Kigali,Cholera,0,3.09
+2023-10-15,Rwanda,Kigali,E. coli,0,0.0
+2023-10-15,Rwanda,Kigali,Salmonella,0,3.16
+2023-10-15,Rwanda,Kigali,Shigella,0,4.09
+2023-10-15,Rwanda,Kigali,Rotavirus,0,0.67
+2023-10-22,Rwanda,Kigali,Cholera,0,2.23
+2023-10-22,Rwanda,Kigali,E. coli,42,7.33
+2023-10-22,Rwanda,Kigali,Salmonella,0,6.78
+2023-10-22,Rwanda,Kigali,Shigella,0,0.0
+2023-10-22,Rwanda,Kigali,Rotavirus,0,4.51
+2023-10-29,Rwanda,Kigali,Cholera,0,0.0
+2023-10-29,Rwanda,Kigali,E. coli,0,0.0
+2023-10-29,Rwanda,Kigali,Salmonella,0,6.49
+2023-10-29,Rwanda,Kigali,Shigella,0,0.88
+2023-10-29,Rwanda,Kigali,Rotavirus,0,6.94
+2023-11-05,Rwanda,Kigali,Cholera,0,0.0
+2023-11-05,Rwanda,Kigali,E. coli,0,3.65
+2023-11-05,Rwanda,Kigali,Salmonella,0,1.28
+2023-11-05,Rwanda,Kigali,Shigella,0,0.0
+2023-11-05,Rwanda,Kigali,Rotavirus,0,3.2
+2023-11-12,Rwanda,Kigali,Cholera,0,0.0
+2023-11-12,Rwanda,Kigali,E. coli,0,0.0
+2023-11-12,Rwanda,Kigali,Salmonella,0,0.0
+2023-11-12,Rwanda,Kigali,Shigella,0,0.0
+2023-11-12,Rwanda,Kigali,Rotavirus,0,0.0
+2023-11-19,Rwanda,Kigali,Cholera,0,0.0
+2023-11-19,Rwanda,Kigali,E. coli,0,0.0
+2023-11-19,Rwanda,Kigali,Salmonella,0,0.0
+2023-11-19,Rwanda,Kigali,Shigella,0,3.18
+2023-11-19,Rwanda,Kigali,Rotavirus,0,0.0
+2023-11-26,Rwanda,Kigali,Cholera,0,0.0
+2023-11-26,Rwanda,Kigali,E. coli,24,9.72
+2023-11-26,Rwanda,Kigali,Salmonella,0,0.0
+2023-11-26,Rwanda,Kigali,Shigella,0,0.0
+2023-11-26,Rwanda,Kigali,Rotavirus,46,11.11
+2023-12-03,Rwanda,Kigali,Cholera,0,0.0
+2023-12-03,Rwanda,Kigali,E. coli,0,2.99
+2023-12-03,Rwanda,Kigali,Salmonella,0,0.0
+2023-12-03,Rwanda,Kigali,Shigella,0,0.0
+2023-12-03,Rwanda,Kigali,Rotavirus,43,6.12
+2023-12-10,Rwanda,Kigali,Cholera,36,6.36
+2023-12-10,Rwanda,Kigali,E. coli,0,3.16
+2023-12-10,Rwanda,Kigali,Salmonella,0,12.27
+2023-12-10,Rwanda,Kigali,Shigella,0,0.85
+2023-12-10,Rwanda,Kigali,Rotavirus,0,0.0
+2023-12-17,Rwanda,Kigali,Cholera,2,0.0
+2023-12-17,Rwanda,Kigali,E. coli,1,0.0
+2023-12-17,Rwanda,Kigali,Salmonella,1,0.83
+2023-12-17,Rwanda,Kigali,Shigella,1,1.35
+2023-12-17,Rwanda,Kigali,Rotavirus,1,4.74
+2023-12-24,Rwanda,Kigali,Cholera,7,1.58
+2023-12-24,Rwanda,Kigali,E. coli,2,1.99
+2023-12-24,Rwanda,Kigali,Salmonella,5,0.0
+2023-12-24,Rwanda,Kigali,Shigella,2,0.0
+2023-12-24,Rwanda,Kigali,Rotavirus,1,4.51
+2023-01-01,Rwanda,Huye,Cholera,3,0.0
+2023-01-01,Rwanda,Huye,E. coli,2,0.0
+2023-01-01,Rwanda,Huye,Salmonella,6,0.03
+2023-01-01,Rwanda,Huye,Shigella,1,9.43
+2023-01-01,Rwanda,Huye,Rotavirus,6,6.88
+2023-01-08,Rwanda,Huye,Cholera,1,0.0
+2023-01-08,Rwanda,Huye,E. coli,9,0.0
+2023-01-08,Rwanda,Huye,Salmonella,9,0.0
+2023-01-08,Rwanda,Huye,Shigella,4,3.37
+2023-01-08,Rwanda,Huye,Rotavirus,3,0.0
+2023-01-15,Rwanda,Huye,Cholera,44,6.54
+2023-01-15,Rwanda,Huye,E. coli,7,0.0
+2023-01-15,Rwanda,Huye,Salmonella,6,0.0
+2023-01-15,Rwanda,Huye,Shigella,4,0.99
+2023-01-15,Rwanda,Huye,Rotavirus,7,1.7
+2023-01-22,Rwanda,Huye,Cholera,12,0.0
+2023-01-22,Rwanda,Huye,E. coli,14,9.39
+2023-01-22,Rwanda,Huye,Salmonella,10,2.99
+2023-01-22,Rwanda,Huye,Shigella,13,0.0
+2023-01-22,Rwanda,Huye,Rotavirus,38,5.18
+2023-01-29,Rwanda,Huye,Cholera,11,4.73
+2023-01-29,Rwanda,Huye,E. coli,12,0.0
+2023-01-29,Rwanda,Huye,Salmonella,9,0.12
+2023-01-29,Rwanda,Huye,Shigella,21,5.96
+2023-01-29,Rwanda,Huye,Rotavirus,13,18.12
+2023-02-05,Rwanda,Huye,Cholera,14,4.54
+2023-02-05,Rwanda,Huye,E. coli,12,5.4
+2023-02-05,Rwanda,Huye,Salmonella,12,8.07
+2023-02-05,Rwanda,Huye,Shigella,18,11.88
+2023-02-05,Rwanda,Huye,Rotavirus,15,0.0
+2023-02-12,Rwanda,Huye,Cholera,14,1.8
+2023-02-12,Rwanda,Huye,E. coli,16,0.0
+2023-02-12,Rwanda,Huye,Salmonella,9,7.04
+2023-02-12,Rwanda,Huye,Shigella,16,1.72
+2023-02-12,Rwanda,Huye,Rotavirus,12,0.0
+2023-02-19,Rwanda,Huye,Cholera,18,0.0
+2023-02-19,Rwanda,Huye,E. coli,13,0.0
+2023-02-19,Rwanda,Huye,Salmonella,17,9.43
+2023-02-19,Rwanda,Huye,Shigella,16,0.62
+2023-02-19,Rwanda,Huye,Rotavirus,13,2.82
+2023-02-26,Rwanda,Huye,Cholera,14,3.75
+2023-02-26,Rwanda,Huye,E. coli,20,0.0
+2023-02-26,Rwanda,Huye,Salmonella,20,4.34
+2023-02-26,Rwanda,Huye,Shigella,14,4.8
+2023-02-26,Rwanda,Huye,Rotavirus,18,0.0
+2023-03-05,Rwanda,Huye,Cholera,14,5.33
+2023-03-05,Rwanda,Huye,E. coli,45,8.85
+2023-03-05,Rwanda,Huye,Salmonella,20,14.02
+2023-03-05,Rwanda,Huye,Shigella,21,0.0
+2023-03-05,Rwanda,Huye,Rotavirus,20,12.16
+2023-03-12,Rwanda,Huye,Cholera,20,0.0
+2023-03-12,Rwanda,Huye,E. coli,21,0.0
+2023-03-12,Rwanda,Huye,Salmonella,23,5.2
+2023-03-12,Rwanda,Huye,Shigella,17,0.0
+2023-03-12,Rwanda,Huye,Rotavirus,17,0.0
+2023-03-19,Rwanda,Huye,Cholera,22,1.4
+2023-03-19,Rwanda,Huye,E. coli,18,1.33
+2023-03-19,Rwanda,Huye,Salmonella,17,3.3
+2023-03-19,Rwanda,Huye,Shigella,21,7.6
+2023-03-19,Rwanda,Huye,Rotavirus,26,8.08
+2023-03-26,Rwanda,Huye,Cholera,18,0.0
+2023-03-26,Rwanda,Huye,E. coli,17,0.0
+2023-03-26,Rwanda,Huye,Salmonella,17,0.38
+2023-03-26,Rwanda,Huye,Shigella,14,0.0
+2023-03-26,Rwanda,Huye,Rotavirus,15,3.8
+2023-04-02,Rwanda,Huye,Cholera,20,0.0
+2023-04-02,Rwanda,Huye,E. coli,30,4.58
+2023-04-02,Rwanda,Huye,Salmonella,16,5.21
+2023-04-02,Rwanda,Huye,Shigella,18,7.61
+2023-04-02,Rwanda,Huye,Rotavirus,19,1.0
+2023-04-09,Rwanda,Huye,Cholera,21,6.82
+2023-04-09,Rwanda,Huye,E. coli,26,1.53
+2023-04-09,Rwanda,Huye,Salmonella,21,11.5
+2023-04-09,Rwanda,Huye,Shigella,14,0.0
+2023-04-09,Rwanda,Huye,Rotavirus,19,5.31
+2023-04-16,Rwanda,Huye,Cholera,21,1.53
+2023-04-16,Rwanda,Huye,E. coli,15,0.07
+2023-04-16,Rwanda,Huye,Salmonella,20,3.01
+2023-04-16,Rwanda,Huye,Shigella,16,5.51
+2023-04-16,Rwanda,Huye,Rotavirus,17,13.99
+2023-04-23,Rwanda,Huye,Cholera,20,4.48
+2023-04-23,Rwanda,Huye,E. coli,30,2.6
+2023-04-23,Rwanda,Huye,Salmonella,15,10.92
+2023-04-23,Rwanda,Huye,Shigella,17,1.87
+2023-04-23,Rwanda,Huye,Rotavirus,27,5.76
+2023-04-30,Rwanda,Huye,Cholera,23,8.5
+2023-04-30,Rwanda,Huye,E. coli,22,0.0
+2023-04-30,Rwanda,Huye,Salmonella,16,0.0
+2023-04-30,Rwanda,Huye,Shigella,19,14.58
+2023-04-30,Rwanda,Huye,Rotavirus,18,0.0
+2023-05-07,Rwanda,Huye,Cholera,16,6.04
+2023-05-07,Rwanda,Huye,E. coli,15,6.0
+2023-05-07,Rwanda,Huye,Salmonella,13,2.85
+2023-05-07,Rwanda,Huye,Shigella,22,5.25
+2023-05-07,Rwanda,Huye,Rotavirus,25,1.75
+2023-05-14,Rwanda,Huye,Cholera,16,5.85
+2023-05-14,Rwanda,Huye,E. coli,15,5.54
+2023-05-14,Rwanda,Huye,Salmonella,15,3.27
+2023-05-14,Rwanda,Huye,Shigella,15,5.7
+2023-05-14,Rwanda,Huye,Rotavirus,18,0.0
+2023-05-21,Rwanda,Huye,Cholera,18,0.78
+2023-05-21,Rwanda,Huye,E. coli,10,0.0
+2023-05-21,Rwanda,Huye,Salmonella,17,0.0
+2023-05-21,Rwanda,Huye,Shigella,16,7.76
+2023-05-21,Rwanda,Huye,Rotavirus,14,8.84
+2023-05-28,Rwanda,Huye,Cholera,16,1.62
+2023-05-28,Rwanda,Huye,E. coli,13,6.92
+2023-05-28,Rwanda,Huye,Salmonella,9,0.0
+2023-05-28,Rwanda,Huye,Shigella,23,0.0
+2023-05-28,Rwanda,Huye,Rotavirus,18,13.9
+2023-06-04,Rwanda,Huye,Cholera,8,0.0
+2023-06-04,Rwanda,Huye,E. coli,11,0.0
+2023-06-04,Rwanda,Huye,Salmonella,15,0.0
+2023-06-04,Rwanda,Huye,Shigella,16,1.17
+2023-06-04,Rwanda,Huye,Rotavirus,11,3.58
+2023-06-11,Rwanda,Huye,Cholera,11,6.2
+2023-06-11,Rwanda,Huye,E. coli,10,3.18
+2023-06-11,Rwanda,Huye,Salmonella,4,0.0
+2023-06-11,Rwanda,Huye,Shigella,9,5.2
+2023-06-11,Rwanda,Huye,Rotavirus,7,7.19
+2023-06-18,Rwanda,Huye,Cholera,6,0.0
+2023-06-18,Rwanda,Huye,E. coli,46,16.71
+2023-06-18,Rwanda,Huye,Salmonella,7,2.55
+2023-06-18,Rwanda,Huye,Shigella,8,0.0
+2023-06-18,Rwanda,Huye,Rotavirus,12,0.0
+2023-06-25,Rwanda,Huye,Cholera,7,5.95
+2023-06-25,Rwanda,Huye,E. coli,6,0.31
+2023-06-25,Rwanda,Huye,Salmonella,9,6.89
+2023-06-25,Rwanda,Huye,Shigella,9,5.67
+2023-06-25,Rwanda,Huye,Rotavirus,8,7.21
+2023-07-02,Rwanda,Huye,Cholera,1,0.0
+2023-07-02,Rwanda,Huye,E. coli,5,0.0
+2023-07-02,Rwanda,Huye,Salmonella,4,0.0
+2023-07-02,Rwanda,Huye,Shigella,7,3.33
+2023-07-02,Rwanda,Huye,Rotavirus,2,4.27
+2023-07-09,Rwanda,Huye,Cholera,2,4.81
+2023-07-09,Rwanda,Huye,E. coli,6,4.79
+2023-07-09,Rwanda,Huye,Salmonella,4,9.18
+2023-07-09,Rwanda,Huye,Shigella,2,3.87
+2023-07-09,Rwanda,Huye,Rotavirus,2,0.0
+2023-07-16,Rwanda,Huye,Cholera,2,0.0
+2023-07-16,Rwanda,Huye,E. coli,2,0.0
+2023-07-16,Rwanda,Huye,Salmonella,1,0.0
+2023-07-16,Rwanda,Huye,Shigella,3,0.0
+2023-07-16,Rwanda,Huye,Rotavirus,1,0.85
+2023-07-23,Rwanda,Huye,Cholera,0,0.0
+2023-07-23,Rwanda,Huye,E. coli,0,5.36
+2023-07-23,Rwanda,Huye,Salmonella,0,0.0
+2023-07-23,Rwanda,Huye,Shigella,0,1.76
+2023-07-23,Rwanda,Huye,Rotavirus,0,8.45
+2023-07-30,Rwanda,Huye,Cholera,0,5.8
+2023-07-30,Rwanda,Huye,E. coli,0,0.0
+2023-07-30,Rwanda,Huye,Salmonella,0,2.04
+2023-07-30,Rwanda,Huye,Shigella,0,0.0
+2023-07-30,Rwanda,Huye,Rotavirus,0,0.0
+2023-08-06,Rwanda,Huye,Cholera,0,0.0
+2023-08-06,Rwanda,Huye,E. coli,0,0.0
+2023-08-06,Rwanda,Huye,Salmonella,0,0.0
+2023-08-06,Rwanda,Huye,Shigella,0,5.06
+2023-08-06,Rwanda,Huye,Rotavirus,0,0.0
+2023-08-13,Rwanda,Huye,Cholera,0,0.0
+2023-08-13,Rwanda,Huye,E. coli,0,2.76
+2023-08-13,Rwanda,Huye,Salmonella,0,2.02
+2023-08-13,Rwanda,Huye,Shigella,0,0.0
+2023-08-13,Rwanda,Huye,Rotavirus,0,0.0
+2023-08-20,Rwanda,Huye,Cholera,0,5.6
+2023-08-20,Rwanda,Huye,E. coli,0,0.0
+2023-08-20,Rwanda,Huye,Salmonella,0,1.12
+2023-08-20,Rwanda,Huye,Shigella,38,4.46
+2023-08-20,Rwanda,Huye,Rotavirus,0,3.01
+2023-08-27,Rwanda,Huye,Cholera,0,5.81
+2023-08-27,Rwanda,Huye,E. coli,0,0.0
+2023-08-27,Rwanda,Huye,Salmonella,0,0.0
+2023-08-27,Rwanda,Huye,Shigella,0,2.56
+2023-08-27,Rwanda,Huye,Rotavirus,45,18.14
+2023-09-03,Rwanda,Huye,Cholera,0,10.09
+2023-09-03,Rwanda,Huye,E. coli,0,0.0
+2023-09-03,Rwanda,Huye,Salmonella,0,0.0
+2023-09-03,Rwanda,Huye,Shigella,0,0.0
+2023-09-03,Rwanda,Huye,Rotavirus,0,0.0
+2023-09-10,Rwanda,Huye,Cholera,0,0.0
+2023-09-10,Rwanda,Huye,E. coli,0,0.0
+2023-09-10,Rwanda,Huye,Salmonella,0,0.0
+2023-09-10,Rwanda,Huye,Shigella,0,4.67
+2023-09-10,Rwanda,Huye,Rotavirus,0,0.0
+2023-09-17,Rwanda,Huye,Cholera,0,5.32
+2023-09-17,Rwanda,Huye,E. coli,0,0.0
+2023-09-17,Rwanda,Huye,Salmonella,0,6.49
+2023-09-17,Rwanda,Huye,Shigella,0,12.72
+2023-09-17,Rwanda,Huye,Rotavirus,0,0.91
+2023-09-24,Rwanda,Huye,Cholera,0,3.91
+2023-09-24,Rwanda,Huye,E. coli,0,2.84
+2023-09-24,Rwanda,Huye,Salmonella,0,1.7
+2023-09-24,Rwanda,Huye,Shigella,0,0.0
+2023-09-24,Rwanda,Huye,Rotavirus,32,1.09
+2023-10-01,Rwanda,Huye,Cholera,0,2.14
+2023-10-01,Rwanda,Huye,E. coli,0,5.94
+2023-10-01,Rwanda,Huye,Salmonella,0,12.95
+2023-10-01,Rwanda,Huye,Shigella,0,0.97
+2023-10-01,Rwanda,Huye,Rotavirus,0,0.0
+2023-10-08,Rwanda,Huye,Cholera,0,0.84
+2023-10-08,Rwanda,Huye,E. coli,0,6.59
+2023-10-08,Rwanda,Huye,Salmonella,0,6.59
+2023-10-08,Rwanda,Huye,Shigella,0,0.0
+2023-10-08,Rwanda,Huye,Rotavirus,0,6.48
+2023-10-15,Rwanda,Huye,Cholera,0,0.0
+2023-10-15,Rwanda,Huye,E. coli,0,4.2
+2023-10-15,Rwanda,Huye,Salmonella,0,2.73
+2023-10-15,Rwanda,Huye,Shigella,0,0.0
+2023-10-15,Rwanda,Huye,Rotavirus,0,0.0
+2023-10-22,Rwanda,Huye,Cholera,0,6.09
+2023-10-22,Rwanda,Huye,E. coli,0,7.61
+2023-10-22,Rwanda,Huye,Salmonella,0,2.02
+2023-10-22,Rwanda,Huye,Shigella,0,0.0
+2023-10-22,Rwanda,Huye,Rotavirus,0,0.0
+2023-10-29,Rwanda,Huye,Cholera,0,5.94
+2023-10-29,Rwanda,Huye,E. coli,0,1.42
+2023-10-29,Rwanda,Huye,Salmonella,0,0.0
+2023-10-29,Rwanda,Huye,Shigella,0,4.36
+2023-10-29,Rwanda,Huye,Rotavirus,0,0.0
+2023-11-05,Rwanda,Huye,Cholera,0,0.0
+2023-11-05,Rwanda,Huye,E. coli,0,0.0
+2023-11-05,Rwanda,Huye,Salmonella,0,2.57
+2023-11-05,Rwanda,Huye,Shigella,0,0.9
+2023-11-05,Rwanda,Huye,Rotavirus,0,3.17
+2023-11-12,Rwanda,Huye,Cholera,0,5.55
+2023-11-12,Rwanda,Huye,E. coli,0,3.36
+2023-11-12,Rwanda,Huye,Salmonella,0,9.5
+2023-11-12,Rwanda,Huye,Shigella,0,5.54
+2023-11-12,Rwanda,Huye,Rotavirus,0,0.0
+2023-11-19,Rwanda,Huye,Cholera,0,0.0
+2023-11-19,Rwanda,Huye,E. coli,0,0.0
+2023-11-19,Rwanda,Huye,Salmonella,0,3.55
+2023-11-19,Rwanda,Huye,Shigella,0,0.0
+2023-11-19,Rwanda,Huye,Rotavirus,0,3.69
+2023-11-26,Rwanda,Huye,Cholera,0,3.08
+2023-11-26,Rwanda,Huye,E. coli,28,10.04
+2023-11-26,Rwanda,Huye,Salmonella,0,0.0
+2023-11-26,Rwanda,Huye,Shigella,0,1.7
+2023-11-26,Rwanda,Huye,Rotavirus,0,0.0
+2023-12-03,Rwanda,Huye,Cholera,0,0.0
+2023-12-03,Rwanda,Huye,E. coli,0,0.0
+2023-12-03,Rwanda,Huye,Salmonella,0,5.25
+2023-12-03,Rwanda,Huye,Shigella,0,0.0
+2023-12-03,Rwanda,Huye,Rotavirus,0,2.14
+2023-12-10,Rwanda,Huye,Cholera,0,4.5
+2023-12-10,Rwanda,Huye,E. coli,0,3.67
+2023-12-10,Rwanda,Huye,Salmonella,0,0.0
+2023-12-10,Rwanda,Huye,Shigella,0,0.0
+2023-12-10,Rwanda,Huye,Rotavirus,0,0.18
+2023-12-17,Rwanda,Huye,Cholera,1,1.53
+2023-12-17,Rwanda,Huye,E. coli,3,3.81
+2023-12-17,Rwanda,Huye,Salmonella,1,4.63
+2023-12-17,Rwanda,Huye,Shigella,2,1.55
+2023-12-17,Rwanda,Huye,Rotavirus,1,0.0
+2023-12-24,Rwanda,Huye,Cholera,7,0.0
+2023-12-24,Rwanda,Huye,E. coli,2,0.0
+2023-12-24,Rwanda,Huye,Salmonella,2,0.0
+2023-12-24,Rwanda,Huye,Shigella,1,0.0
+2023-12-24,Rwanda,Huye,Rotavirus,5,0.0
+2023-01-01,Rwanda,Rubavu,Cholera,5,0.0
+2023-01-01,Rwanda,Rubavu,E. coli,9,0.0
+2023-01-01,Rwanda,Rubavu,Salmonella,2,0.0
+2023-01-01,Rwanda,Rubavu,Shigella,4,2.51
+2023-01-01,Rwanda,Rubavu,Rotavirus,1,1.04
+2023-01-08,Rwanda,Rubavu,Cholera,4,3.01
+2023-01-08,Rwanda,Rubavu,E. coli,7,0.0
+2023-01-08,Rwanda,Rubavu,Salmonella,4,0.0
+2023-01-08,Rwanda,Rubavu,Shigella,14,0.0
+2023-01-08,Rwanda,Rubavu,Rotavirus,7,7.26
+2023-01-15,Rwanda,Rubavu,Cholera,5,6.55
+2023-01-15,Rwanda,Rubavu,E. coli,8,0.0
+2023-01-15,Rwanda,Rubavu,Salmonella,4,0.0
+2023-01-15,Rwanda,Rubavu,Shigella,13,0.83
+2023-01-15,Rwanda,Rubavu,Rotavirus,8,0.0
+2023-01-22,Rwanda,Rubavu,Cholera,11,5.94
+2023-01-22,Rwanda,Rubavu,E. coli,12,7.9
+2023-01-22,Rwanda,Rubavu,Salmonella,11,11.99
+2023-01-22,Rwanda,Rubavu,Shigella,51,1.76
+2023-01-22,Rwanda,Rubavu,Rotavirus,10,7.71
+2023-01-29,Rwanda,Rubavu,Cholera,12,0.0
+2023-01-29,Rwanda,Rubavu,E. coli,12,2.21
+2023-01-29,Rwanda,Rubavu,Salmonella,12,15.77
+2023-01-29,Rwanda,Rubavu,Shigella,11,6.98
+2023-01-29,Rwanda,Rubavu,Rotavirus,10,0.0
+2023-02-05,Rwanda,Rubavu,Cholera,15,0.0
+2023-02-05,Rwanda,Rubavu,E. coli,6,0.0
+2023-02-05,Rwanda,Rubavu,Salmonella,11,0.0
+2023-02-05,Rwanda,Rubavu,Shigella,25,16.2
+2023-02-05,Rwanda,Rubavu,Rotavirus,15,5.3
+2023-02-12,Rwanda,Rubavu,Cholera,18,9.65
+2023-02-12,Rwanda,Rubavu,E. coli,8,0.0
+2023-02-12,Rwanda,Rubavu,Salmonella,20,11.7
+2023-02-12,Rwanda,Rubavu,Shigella,12,0.0
+2023-02-12,Rwanda,Rubavu,Rotavirus,13,11.23
+2023-02-19,Rwanda,Rubavu,Cholera,21,7.56
+2023-02-19,Rwanda,Rubavu,E. coli,21,6.44
+2023-02-19,Rwanda,Rubavu,Salmonella,18,0.0
+2023-02-19,Rwanda,Rubavu,Shigella,15,8.75
+2023-02-19,Rwanda,Rubavu,Rotavirus,17,4.8
+2023-02-26,Rwanda,Rubavu,Cholera,13,5.59
+2023-02-26,Rwanda,Rubavu,E. coli,23,0.35
+2023-02-26,Rwanda,Rubavu,Salmonella,18,0.0
+2023-02-26,Rwanda,Rubavu,Shigella,15,1.91
+2023-02-26,Rwanda,Rubavu,Rotavirus,20,0.0
+2023-03-05,Rwanda,Rubavu,Cholera,17,8.08
+2023-03-05,Rwanda,Rubavu,E. coli,22,5.35
+2023-03-05,Rwanda,Rubavu,Salmonella,18,8.11
+2023-03-05,Rwanda,Rubavu,Shigella,23,5.64
+2023-03-05,Rwanda,Rubavu,Rotavirus,17,8.7
+2023-03-12,Rwanda,Rubavu,Cholera,21,7.89
+2023-03-12,Rwanda,Rubavu,E. coli,24,5.35
+2023-03-12,Rwanda,Rubavu,Salmonella,16,0.0
+2023-03-12,Rwanda,Rubavu,Shigella,16,1.23
+2023-03-12,Rwanda,Rubavu,Rotavirus,19,0.0
+2023-03-19,Rwanda,Rubavu,Cholera,21,3.89
+2023-03-19,Rwanda,Rubavu,E. coli,25,13.11
+2023-03-19,Rwanda,Rubavu,Salmonella,18,0.49
+2023-03-19,Rwanda,Rubavu,Shigella,21,3.71
+2023-03-19,Rwanda,Rubavu,Rotavirus,28,3.43
+2023-03-26,Rwanda,Rubavu,Cholera,35,19.34
+2023-03-26,Rwanda,Rubavu,E. coli,12,0.0
+2023-03-26,Rwanda,Rubavu,Salmonella,20,5.46
+2023-03-26,Rwanda,Rubavu,Shigella,25,4.08
+2023-03-26,Rwanda,Rubavu,Rotavirus,17,2.85
+2023-04-02,Rwanda,Rubavu,Cholera,24,2.36
+2023-04-02,Rwanda,Rubavu,E. coli,16,0.0
+2023-04-02,Rwanda,Rubavu,Salmonella,18,4.28
+2023-04-02,Rwanda,Rubavu,Shigella,19,0.0
+2023-04-02,Rwanda,Rubavu,Rotavirus,22,8.06
+2023-04-09,Rwanda,Rubavu,Cholera,22,7.0
+2023-04-09,Rwanda,Rubavu,E. coli,25,14.72
+2023-04-09,Rwanda,Rubavu,Salmonella,16,4.76
+2023-04-09,Rwanda,Rubavu,Shigella,21,4.95
+2023-04-09,Rwanda,Rubavu,Rotavirus,64,15.49
+2023-04-16,Rwanda,Rubavu,Cholera,12,2.66
+2023-04-16,Rwanda,Rubavu,E. coli,15,4.97
+2023-04-16,Rwanda,Rubavu,Salmonella,14,9.86
+2023-04-16,Rwanda,Rubavu,Shigella,18,6.79
+2023-04-16,Rwanda,Rubavu,Rotavirus,17,2.22
+2023-04-23,Rwanda,Rubavu,Cholera,22,0.0
+2023-04-23,Rwanda,Rubavu,E. coli,30,5.22
+2023-04-23,Rwanda,Rubavu,Salmonella,19,8.01
+2023-04-23,Rwanda,Rubavu,Shigella,18,0.51
+2023-04-23,Rwanda,Rubavu,Rotavirus,9,4.04
+2023-04-30,Rwanda,Rubavu,Cholera,15,4.86
+2023-04-30,Rwanda,Rubavu,E. coli,22,0.0
+2023-04-30,Rwanda,Rubavu,Salmonella,20,8.15
+2023-04-30,Rwanda,Rubavu,Shigella,19,6.89
+2023-04-30,Rwanda,Rubavu,Rotavirus,14,1.76
+2023-05-07,Rwanda,Rubavu,Cholera,15,2.23
+2023-05-07,Rwanda,Rubavu,E. coli,19,0.0
+2023-05-07,Rwanda,Rubavu,Salmonella,60,8.75
+2023-05-07,Rwanda,Rubavu,Shigella,16,9.81
+2023-05-07,Rwanda,Rubavu,Rotavirus,27,1.98
+2023-05-14,Rwanda,Rubavu,Cholera,17,7.35
+2023-05-14,Rwanda,Rubavu,E. coli,13,2.67
+2023-05-14,Rwanda,Rubavu,Salmonella,13,0.0
+2023-05-14,Rwanda,Rubavu,Shigella,12,2.93
+2023-05-14,Rwanda,Rubavu,Rotavirus,15,5.92
+2023-05-21,Rwanda,Rubavu,Cholera,18,2.65
+2023-05-21,Rwanda,Rubavu,E. coli,18,8.21
+2023-05-21,Rwanda,Rubavu,Salmonella,11,6.63
+2023-05-21,Rwanda,Rubavu,Shigella,11,0.1
+2023-05-21,Rwanda,Rubavu,Rotavirus,23,6.78
+2023-05-28,Rwanda,Rubavu,Cholera,12,4.42
+2023-05-28,Rwanda,Rubavu,E. coli,15,0.0
+2023-05-28,Rwanda,Rubavu,Salmonella,13,4.2
+2023-05-28,Rwanda,Rubavu,Shigella,17,0.02
+2023-05-28,Rwanda,Rubavu,Rotavirus,25,5.17
+2023-06-04,Rwanda,Rubavu,Cholera,10,5.4
+2023-06-04,Rwanda,Rubavu,E. coli,11,0.0
+2023-06-04,Rwanda,Rubavu,Salmonella,14,6.72
+2023-06-04,Rwanda,Rubavu,Shigella,15,1.74
+2023-06-04,Rwanda,Rubavu,Rotavirus,14,0.0
+2023-06-11,Rwanda,Rubavu,Cholera,42,11.01
+2023-06-11,Rwanda,Rubavu,E. coli,10,0.0
+2023-06-11,Rwanda,Rubavu,Salmonella,11,3.85
+2023-06-11,Rwanda,Rubavu,Shigella,10,0.0
+2023-06-11,Rwanda,Rubavu,Rotavirus,6,5.91
+2023-06-18,Rwanda,Rubavu,Cholera,8,0.0
+2023-06-18,Rwanda,Rubavu,E. coli,11,3.7
+2023-06-18,Rwanda,Rubavu,Salmonella,12,0.0
+2023-06-18,Rwanda,Rubavu,Shigella,4,4.21
+2023-06-18,Rwanda,Rubavu,Rotavirus,9,2.62
+2023-06-25,Rwanda,Rubavu,Cholera,10,1.8
+2023-06-25,Rwanda,Rubavu,E. coli,7,2.27
+2023-06-25,Rwanda,Rubavu,Salmonella,9,0.0
+2023-06-25,Rwanda,Rubavu,Shigella,8,5.49
+2023-06-25,Rwanda,Rubavu,Rotavirus,1,12.82
+2023-07-02,Rwanda,Rubavu,Cholera,4,3.79
+2023-07-02,Rwanda,Rubavu,E. coli,3,7.1
+2023-07-02,Rwanda,Rubavu,Salmonella,7,0.0
+2023-07-02,Rwanda,Rubavu,Shigella,8,7.46
+2023-07-02,Rwanda,Rubavu,Rotavirus,5,0.63
+2023-07-09,Rwanda,Rubavu,Cholera,0,0.0
+2023-07-09,Rwanda,Rubavu,E. coli,3,0.0
+2023-07-09,Rwanda,Rubavu,Salmonella,4,7.17
+2023-07-09,Rwanda,Rubavu,Shigella,4,0.0
+2023-07-09,Rwanda,Rubavu,Rotavirus,5,0.0
+2023-07-16,Rwanda,Rubavu,Cholera,2,16.7
+2023-07-16,Rwanda,Rubavu,E. coli,0,0.0
+2023-07-16,Rwanda,Rubavu,Salmonella,1,0.0
+2023-07-16,Rwanda,Rubavu,Shigella,1,2.34
+2023-07-16,Rwanda,Rubavu,Rotavirus,0,4.89
+2023-07-23,Rwanda,Rubavu,Cholera,0,0.0
+2023-07-23,Rwanda,Rubavu,E. coli,0,7.44
+2023-07-23,Rwanda,Rubavu,Salmonella,0,0.43
+2023-07-23,Rwanda,Rubavu,Shigella,0,4.04
+2023-07-23,Rwanda,Rubavu,Rotavirus,0,2.73
+2023-07-30,Rwanda,Rubavu,Cholera,0,9.35
+2023-07-30,Rwanda,Rubavu,E. coli,0,0.0
+2023-07-30,Rwanda,Rubavu,Salmonella,0,0.0
+2023-07-30,Rwanda,Rubavu,Shigella,0,2.85
+2023-07-30,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-08-06,Rwanda,Rubavu,Cholera,0,7.25
+2023-08-06,Rwanda,Rubavu,E. coli,0,3.19
+2023-08-06,Rwanda,Rubavu,Salmonella,0,0.0
+2023-08-06,Rwanda,Rubavu,Shigella,0,1.54
+2023-08-06,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-08-13,Rwanda,Rubavu,Cholera,0,0.0
+2023-08-13,Rwanda,Rubavu,E. coli,0,0.0
+2023-08-13,Rwanda,Rubavu,Salmonella,0,0.0
+2023-08-13,Rwanda,Rubavu,Shigella,0,0.0
+2023-08-13,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-08-20,Rwanda,Rubavu,Cholera,0,0.0
+2023-08-20,Rwanda,Rubavu,E. coli,0,0.49
+2023-08-20,Rwanda,Rubavu,Salmonella,0,5.6
+2023-08-20,Rwanda,Rubavu,Shigella,0,0.0
+2023-08-20,Rwanda,Rubavu,Rotavirus,0,2.75
+2023-08-27,Rwanda,Rubavu,Cholera,0,5.59
+2023-08-27,Rwanda,Rubavu,E. coli,0,9.17
+2023-08-27,Rwanda,Rubavu,Salmonella,0,0.0
+2023-08-27,Rwanda,Rubavu,Shigella,0,0.0
+2023-08-27,Rwanda,Rubavu,Rotavirus,0,5.99
+2023-09-03,Rwanda,Rubavu,Cholera,0,0.0
+2023-09-03,Rwanda,Rubavu,E. coli,28,0.0
+2023-09-03,Rwanda,Rubavu,Salmonella,0,0.0
+2023-09-03,Rwanda,Rubavu,Shigella,0,0.0
+2023-09-03,Rwanda,Rubavu,Rotavirus,0,2.67
+2023-09-10,Rwanda,Rubavu,Cholera,0,1.64
+2023-09-10,Rwanda,Rubavu,E. coli,0,4.62
+2023-09-10,Rwanda,Rubavu,Salmonella,0,0.0
+2023-09-10,Rwanda,Rubavu,Shigella,0,1.28
+2023-09-10,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-09-17,Rwanda,Rubavu,Cholera,0,3.26
+2023-09-17,Rwanda,Rubavu,E. coli,0,0.19
+2023-09-17,Rwanda,Rubavu,Salmonella,0,0.0
+2023-09-17,Rwanda,Rubavu,Shigella,0,13.1
+2023-09-17,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-09-24,Rwanda,Rubavu,Cholera,0,1.4
+2023-09-24,Rwanda,Rubavu,E. coli,0,8.79
+2023-09-24,Rwanda,Rubavu,Salmonella,0,0.0
+2023-09-24,Rwanda,Rubavu,Shigella,0,6.12
+2023-09-24,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-10-01,Rwanda,Rubavu,Cholera,0,0.0
+2023-10-01,Rwanda,Rubavu,E. coli,0,0.0
+2023-10-01,Rwanda,Rubavu,Salmonella,0,0.0
+2023-10-01,Rwanda,Rubavu,Shigella,0,0.0
+2023-10-01,Rwanda,Rubavu,Rotavirus,0,0.29
+2023-10-08,Rwanda,Rubavu,Cholera,0,4.24
+2023-10-08,Rwanda,Rubavu,E. coli,47,0.0
+2023-10-08,Rwanda,Rubavu,Salmonella,0,0.0
+2023-10-08,Rwanda,Rubavu,Shigella,0,1.78
+2023-10-08,Rwanda,Rubavu,Rotavirus,39,2.41
+2023-10-15,Rwanda,Rubavu,Cholera,0,0.0
+2023-10-15,Rwanda,Rubavu,E. coli,0,0.0
+2023-10-15,Rwanda,Rubavu,Salmonella,0,0.0
+2023-10-15,Rwanda,Rubavu,Shigella,0,6.45
+2023-10-15,Rwanda,Rubavu,Rotavirus,0,4.84
+2023-10-22,Rwanda,Rubavu,Cholera,0,0.0
+2023-10-22,Rwanda,Rubavu,E. coli,0,10.55
+2023-10-22,Rwanda,Rubavu,Salmonella,0,1.34
+2023-10-22,Rwanda,Rubavu,Shigella,0,7.57
+2023-10-22,Rwanda,Rubavu,Rotavirus,0,6.98
+2023-10-29,Rwanda,Rubavu,Cholera,0,2.07
+2023-10-29,Rwanda,Rubavu,E. coli,0,0.0
+2023-10-29,Rwanda,Rubavu,Salmonella,0,0.29
+2023-10-29,Rwanda,Rubavu,Shigella,0,0.0
+2023-10-29,Rwanda,Rubavu,Rotavirus,0,2.64
+2023-11-05,Rwanda,Rubavu,Cholera,0,1.78
+2023-11-05,Rwanda,Rubavu,E. coli,0,1.09
+2023-11-05,Rwanda,Rubavu,Salmonella,0,3.92
+2023-11-05,Rwanda,Rubavu,Shigella,0,1.55
+2023-11-05,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-11-12,Rwanda,Rubavu,Cholera,0,0.0
+2023-11-12,Rwanda,Rubavu,E. coli,0,0.0
+2023-11-12,Rwanda,Rubavu,Salmonella,0,0.0
+2023-11-12,Rwanda,Rubavu,Shigella,0,4.25
+2023-11-12,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-11-19,Rwanda,Rubavu,Cholera,0,1.11
+2023-11-19,Rwanda,Rubavu,E. coli,0,0.0
+2023-11-19,Rwanda,Rubavu,Salmonella,0,5.54
+2023-11-19,Rwanda,Rubavu,Shigella,0,2.98
+2023-11-19,Rwanda,Rubavu,Rotavirus,0,0.49
+2023-11-26,Rwanda,Rubavu,Cholera,0,0.0
+2023-11-26,Rwanda,Rubavu,E. coli,0,0.0
+2023-11-26,Rwanda,Rubavu,Salmonella,0,0.0
+2023-11-26,Rwanda,Rubavu,Shigella,0,0.0
+2023-11-26,Rwanda,Rubavu,Rotavirus,0,3.09
+2023-12-03,Rwanda,Rubavu,Cholera,0,3.56
+2023-12-03,Rwanda,Rubavu,E. coli,0,3.8
+2023-12-03,Rwanda,Rubavu,Salmonella,0,0.0
+2023-12-03,Rwanda,Rubavu,Shigella,0,7.17
+2023-12-03,Rwanda,Rubavu,Rotavirus,0,0.0
+2023-12-10,Rwanda,Rubavu,Cholera,0,2.46
+2023-12-10,Rwanda,Rubavu,E. coli,0,0.0
+2023-12-10,Rwanda,Rubavu,Salmonella,0,5.82
+2023-12-10,Rwanda,Rubavu,Shigella,0,3.35
+2023-12-10,Rwanda,Rubavu,Rotavirus,25,3.54
+2023-12-17,Rwanda,Rubavu,Cholera,0,2.96
+2023-12-17,Rwanda,Rubavu,E. coli,6,5.68
+2023-12-17,Rwanda,Rubavu,Salmonella,1,0.0
+2023-12-17,Rwanda,Rubavu,Shigella,0,5.5
+2023-12-17,Rwanda,Rubavu,Rotavirus,1,1.4
+2023-12-24,Rwanda,Rubavu,Cholera,1,2.62
+2023-12-24,Rwanda,Rubavu,E. coli,0,0.0
+2023-12-24,Rwanda,Rubavu,Salmonella,1,0.0
+2023-12-24,Rwanda,Rubavu,Shigella,3,0.0
+2023-12-24,Rwanda,Rubavu,Rotavirus,4,5.59
+2023-01-01,Uganda,Kampala,Cholera,8,0.0
+2023-01-01,Uganda,Kampala,E. coli,6,1.97
+2023-01-01,Uganda,Kampala,Salmonella,4,0.0
+2023-01-01,Uganda,Kampala,Shigella,9,0.0
+2023-01-01,Uganda,Kampala,Rotavirus,3,0.0
+2023-01-08,Uganda,Kampala,Cholera,9,4.98
+2023-01-08,Uganda,Kampala,E. coli,9,4.27
+2023-01-08,Uganda,Kampala,Salmonella,6,0.0
+2023-01-08,Uganda,Kampala,Shigella,4,3.52
+2023-01-08,Uganda,Kampala,Rotavirus,4,0.0
+2023-01-15,Uganda,Kampala,Cholera,9,1.42
+2023-01-15,Uganda,Kampala,E. coli,4,0.0
+2023-01-15,Uganda,Kampala,Salmonella,11,3.07
+2023-01-15,Uganda,Kampala,Shigella,9,0.0
+2023-01-15,Uganda,Kampala,Rotavirus,15,1.92
+2023-01-22,Uganda,Kampala,Cholera,14,3.95
+2023-01-22,Uganda,Kampala,E. coli,15,0.0
+2023-01-22,Uganda,Kampala,Salmonella,13,7.26
+2023-01-22,Uganda,Kampala,Shigella,15,0.0
+2023-01-22,Uganda,Kampala,Rotavirus,8,5.78
+2023-01-29,Uganda,Kampala,Cholera,13,0.0
+2023-01-29,Uganda,Kampala,E. coli,11,2.85
+2023-01-29,Uganda,Kampala,Salmonella,12,3.11
+2023-01-29,Uganda,Kampala,Shigella,18,6.47
+2023-01-29,Uganda,Kampala,Rotavirus,14,12.24
+2023-02-05,Uganda,Kampala,Cholera,21,4.8
+2023-02-05,Uganda,Kampala,E. coli,13,3.26
+2023-02-05,Uganda,Kampala,Salmonella,10,0.0
+2023-02-05,Uganda,Kampala,Shigella,17,7.01
+2023-02-05,Uganda,Kampala,Rotavirus,10,0.0
+2023-02-12,Uganda,Kampala,Cholera,17,3.9
+2023-02-12,Uganda,Kampala,E. coli,17,0.18
+2023-02-12,Uganda,Kampala,Salmonella,22,2.24
+2023-02-12,Uganda,Kampala,Shigella,9,9.62
+2023-02-12,Uganda,Kampala,Rotavirus,12,3.0
+2023-02-19,Uganda,Kampala,Cholera,17,1.39
+2023-02-19,Uganda,Kampala,E. coli,14,0.0
+2023-02-19,Uganda,Kampala,Salmonella,23,5.06
+2023-02-19,Uganda,Kampala,Shigella,18,10.55
+2023-02-19,Uganda,Kampala,Rotavirus,13,1.08
+2023-02-26,Uganda,Kampala,Cholera,42,11.6
+2023-02-26,Uganda,Kampala,E. coli,9,0.85
+2023-02-26,Uganda,Kampala,Salmonella,62,13.72
+2023-02-26,Uganda,Kampala,Shigella,14,6.43
+2023-02-26,Uganda,Kampala,Rotavirus,21,8.4
+2023-03-05,Uganda,Kampala,Cholera,24,0.0
+2023-03-05,Uganda,Kampala,E. coli,15,11.35
+2023-03-05,Uganda,Kampala,Salmonella,27,3.22
+2023-03-05,Uganda,Kampala,Shigella,23,6.34
+2023-03-05,Uganda,Kampala,Rotavirus,28,1.94
+2023-03-12,Uganda,Kampala,Cholera,21,2.14
+2023-03-12,Uganda,Kampala,E. coli,15,2.35
+2023-03-12,Uganda,Kampala,Salmonella,19,7.12
+2023-03-12,Uganda,Kampala,Shigella,12,2.85
+2023-03-12,Uganda,Kampala,Rotavirus,12,3.27
+2023-03-19,Uganda,Kampala,Cholera,16,0.0
+2023-03-19,Uganda,Kampala,E. coli,22,6.57
+2023-03-19,Uganda,Kampala,Salmonella,20,2.39
+2023-03-19,Uganda,Kampala,Shigella,24,1.93
+2023-03-19,Uganda,Kampala,Rotavirus,13,0.5
+2023-03-26,Uganda,Kampala,Cholera,21,5.57
+2023-03-26,Uganda,Kampala,E. coli,24,7.02
+2023-03-26,Uganda,Kampala,Salmonella,21,7.69
+2023-03-26,Uganda,Kampala,Shigella,21,3.0
+2023-03-26,Uganda,Kampala,Rotavirus,21,0.0
+2023-04-02,Uganda,Kampala,Cholera,12,0.0
+2023-04-02,Uganda,Kampala,E. coli,29,11.74
+2023-04-02,Uganda,Kampala,Salmonella,18,11.28
+2023-04-02,Uganda,Kampala,Shigella,16,8.36
+2023-04-02,Uganda,Kampala,Rotavirus,16,9.93
+2023-04-09,Uganda,Kampala,Cholera,10,9.98
+2023-04-09,Uganda,Kampala,E. coli,20,2.22
+2023-04-09,Uganda,Kampala,Salmonella,16,1.01
+2023-04-09,Uganda,Kampala,Shigella,20,1.31
+2023-04-09,Uganda,Kampala,Rotavirus,16,2.95
+2023-04-16,Uganda,Kampala,Cholera,18,0.4
+2023-04-16,Uganda,Kampala,E. coli,12,0.0
+2023-04-16,Uganda,Kampala,Salmonella,19,10.55
+2023-04-16,Uganda,Kampala,Shigella,16,0.0
+2023-04-16,Uganda,Kampala,Rotavirus,16,3.3
+2023-04-23,Uganda,Kampala,Cholera,26,11.45
+2023-04-23,Uganda,Kampala,E. coli,22,5.53
+2023-04-23,Uganda,Kampala,Salmonella,15,1.81
+2023-04-23,Uganda,Kampala,Shigella,13,9.03
+2023-04-23,Uganda,Kampala,Rotavirus,49,16.21
+2023-04-30,Uganda,Kampala,Cholera,14,8.24
+2023-04-30,Uganda,Kampala,E. coli,16,1.56
+2023-04-30,Uganda,Kampala,Salmonella,17,1.71
+2023-04-30,Uganda,Kampala,Shigella,11,0.0
+2023-04-30,Uganda,Kampala,Rotavirus,15,4.72
+2023-05-07,Uganda,Kampala,Cholera,31,3.23
+2023-05-07,Uganda,Kampala,E. coli,16,2.67
+2023-05-07,Uganda,Kampala,Salmonella,15,4.72
+2023-05-07,Uganda,Kampala,Shigella,18,3.23
+2023-05-07,Uganda,Kampala,Rotavirus,16,9.25
+2023-05-14,Uganda,Kampala,Cholera,20,2.65
+2023-05-14,Uganda,Kampala,E. coli,10,5.39
+2023-05-14,Uganda,Kampala,Salmonella,15,0.0
+2023-05-14,Uganda,Kampala,Shigella,17,6.44
+2023-05-14,Uganda,Kampala,Rotavirus,11,5.77
+2023-05-21,Uganda,Kampala,Cholera,13,10.44
+2023-05-21,Uganda,Kampala,E. coli,11,0.0
+2023-05-21,Uganda,Kampala,Salmonella,12,6.21
+2023-05-21,Uganda,Kampala,Shigella,19,0.0
+2023-05-21,Uganda,Kampala,Rotavirus,14,9.81
+2023-05-28,Uganda,Kampala,Cholera,40,2.29
+2023-05-28,Uganda,Kampala,E. coli,14,9.0
+2023-05-28,Uganda,Kampala,Salmonella,35,3.49
+2023-05-28,Uganda,Kampala,Shigella,13,2.65
+2023-05-28,Uganda,Kampala,Rotavirus,15,13.52
+2023-06-04,Uganda,Kampala,Cholera,9,4.58
+2023-06-04,Uganda,Kampala,E. coli,9,13.95
+2023-06-04,Uganda,Kampala,Salmonella,8,3.9
+2023-06-04,Uganda,Kampala,Shigella,12,8.95
+2023-06-04,Uganda,Kampala,Rotavirus,7,0.0
+2023-06-11,Uganda,Kampala,Cholera,17,1.68
+2023-06-11,Uganda,Kampala,E. coli,12,0.6
+2023-06-11,Uganda,Kampala,Salmonella,57,10.03
+2023-06-11,Uganda,Kampala,Shigella,11,2.59
+2023-06-11,Uganda,Kampala,Rotavirus,10,0.48
+2023-06-18,Uganda,Kampala,Cholera,8,7.68
+2023-06-18,Uganda,Kampala,E. coli,14,3.64
+2023-06-18,Uganda,Kampala,Salmonella,5,0.58
+2023-06-18,Uganda,Kampala,Shigella,7,0.0
+2023-06-18,Uganda,Kampala,Rotavirus,12,0.0
+2023-06-25,Uganda,Kampala,Cholera,6,0.28
+2023-06-25,Uganda,Kampala,E. coli,8,5.0
+2023-06-25,Uganda,Kampala,Salmonella,8,7.08
+2023-06-25,Uganda,Kampala,Shigella,7,1.6
+2023-06-25,Uganda,Kampala,Rotavirus,7,5.18
+2023-07-02,Uganda,Kampala,Cholera,7,0.0
+2023-07-02,Uganda,Kampala,E. coli,8,5.96
+2023-07-02,Uganda,Kampala,Salmonella,4,0.0
+2023-07-02,Uganda,Kampala,Shigella,5,0.99
+2023-07-02,Uganda,Kampala,Rotavirus,6,0.0
+2023-07-09,Uganda,Kampala,Cholera,3,0.0
+2023-07-09,Uganda,Kampala,E. coli,1,0.0
+2023-07-09,Uganda,Kampala,Salmonella,1,3.65
+2023-07-09,Uganda,Kampala,Shigella,1,10.14
+2023-07-09,Uganda,Kampala,Rotavirus,2,2.07
+2023-07-16,Uganda,Kampala,Cholera,2,0.0
+2023-07-16,Uganda,Kampala,E. coli,1,1.5
+2023-07-16,Uganda,Kampala,Salmonella,2,0.0
+2023-07-16,Uganda,Kampala,Shigella,46,6.14
+2023-07-16,Uganda,Kampala,Rotavirus,0,0.0
+2023-07-23,Uganda,Kampala,Cholera,0,0.0
+2023-07-23,Uganda,Kampala,E. coli,0,0.93
+2023-07-23,Uganda,Kampala,Salmonella,0,2.36
+2023-07-23,Uganda,Kampala,Shigella,0,0.0
+2023-07-23,Uganda,Kampala,Rotavirus,0,4.22
+2023-07-30,Uganda,Kampala,Cholera,0,0.0
+2023-07-30,Uganda,Kampala,E. coli,0,7.65
+2023-07-30,Uganda,Kampala,Salmonella,0,0.0
+2023-07-30,Uganda,Kampala,Shigella,0,4.04
+2023-07-30,Uganda,Kampala,Rotavirus,0,1.63
+2023-08-06,Uganda,Kampala,Cholera,0,6.04
+2023-08-06,Uganda,Kampala,E. coli,0,6.35
+2023-08-06,Uganda,Kampala,Salmonella,0,1.06
+2023-08-06,Uganda,Kampala,Shigella,0,0.0
+2023-08-06,Uganda,Kampala,Rotavirus,33,15.33
+2023-08-13,Uganda,Kampala,Cholera,0,0.0
+2023-08-13,Uganda,Kampala,E. coli,0,0.0
+2023-08-13,Uganda,Kampala,Salmonella,0,2.17
+2023-08-13,Uganda,Kampala,Shigella,0,2.14
+2023-08-13,Uganda,Kampala,Rotavirus,0,0.79
+2023-08-20,Uganda,Kampala,Cholera,0,6.16
+2023-08-20,Uganda,Kampala,E. coli,0,0.0
+2023-08-20,Uganda,Kampala,Salmonella,0,4.07
+2023-08-20,Uganda,Kampala,Shigella,0,0.0
+2023-08-20,Uganda,Kampala,Rotavirus,0,2.88
+2023-08-27,Uganda,Kampala,Cholera,0,5.28
+2023-08-27,Uganda,Kampala,E. coli,28,19.35
+2023-08-27,Uganda,Kampala,Salmonella,0,0.88
+2023-08-27,Uganda,Kampala,Shigella,0,0.0
+2023-08-27,Uganda,Kampala,Rotavirus,0,0.0
+2023-09-03,Uganda,Kampala,Cholera,0,0.0
+2023-09-03,Uganda,Kampala,E. coli,0,0.26
+2023-09-03,Uganda,Kampala,Salmonella,0,0.0
+2023-09-03,Uganda,Kampala,Shigella,0,4.89
+2023-09-03,Uganda,Kampala,Rotavirus,0,0.0
+2023-09-10,Uganda,Kampala,Cholera,0,5.77
+2023-09-10,Uganda,Kampala,E. coli,0,6.93
+2023-09-10,Uganda,Kampala,Salmonella,0,0.0
+2023-09-10,Uganda,Kampala,Shigella,0,0.0
+2023-09-10,Uganda,Kampala,Rotavirus,0,7.65
+2023-09-17,Uganda,Kampala,Cholera,0,3.32
+2023-09-17,Uganda,Kampala,E. coli,0,0.0
+2023-09-17,Uganda,Kampala,Salmonella,0,0.0
+2023-09-17,Uganda,Kampala,Shigella,0,2.56
+2023-09-17,Uganda,Kampala,Rotavirus,0,9.68
+2023-09-24,Uganda,Kampala,Cholera,0,0.0
+2023-09-24,Uganda,Kampala,E. coli,0,0.0
+2023-09-24,Uganda,Kampala,Salmonella,0,0.23
+2023-09-24,Uganda,Kampala,Shigella,0,0.26
+2023-09-24,Uganda,Kampala,Rotavirus,0,1.61
+2023-10-01,Uganda,Kampala,Cholera,0,0.0
+2023-10-01,Uganda,Kampala,E. coli,0,6.1
+2023-10-01,Uganda,Kampala,Salmonella,0,0.0
+2023-10-01,Uganda,Kampala,Shigella,0,2.17
+2023-10-01,Uganda,Kampala,Rotavirus,0,2.38
+2023-10-08,Uganda,Kampala,Cholera,0,0.0
+2023-10-08,Uganda,Kampala,E. coli,0,2.12
+2023-10-08,Uganda,Kampala,Salmonella,0,2.51
+2023-10-08,Uganda,Kampala,Shigella,35,0.0
+2023-10-08,Uganda,Kampala,Rotavirus,0,0.0
+2023-10-15,Uganda,Kampala,Cholera,0,9.42
+2023-10-15,Uganda,Kampala,E. coli,0,0.0
+2023-10-15,Uganda,Kampala,Salmonella,0,0.0
+2023-10-15,Uganda,Kampala,Shigella,0,3.26
+2023-10-15,Uganda,Kampala,Rotavirus,0,0.66
+2023-10-22,Uganda,Kampala,Cholera,0,0.0
+2023-10-22,Uganda,Kampala,E. coli,0,2.86
+2023-10-22,Uganda,Kampala,Salmonella,0,0.0
+2023-10-22,Uganda,Kampala,Shigella,0,0.0
+2023-10-22,Uganda,Kampala,Rotavirus,0,5.92
+2023-10-29,Uganda,Kampala,Cholera,0,0.0
+2023-10-29,Uganda,Kampala,E. coli,0,0.0
+2023-10-29,Uganda,Kampala,Salmonella,0,0.2
+2023-10-29,Uganda,Kampala,Shigella,0,0.0
+2023-10-29,Uganda,Kampala,Rotavirus,0,2.84
+2023-11-05,Uganda,Kampala,Cholera,0,0.0
+2023-11-05,Uganda,Kampala,E. coli,0,1.6
+2023-11-05,Uganda,Kampala,Salmonella,0,0.0
+2023-11-05,Uganda,Kampala,Shigella,0,0.56
+2023-11-05,Uganda,Kampala,Rotavirus,0,0.0
+2023-11-12,Uganda,Kampala,Cholera,0,0.0
+2023-11-12,Uganda,Kampala,E. coli,0,0.0
+2023-11-12,Uganda,Kampala,Salmonella,0,0.0
+2023-11-12,Uganda,Kampala,Shigella,0,5.1
+2023-11-12,Uganda,Kampala,Rotavirus,0,0.0
+2023-11-19,Uganda,Kampala,Cholera,0,0.0
+2023-11-19,Uganda,Kampala,E. coli,0,0.0
+2023-11-19,Uganda,Kampala,Salmonella,0,2.59
+2023-11-19,Uganda,Kampala,Shigella,0,0.0
+2023-11-19,Uganda,Kampala,Rotavirus,0,8.01
+2023-11-26,Uganda,Kampala,Cholera,0,8.4
+2023-11-26,Uganda,Kampala,E. coli,0,2.8
+2023-11-26,Uganda,Kampala,Salmonella,0,0.0
+2023-11-26,Uganda,Kampala,Shigella,0,0.0
+2023-11-26,Uganda,Kampala,Rotavirus,0,0.21
+2023-12-03,Uganda,Kampala,Cholera,0,4.99
+2023-12-03,Uganda,Kampala,E. coli,0,0.0
+2023-12-03,Uganda,Kampala,Salmonella,0,0.0
+2023-12-03,Uganda,Kampala,Shigella,0,0.0
+2023-12-03,Uganda,Kampala,Rotavirus,0,5.32
+2023-12-10,Uganda,Kampala,Cholera,0,2.81
+2023-12-10,Uganda,Kampala,E. coli,0,0.0
+2023-12-10,Uganda,Kampala,Salmonella,0,0.0
+2023-12-10,Uganda,Kampala,Shigella,0,0.0
+2023-12-10,Uganda,Kampala,Rotavirus,0,0.0
+2023-12-17,Uganda,Kampala,Cholera,0,2.38
+2023-12-17,Uganda,Kampala,E. coli,2,1.39
+2023-12-17,Uganda,Kampala,Salmonella,2,0.0
+2023-12-17,Uganda,Kampala,Shigella,45,8.23
+2023-12-17,Uganda,Kampala,Rotavirus,1,0.0
+2023-12-24,Uganda,Kampala,Cholera,4,0.0
+2023-12-24,Uganda,Kampala,E. coli,32,5.06
+2023-12-24,Uganda,Kampala,Salmonella,2,2.72
+2023-12-24,Uganda,Kampala,Shigella,6,0.0
+2023-12-24,Uganda,Kampala,Rotavirus,2,0.0
+2023-01-01,Uganda,Gulu,Cholera,2,1.65
+2023-01-01,Uganda,Gulu,E. coli,8,0.0
+2023-01-01,Uganda,Gulu,Salmonella,6,3.9
+2023-01-01,Uganda,Gulu,Shigella,9,6.69
+2023-01-01,Uganda,Gulu,Rotavirus,4,0.0
+2023-01-08,Uganda,Gulu,Cholera,55,4.99
+2023-01-08,Uganda,Gulu,E. coli,51,11.14
+2023-01-08,Uganda,Gulu,Salmonella,3,0.0
+2023-01-08,Uganda,Gulu,Shigella,6,7.41
+2023-01-08,Uganda,Gulu,Rotavirus,5,0.0
+2023-01-15,Uganda,Gulu,Cholera,5,0.0
+2023-01-15,Uganda,Gulu,E. coli,12,15.64
+2023-01-15,Uganda,Gulu,Salmonella,7,5.34
+2023-01-15,Uganda,Gulu,Shigella,9,0.0
+2023-01-15,Uganda,Gulu,Rotavirus,13,3.18
+2023-01-22,Uganda,Gulu,Cholera,7,0.0
+2023-01-22,Uganda,Gulu,E. coli,7,2.72
+2023-01-22,Uganda,Gulu,Salmonella,14,11.26
+2023-01-22,Uganda,Gulu,Shigella,8,1.14
+2023-01-22,Uganda,Gulu,Rotavirus,13,0.0
+2023-01-29,Uganda,Gulu,Cholera,12,2.45
+2023-01-29,Uganda,Gulu,E. coli,45,15.29
+2023-01-29,Uganda,Gulu,Salmonella,12,0.0
+2023-01-29,Uganda,Gulu,Shigella,12,0.0
+2023-01-29,Uganda,Gulu,Rotavirus,13,1.5
+2023-02-05,Uganda,Gulu,Cholera,12,0.0
+2023-02-05,Uganda,Gulu,E. coli,12,5.19
+2023-02-05,Uganda,Gulu,Salmonella,9,1.13
+2023-02-05,Uganda,Gulu,Shigella,17,1.5
+2023-02-05,Uganda,Gulu,Rotavirus,19,2.15
+2023-02-12,Uganda,Gulu,Cholera,8,0.0
+2023-02-12,Uganda,Gulu,E. coli,10,8.6
+2023-02-12,Uganda,Gulu,Salmonella,13,0.0
+2023-02-12,Uganda,Gulu,Shigella,17,0.0
+2023-02-12,Uganda,Gulu,Rotavirus,13,9.65
+2023-02-19,Uganda,Gulu,Cholera,12,1.67
+2023-02-19,Uganda,Gulu,E. coli,14,0.0
+2023-02-19,Uganda,Gulu,Salmonella,8,7.34
+2023-02-19,Uganda,Gulu,Shigella,15,0.32
+2023-02-19,Uganda,Gulu,Rotavirus,23,3.28
+2023-02-26,Uganda,Gulu,Cholera,12,5.71
+2023-02-26,Uganda,Gulu,E. coli,18,0.0
+2023-02-26,Uganda,Gulu,Salmonella,18,2.37
+2023-02-26,Uganda,Gulu,Shigella,16,6.18
+2023-02-26,Uganda,Gulu,Rotavirus,8,5.32
+2023-03-05,Uganda,Gulu,Cholera,26,1.04
+2023-03-05,Uganda,Gulu,E. coli,29,9.29
+2023-03-05,Uganda,Gulu,Salmonella,19,2.54
+2023-03-05,Uganda,Gulu,Shigella,16,9.17
+2023-03-05,Uganda,Gulu,Rotavirus,27,2.62
+2023-03-12,Uganda,Gulu,Cholera,18,0.83
+2023-03-12,Uganda,Gulu,E. coli,22,14.1
+2023-03-12,Uganda,Gulu,Salmonella,14,0.0
+2023-03-12,Uganda,Gulu,Shigella,22,0.0
+2023-03-12,Uganda,Gulu,Rotavirus,30,6.3
+2023-03-19,Uganda,Gulu,Cholera,22,9.15
+2023-03-19,Uganda,Gulu,E. coli,13,6.36
+2023-03-19,Uganda,Gulu,Salmonella,25,0.0
+2023-03-19,Uganda,Gulu,Shigella,23,0.0
+2023-03-19,Uganda,Gulu,Rotavirus,21,8.52
+2023-03-26,Uganda,Gulu,Cholera,14,0.0
+2023-03-26,Uganda,Gulu,E. coli,19,11.33
+2023-03-26,Uganda,Gulu,Salmonella,26,3.56
+2023-03-26,Uganda,Gulu,Shigella,19,5.6
+2023-03-26,Uganda,Gulu,Rotavirus,20,7.15
+2023-04-02,Uganda,Gulu,Cholera,26,0.0
+2023-04-02,Uganda,Gulu,E. coli,30,0.0
+2023-04-02,Uganda,Gulu,Salmonella,14,3.77
+2023-04-02,Uganda,Gulu,Shigella,21,11.49
+2023-04-02,Uganda,Gulu,Rotavirus,28,0.0
+2023-04-09,Uganda,Gulu,Cholera,15,1.75
+2023-04-09,Uganda,Gulu,E. coli,20,16.51
+2023-04-09,Uganda,Gulu,Salmonella,15,0.0
+2023-04-09,Uganda,Gulu,Shigella,17,13.06
+2023-04-09,Uganda,Gulu,Rotavirus,20,3.85
+2023-04-16,Uganda,Gulu,Cholera,23,1.87
+2023-04-16,Uganda,Gulu,E. coli,21,0.4
+2023-04-16,Uganda,Gulu,Salmonella,13,1.97
+2023-04-16,Uganda,Gulu,Shigella,15,3.59
+2023-04-16,Uganda,Gulu,Rotavirus,13,0.0
+2023-04-23,Uganda,Gulu,Cholera,24,10.69
+2023-04-23,Uganda,Gulu,E. coli,16,2.14
+2023-04-23,Uganda,Gulu,Salmonella,18,0.0
+2023-04-23,Uganda,Gulu,Shigella,12,0.0
+2023-04-23,Uganda,Gulu,Rotavirus,20,0.36
+2023-04-30,Uganda,Gulu,Cholera,18,14.34
+2023-04-30,Uganda,Gulu,E. coli,16,7.57
+2023-04-30,Uganda,Gulu,Salmonella,20,3.85
+2023-04-30,Uganda,Gulu,Shigella,16,0.0
+2023-04-30,Uganda,Gulu,Rotavirus,17,3.57
+2023-05-07,Uganda,Gulu,Cholera,18,1.09
+2023-05-07,Uganda,Gulu,E. coli,23,11.73
+2023-05-07,Uganda,Gulu,Salmonella,19,7.62
+2023-05-07,Uganda,Gulu,Shigella,15,8.64
+2023-05-07,Uganda,Gulu,Rotavirus,17,2.94
+2023-05-14,Uganda,Gulu,Cholera,43,7.37
+2023-05-14,Uganda,Gulu,E. coli,14,0.0
+2023-05-14,Uganda,Gulu,Salmonella,18,4.31
+2023-05-14,Uganda,Gulu,Shigella,30,12.83
+2023-05-14,Uganda,Gulu,Rotavirus,10,1.74
+2023-05-21,Uganda,Gulu,Cholera,11,0.0
+2023-05-21,Uganda,Gulu,E. coli,14,0.0
+2023-05-21,Uganda,Gulu,Salmonella,6,4.46
+2023-05-21,Uganda,Gulu,Shigella,18,0.0
+2023-05-21,Uganda,Gulu,Rotavirus,12,0.5
+2023-05-28,Uganda,Gulu,Cholera,10,0.0
+2023-05-28,Uganda,Gulu,E. coli,58,16.39
+2023-05-28,Uganda,Gulu,Salmonella,9,2.84
+2023-05-28,Uganda,Gulu,Shigella,13,1.38
+2023-05-28,Uganda,Gulu,Rotavirus,16,3.21
+2023-06-04,Uganda,Gulu,Cholera,11,5.29
+2023-06-04,Uganda,Gulu,E. coli,11,10.39
+2023-06-04,Uganda,Gulu,Salmonella,12,7.35
+2023-06-04,Uganda,Gulu,Shigella,9,0.71
+2023-06-04,Uganda,Gulu,Rotavirus,12,0.24
+2023-06-11,Uganda,Gulu,Cholera,7,5.37
+2023-06-11,Uganda,Gulu,E. coli,13,0.18
+2023-06-11,Uganda,Gulu,Salmonella,46,4.37
+2023-06-11,Uganda,Gulu,Shigella,9,0.0
+2023-06-11,Uganda,Gulu,Rotavirus,12,0.0
+2023-06-18,Uganda,Gulu,Cholera,5,4.38
+2023-06-18,Uganda,Gulu,E. coli,12,1.74
+2023-06-18,Uganda,Gulu,Salmonella,6,4.64
+2023-06-18,Uganda,Gulu,Shigella,6,9.4
+2023-06-18,Uganda,Gulu,Rotavirus,14,8.28
+2023-06-25,Uganda,Gulu,Cholera,6,5.35
+2023-06-25,Uganda,Gulu,E. coli,3,0.0
+2023-06-25,Uganda,Gulu,Salmonella,4,0.0
+2023-06-25,Uganda,Gulu,Shigella,2,7.61
+2023-06-25,Uganda,Gulu,Rotavirus,6,1.54
+2023-07-02,Uganda,Gulu,Cholera,6,2.28
+2023-07-02,Uganda,Gulu,E. coli,4,3.68
+2023-07-02,Uganda,Gulu,Salmonella,7,0.0
+2023-07-02,Uganda,Gulu,Shigella,3,0.0
+2023-07-02,Uganda,Gulu,Rotavirus,3,8.21
+2023-07-09,Uganda,Gulu,Cholera,4,1.18
+2023-07-09,Uganda,Gulu,E. coli,2,8.43
+2023-07-09,Uganda,Gulu,Salmonella,5,0.0
+2023-07-09,Uganda,Gulu,Shigella,2,1.68
+2023-07-09,Uganda,Gulu,Rotavirus,3,0.0
+2023-07-16,Uganda,Gulu,Cholera,0,0.0
+2023-07-16,Uganda,Gulu,E. coli,1,5.31
+2023-07-16,Uganda,Gulu,Salmonella,1,1.32
+2023-07-16,Uganda,Gulu,Shigella,0,0.0
+2023-07-16,Uganda,Gulu,Rotavirus,0,0.0
+2023-07-23,Uganda,Gulu,Cholera,0,3.54
+2023-07-23,Uganda,Gulu,E. coli,0,0.0
+2023-07-23,Uganda,Gulu,Salmonella,0,0.0
+2023-07-23,Uganda,Gulu,Shigella,0,0.8
+2023-07-23,Uganda,Gulu,Rotavirus,0,0.0
+2023-07-30,Uganda,Gulu,Cholera,0,0.0
+2023-07-30,Uganda,Gulu,E. coli,0,0.0
+2023-07-30,Uganda,Gulu,Salmonella,0,0.65
+2023-07-30,Uganda,Gulu,Shigella,0,0.0
+2023-07-30,Uganda,Gulu,Rotavirus,0,8.86
+2023-08-06,Uganda,Gulu,Cholera,0,1.94
+2023-08-06,Uganda,Gulu,E. coli,0,0.0
+2023-08-06,Uganda,Gulu,Salmonella,0,0.0
+2023-08-06,Uganda,Gulu,Shigella,0,0.0
+2023-08-06,Uganda,Gulu,Rotavirus,0,0.77
+2023-08-13,Uganda,Gulu,Cholera,0,0.0
+2023-08-13,Uganda,Gulu,E. coli,0,0.0
+2023-08-13,Uganda,Gulu,Salmonella,0,0.0
+2023-08-13,Uganda,Gulu,Shigella,0,4.57
+2023-08-13,Uganda,Gulu,Rotavirus,0,0.0
+2023-08-20,Uganda,Gulu,Cholera,0,0.0
+2023-08-20,Uganda,Gulu,E. coli,0,4.04
+2023-08-20,Uganda,Gulu,Salmonella,0,0.0
+2023-08-20,Uganda,Gulu,Shigella,0,0.0
+2023-08-20,Uganda,Gulu,Rotavirus,0,0.0
+2023-08-27,Uganda,Gulu,Cholera,0,0.96
+2023-08-27,Uganda,Gulu,E. coli,0,0.0
+2023-08-27,Uganda,Gulu,Salmonella,0,0.0
+2023-08-27,Uganda,Gulu,Shigella,0,4.35
+2023-08-27,Uganda,Gulu,Rotavirus,0,1.9
+2023-09-03,Uganda,Gulu,Cholera,0,0.0
+2023-09-03,Uganda,Gulu,E. coli,0,0.0
+2023-09-03,Uganda,Gulu,Salmonella,0,2.79
+2023-09-03,Uganda,Gulu,Shigella,0,0.0
+2023-09-03,Uganda,Gulu,Rotavirus,0,0.0
+2023-09-10,Uganda,Gulu,Cholera,45,22.83
+2023-09-10,Uganda,Gulu,E. coli,0,1.34
+2023-09-10,Uganda,Gulu,Salmonella,0,0.0
+2023-09-10,Uganda,Gulu,Shigella,0,0.0
+2023-09-10,Uganda,Gulu,Rotavirus,0,8.29
+2023-09-17,Uganda,Gulu,Cholera,30,11.53
+2023-09-17,Uganda,Gulu,E. coli,0,2.44
+2023-09-17,Uganda,Gulu,Salmonella,0,5.36
+2023-09-17,Uganda,Gulu,Shigella,0,0.0
+2023-09-17,Uganda,Gulu,Rotavirus,0,4.23
+2023-09-24,Uganda,Gulu,Cholera,0,2.7
+2023-09-24,Uganda,Gulu,E. coli,0,4.38
+2023-09-24,Uganda,Gulu,Salmonella,0,0.0
+2023-09-24,Uganda,Gulu,Shigella,0,0.0
+2023-09-24,Uganda,Gulu,Rotavirus,0,1.31
+2023-10-01,Uganda,Gulu,Cholera,0,0.0
+2023-10-01,Uganda,Gulu,E. coli,36,10.07
+2023-10-01,Uganda,Gulu,Salmonella,0,3.64
+2023-10-01,Uganda,Gulu,Shigella,0,0.0
+2023-10-01,Uganda,Gulu,Rotavirus,0,0.0
+2023-10-08,Uganda,Gulu,Cholera,0,0.0
+2023-10-08,Uganda,Gulu,E. coli,0,1.85
+2023-10-08,Uganda,Gulu,Salmonella,0,13.88
+2023-10-08,Uganda,Gulu,Shigella,0,0.2
+2023-10-08,Uganda,Gulu,Rotavirus,0,0.0
+2023-10-15,Uganda,Gulu,Cholera,0,0.0
+2023-10-15,Uganda,Gulu,E. coli,0,3.6
+2023-10-15,Uganda,Gulu,Salmonella,0,0.0
+2023-10-15,Uganda,Gulu,Shigella,0,12.32
+2023-10-15,Uganda,Gulu,Rotavirus,0,1.63
+2023-10-22,Uganda,Gulu,Cholera,0,8.7
+2023-10-22,Uganda,Gulu,E. coli,0,3.91
+2023-10-22,Uganda,Gulu,Salmonella,0,0.0
+2023-10-22,Uganda,Gulu,Shigella,0,1.43
+2023-10-22,Uganda,Gulu,Rotavirus,0,0.0
+2023-10-29,Uganda,Gulu,Cholera,0,0.0
+2023-10-29,Uganda,Gulu,E. coli,0,0.0
+2023-10-29,Uganda,Gulu,Salmonella,32,8.11
+2023-10-29,Uganda,Gulu,Shigella,0,3.74
+2023-10-29,Uganda,Gulu,Rotavirus,0,6.99
+2023-11-05,Uganda,Gulu,Cholera,0,0.0
+2023-11-05,Uganda,Gulu,E. coli,0,3.15
+2023-11-05,Uganda,Gulu,Salmonella,0,1.92
+2023-11-05,Uganda,Gulu,Shigella,0,0.0
+2023-11-05,Uganda,Gulu,Rotavirus,29,0.0
+2023-11-12,Uganda,Gulu,Cholera,0,0.88
+2023-11-12,Uganda,Gulu,E. coli,0,5.45
+2023-11-12,Uganda,Gulu,Salmonella,0,0.0
+2023-11-12,Uganda,Gulu,Shigella,0,2.86
+2023-11-12,Uganda,Gulu,Rotavirus,0,5.12
+2023-11-19,Uganda,Gulu,Cholera,39,0.83
+2023-11-19,Uganda,Gulu,E. coli,39,13.07
+2023-11-19,Uganda,Gulu,Salmonella,28,8.2
+2023-11-19,Uganda,Gulu,Shigella,0,0.0
+2023-11-19,Uganda,Gulu,Rotavirus,0,4.32
+2023-11-26,Uganda,Gulu,Cholera,0,0.0
+2023-11-26,Uganda,Gulu,E. coli,0,0.02
+2023-11-26,Uganda,Gulu,Salmonella,0,8.11
+2023-11-26,Uganda,Gulu,Shigella,0,0.0
+2023-11-26,Uganda,Gulu,Rotavirus,0,3.38
+2023-12-03,Uganda,Gulu,Cholera,0,7.33
+2023-12-03,Uganda,Gulu,E. coli,0,2.7
+2023-12-03,Uganda,Gulu,Salmonella,0,1.15
+2023-12-03,Uganda,Gulu,Shigella,0,0.0
+2023-12-03,Uganda,Gulu,Rotavirus,0,4.34
+2023-12-10,Uganda,Gulu,Cholera,0,0.0
+2023-12-10,Uganda,Gulu,E. coli,0,2.49
+2023-12-10,Uganda,Gulu,Salmonella,0,0.0
+2023-12-10,Uganda,Gulu,Shigella,0,0.0
+2023-12-10,Uganda,Gulu,Rotavirus,0,2.45
+2023-12-17,Uganda,Gulu,Cholera,1,0.0
+2023-12-17,Uganda,Gulu,E. coli,0,0.0
+2023-12-17,Uganda,Gulu,Salmonella,2,0.0
+2023-12-17,Uganda,Gulu,Shigella,0,2.71
+2023-12-17,Uganda,Gulu,Rotavirus,3,6.5
+2023-12-24,Uganda,Gulu,Cholera,2,6.12
+2023-12-24,Uganda,Gulu,E. coli,28,3.25
+2023-12-24,Uganda,Gulu,Salmonella,4,0.0
+2023-12-24,Uganda,Gulu,Shigella,2,0.0
+2023-12-24,Uganda,Gulu,Rotavirus,6,0.0
+2023-01-01,Uganda,Mbale,Cholera,5,0.16
+2023-01-01,Uganda,Mbale,E. coli,3,1.55
+2023-01-01,Uganda,Mbale,Salmonella,4,3.91
+2023-01-01,Uganda,Mbale,Shigella,5,7.44
+2023-01-01,Uganda,Mbale,Rotavirus,2,2.77
+2023-01-08,Uganda,Mbale,Cholera,4,0.0
+2023-01-08,Uganda,Mbale,E. coli,6,1.2
+2023-01-08,Uganda,Mbale,Salmonella,3,8.86
+2023-01-08,Uganda,Mbale,Shigella,10,0.05
+2023-01-08,Uganda,Mbale,Rotavirus,8,0.0
+2023-01-15,Uganda,Mbale,Cholera,12,0.0
+2023-01-15,Uganda,Mbale,E. coli,6,0.0
+2023-01-15,Uganda,Mbale,Salmonella,9,5.77
+2023-01-15,Uganda,Mbale,Shigella,10,9.33
+2023-01-15,Uganda,Mbale,Rotavirus,8,8.24
+2023-01-22,Uganda,Mbale,Cholera,12,0.0
+2023-01-22,Uganda,Mbale,E. coli,55,15.31
+2023-01-22,Uganda,Mbale,Salmonella,5,2.26
+2023-01-22,Uganda,Mbale,Shigella,13,0.0
+2023-01-22,Uganda,Mbale,Rotavirus,9,0.0
+2023-01-29,Uganda,Mbale,Cholera,10,6.76
+2023-01-29,Uganda,Mbale,E. coli,8,4.23
+2023-01-29,Uganda,Mbale,Salmonella,13,0.0
+2023-01-29,Uganda,Mbale,Shigella,11,0.0
+2023-01-29,Uganda,Mbale,Rotavirus,15,0.0
+2023-02-05,Uganda,Mbale,Cholera,5,3.96
+2023-02-05,Uganda,Mbale,E. coli,14,6.41
+2023-02-05,Uganda,Mbale,Salmonella,15,3.56
+2023-02-05,Uganda,Mbale,Shigella,14,3.85
+2023-02-05,Uganda,Mbale,Rotavirus,13,0.16
+2023-02-12,Uganda,Mbale,Cholera,10,3.45
+2023-02-12,Uganda,Mbale,E. coli,15,7.79
+2023-02-12,Uganda,Mbale,Salmonella,12,2.41
+2023-02-12,Uganda,Mbale,Shigella,14,4.87
+2023-02-12,Uganda,Mbale,Rotavirus,15,8.52
+2023-02-19,Uganda,Mbale,Cholera,21,2.92
+2023-02-19,Uganda,Mbale,E. coli,11,0.0
+2023-02-19,Uganda,Mbale,Salmonella,20,10.4
+2023-02-19,Uganda,Mbale,Shigella,13,0.0
+2023-02-19,Uganda,Mbale,Rotavirus,15,4.25
+2023-02-26,Uganda,Mbale,Cholera,21,7.43
+2023-02-26,Uganda,Mbale,E. coli,18,3.7
+2023-02-26,Uganda,Mbale,Salmonella,17,4.8
+2023-02-26,Uganda,Mbale,Shigella,16,4.66
+2023-02-26,Uganda,Mbale,Rotavirus,18,0.0
+2023-03-05,Uganda,Mbale,Cholera,12,1.55
+2023-03-05,Uganda,Mbale,E. coli,16,5.63
+2023-03-05,Uganda,Mbale,Salmonella,19,0.0
+2023-03-05,Uganda,Mbale,Shigella,30,4.69
+2023-03-05,Uganda,Mbale,Rotavirus,22,0.0
+2023-03-12,Uganda,Mbale,Cholera,23,7.9
+2023-03-12,Uganda,Mbale,E. coli,15,0.0
+2023-03-12,Uganda,Mbale,Salmonella,22,3.61
+2023-03-12,Uganda,Mbale,Shigella,19,2.88
+2023-03-12,Uganda,Mbale,Rotavirus,17,8.02
+2023-03-19,Uganda,Mbale,Cholera,16,0.0
+2023-03-19,Uganda,Mbale,E. coli,49,10.05
+2023-03-19,Uganda,Mbale,Salmonella,17,10.85
+2023-03-19,Uganda,Mbale,Shigella,18,2.61
+2023-03-19,Uganda,Mbale,Rotavirus,28,1.19
+2023-03-26,Uganda,Mbale,Cholera,19,5.28
+2023-03-26,Uganda,Mbale,E. coli,15,4.96
+2023-03-26,Uganda,Mbale,Salmonella,21,0.81
+2023-03-26,Uganda,Mbale,Shigella,25,7.08
+2023-03-26,Uganda,Mbale,Rotavirus,16,0.0
+2023-04-02,Uganda,Mbale,Cholera,14,1.26
+2023-04-02,Uganda,Mbale,E. coli,20,1.73
+2023-04-02,Uganda,Mbale,Salmonella,17,0.93
+2023-04-02,Uganda,Mbale,Shigella,24,7.03
+2023-04-02,Uganda,Mbale,Rotavirus,22,0.41
+2023-04-09,Uganda,Mbale,Cholera,22,2.28
+2023-04-09,Uganda,Mbale,E. coli,12,4.9
+2023-04-09,Uganda,Mbale,Salmonella,28,0.53
+2023-04-09,Uganda,Mbale,Shigella,10,0.0
+2023-04-09,Uganda,Mbale,Rotavirus,18,1.44
+2023-04-16,Uganda,Mbale,Cholera,18,5.49
+2023-04-16,Uganda,Mbale,E. coli,24,0.74
+2023-04-16,Uganda,Mbale,Salmonella,58,10.23
+2023-04-16,Uganda,Mbale,Shigella,18,3.6
+2023-04-16,Uganda,Mbale,Rotavirus,14,1.91
+2023-04-23,Uganda,Mbale,Cholera,18,7.22
+2023-04-23,Uganda,Mbale,E. coli,19,0.0
+2023-04-23,Uganda,Mbale,Salmonella,14,7.58
+2023-04-23,Uganda,Mbale,Shigella,16,3.89
+2023-04-23,Uganda,Mbale,Rotavirus,17,3.04
+2023-04-30,Uganda,Mbale,Cholera,18,8.73
+2023-04-30,Uganda,Mbale,E. coli,25,8.61
+2023-04-30,Uganda,Mbale,Salmonella,27,3.96
+2023-04-30,Uganda,Mbale,Shigella,45,5.3
+2023-04-30,Uganda,Mbale,Rotavirus,23,0.0
+2023-05-07,Uganda,Mbale,Cholera,18,5.23
+2023-05-07,Uganda,Mbale,E. coli,44,1.85
+2023-05-07,Uganda,Mbale,Salmonella,49,13.8
+2023-05-07,Uganda,Mbale,Shigella,23,2.64
+2023-05-07,Uganda,Mbale,Rotavirus,20,0.37
+2023-05-14,Uganda,Mbale,Cholera,20,0.0
+2023-05-14,Uganda,Mbale,E. coli,15,0.45
+2023-05-14,Uganda,Mbale,Salmonella,16,8.9
+2023-05-14,Uganda,Mbale,Shigella,19,4.22
+2023-05-14,Uganda,Mbale,Rotavirus,16,1.52
+2023-05-21,Uganda,Mbale,Cholera,30,9.9
+2023-05-21,Uganda,Mbale,E. coli,14,4.72
+2023-05-21,Uganda,Mbale,Salmonella,9,3.55
+2023-05-21,Uganda,Mbale,Shigella,17,4.54
+2023-05-21,Uganda,Mbale,Rotavirus,16,2.0
+2023-05-28,Uganda,Mbale,Cholera,42,13.55
+2023-05-28,Uganda,Mbale,E. coli,14,0.0
+2023-05-28,Uganda,Mbale,Salmonella,21,14.41
+2023-05-28,Uganda,Mbale,Shigella,13,13.99
+2023-05-28,Uganda,Mbale,Rotavirus,12,0.0
+2023-06-04,Uganda,Mbale,Cholera,18,7.26
+2023-06-04,Uganda,Mbale,E. coli,13,5.29
+2023-06-04,Uganda,Mbale,Salmonella,9,9.92
+2023-06-04,Uganda,Mbale,Shigella,9,3.72
+2023-06-04,Uganda,Mbale,Rotavirus,11,0.0
+2023-06-11,Uganda,Mbale,Cholera,10,1.89
+2023-06-11,Uganda,Mbale,E. coli,15,0.0
+2023-06-11,Uganda,Mbale,Salmonella,3,0.0
+2023-06-11,Uganda,Mbale,Shigella,9,5.52
+2023-06-11,Uganda,Mbale,Rotavirus,43,7.58
+2023-06-18,Uganda,Mbale,Cholera,8,1.29
+2023-06-18,Uganda,Mbale,E. coli,10,0.0
+2023-06-18,Uganda,Mbale,Salmonella,7,0.0
+2023-06-18,Uganda,Mbale,Shigella,15,3.74
+2023-06-18,Uganda,Mbale,Rotavirus,12,0.83
+2023-06-25,Uganda,Mbale,Cholera,5,2.57
+2023-06-25,Uganda,Mbale,E. coli,7,3.83
+2023-06-25,Uganda,Mbale,Salmonella,5,0.0
+2023-06-25,Uganda,Mbale,Shigella,13,0.6
+2023-06-25,Uganda,Mbale,Rotavirus,6,3.88
+2023-07-02,Uganda,Mbale,Cholera,8,0.0
+2023-07-02,Uganda,Mbale,E. coli,3,6.19
+2023-07-02,Uganda,Mbale,Salmonella,1,1.37
+2023-07-02,Uganda,Mbale,Shigella,5,5.77
+2023-07-02,Uganda,Mbale,Rotavirus,6,0.39
+2023-07-09,Uganda,Mbale,Cholera,7,0.0
+2023-07-09,Uganda,Mbale,E. coli,2,4.95
+2023-07-09,Uganda,Mbale,Salmonella,3,8.23
+2023-07-09,Uganda,Mbale,Shigella,5,4.77
+2023-07-09,Uganda,Mbale,Rotavirus,3,0.0
+2023-07-16,Uganda,Mbale,Cholera,0,10.33
+2023-07-16,Uganda,Mbale,E. coli,2,2.33
+2023-07-16,Uganda,Mbale,Salmonella,48,12.6
+2023-07-16,Uganda,Mbale,Shigella,2,5.19
+2023-07-16,Uganda,Mbale,Rotavirus,2,1.3
+2023-07-23,Uganda,Mbale,Cholera,0,4.19
+2023-07-23,Uganda,Mbale,E. coli,0,3.75
+2023-07-23,Uganda,Mbale,Salmonella,0,3.27
+2023-07-23,Uganda,Mbale,Shigella,0,0.0
+2023-07-23,Uganda,Mbale,Rotavirus,0,0.0
+2023-07-30,Uganda,Mbale,Cholera,0,4.1
+2023-07-30,Uganda,Mbale,E. coli,0,2.12
+2023-07-30,Uganda,Mbale,Salmonella,0,0.0
+2023-07-30,Uganda,Mbale,Shigella,0,0.0
+2023-07-30,Uganda,Mbale,Rotavirus,0,0.0
+2023-08-06,Uganda,Mbale,Cholera,0,0.0
+2023-08-06,Uganda,Mbale,E. coli,0,0.0
+2023-08-06,Uganda,Mbale,Salmonella,0,10.11
+2023-08-06,Uganda,Mbale,Shigella,0,1.36
+2023-08-06,Uganda,Mbale,Rotavirus,0,2.09
+2023-08-13,Uganda,Mbale,Cholera,0,5.46
+2023-08-13,Uganda,Mbale,E. coli,0,0.0
+2023-08-13,Uganda,Mbale,Salmonella,0,0.0
+2023-08-13,Uganda,Mbale,Shigella,0,3.62
+2023-08-13,Uganda,Mbale,Rotavirus,0,0.0
+2023-08-20,Uganda,Mbale,Cholera,0,3.49
+2023-08-20,Uganda,Mbale,E. coli,0,0.0
+2023-08-20,Uganda,Mbale,Salmonella,0,0.0
+2023-08-20,Uganda,Mbale,Shigella,0,0.0
+2023-08-20,Uganda,Mbale,Rotavirus,0,3.3
+2023-08-27,Uganda,Mbale,Cholera,0,8.09
+2023-08-27,Uganda,Mbale,E. coli,0,2.08
+2023-08-27,Uganda,Mbale,Salmonella,0,0.0
+2023-08-27,Uganda,Mbale,Shigella,0,4.55
+2023-08-27,Uganda,Mbale,Rotavirus,0,0.0
+2023-09-03,Uganda,Mbale,Cholera,0,0.0
+2023-09-03,Uganda,Mbale,E. coli,0,0.4
+2023-09-03,Uganda,Mbale,Salmonella,0,3.79
+2023-09-03,Uganda,Mbale,Shigella,0,0.0
+2023-09-03,Uganda,Mbale,Rotavirus,0,0.0
+2023-09-10,Uganda,Mbale,Cholera,0,0.0
+2023-09-10,Uganda,Mbale,E. coli,0,5.41
+2023-09-10,Uganda,Mbale,Salmonella,0,0.0
+2023-09-10,Uganda,Mbale,Shigella,0,0.0
+2023-09-10,Uganda,Mbale,Rotavirus,0,0.0
+2023-09-17,Uganda,Mbale,Cholera,0,6.17
+2023-09-17,Uganda,Mbale,E. coli,0,0.0
+2023-09-17,Uganda,Mbale,Salmonella,49,8.5
+2023-09-17,Uganda,Mbale,Shigella,0,0.0
+2023-09-17,Uganda,Mbale,Rotavirus,0,0.0
+2023-09-24,Uganda,Mbale,Cholera,0,0.0
+2023-09-24,Uganda,Mbale,E. coli,0,0.0
+2023-09-24,Uganda,Mbale,Salmonella,0,4.88
+2023-09-24,Uganda,Mbale,Shigella,0,1.92
+2023-09-24,Uganda,Mbale,Rotavirus,0,7.9
+2023-10-01,Uganda,Mbale,Cholera,24,2.69
+2023-10-01,Uganda,Mbale,E. coli,0,0.0
+2023-10-01,Uganda,Mbale,Salmonella,0,2.68
+2023-10-01,Uganda,Mbale,Shigella,0,6.13
+2023-10-01,Uganda,Mbale,Rotavirus,0,0.0
+2023-10-08,Uganda,Mbale,Cholera,47,10.13
+2023-10-08,Uganda,Mbale,E. coli,0,0.0
+2023-10-08,Uganda,Mbale,Salmonella,0,0.21
+2023-10-08,Uganda,Mbale,Shigella,0,2.27
+2023-10-08,Uganda,Mbale,Rotavirus,0,0.0
+2023-10-15,Uganda,Mbale,Cholera,0,3.43
+2023-10-15,Uganda,Mbale,E. coli,0,6.25
+2023-10-15,Uganda,Mbale,Salmonella,0,2.11
+2023-10-15,Uganda,Mbale,Shigella,0,4.0
+2023-10-15,Uganda,Mbale,Rotavirus,0,0.0
+2023-10-22,Uganda,Mbale,Cholera,0,10.82
+2023-10-22,Uganda,Mbale,E. coli,0,5.72
+2023-10-22,Uganda,Mbale,Salmonella,0,0.97
+2023-10-22,Uganda,Mbale,Shigella,0,5.46
+2023-10-22,Uganda,Mbale,Rotavirus,0,0.0
+2023-10-29,Uganda,Mbale,Cholera,0,4.33
+2023-10-29,Uganda,Mbale,E. coli,32,6.71
+2023-10-29,Uganda,Mbale,Salmonella,0,0.0
+2023-10-29,Uganda,Mbale,Shigella,0,0.0
+2023-10-29,Uganda,Mbale,Rotavirus,0,0.0
+2023-11-05,Uganda,Mbale,Cholera,0,0.0
+2023-11-05,Uganda,Mbale,E. coli,0,7.94
+2023-11-05,Uganda,Mbale,Salmonella,0,0.0
+2023-11-05,Uganda,Mbale,Shigella,0,0.0
+2023-11-05,Uganda,Mbale,Rotavirus,0,2.16
+2023-11-12,Uganda,Mbale,Cholera,0,3.7
+2023-11-12,Uganda,Mbale,E. coli,0,3.04
+2023-11-12,Uganda,Mbale,Salmonella,0,0.0
+2023-11-12,Uganda,Mbale,Shigella,0,0.0
+2023-11-12,Uganda,Mbale,Rotavirus,0,8.42
+2023-11-19,Uganda,Mbale,Cholera,0,4.21
+2023-11-19,Uganda,Mbale,E. coli,0,0.12
+2023-11-19,Uganda,Mbale,Salmonella,0,6.76
+2023-11-19,Uganda,Mbale,Shigella,0,0.0
+2023-11-19,Uganda,Mbale,Rotavirus,40,15.96
+2023-11-26,Uganda,Mbale,Cholera,0,3.32
+2023-11-26,Uganda,Mbale,E. coli,0,4.74
+2023-11-26,Uganda,Mbale,Salmonella,0,0.0
+2023-11-26,Uganda,Mbale,Shigella,0,5.32
+2023-11-26,Uganda,Mbale,Rotavirus,0,0.0
+2023-12-03,Uganda,Mbale,Cholera,0,4.35
+2023-12-03,Uganda,Mbale,E. coli,0,8.07
+2023-12-03,Uganda,Mbale,Salmonella,0,0.0
+2023-12-03,Uganda,Mbale,Shigella,0,7.07
+2023-12-03,Uganda,Mbale,Rotavirus,0,0.0
+2023-12-10,Uganda,Mbale,Cholera,0,3.36
+2023-12-10,Uganda,Mbale,E. coli,0,0.0
+2023-12-10,Uganda,Mbale,Salmonella,0,0.0
+2023-12-10,Uganda,Mbale,Shigella,0,8.09
+2023-12-10,Uganda,Mbale,Rotavirus,0,0.0
+2023-12-17,Uganda,Mbale,Cholera,1,0.0
+2023-12-17,Uganda,Mbale,E. coli,1,0.0
+2023-12-17,Uganda,Mbale,Salmonella,0,0.0
+2023-12-17,Uganda,Mbale,Shigella,2,6.55
+2023-12-17,Uganda,Mbale,Rotavirus,2,1.09
+2023-12-24,Uganda,Mbale,Cholera,6,8.24
+2023-12-24,Uganda,Mbale,E. coli,3,1.64
+2023-12-24,Uganda,Mbale,Salmonella,4,3.8
+2023-12-24,Uganda,Mbale,Shigella,5,5.91
+2023-12-24,Uganda,Mbale,Rotavirus,4,0.0
+2023-01-01,Kenya,Nairobi,Cholera,4,0.0
+2023-01-01,Kenya,Nairobi,E. coli,3,0.66
+2023-01-01,Kenya,Nairobi,Salmonella,6,0.0
+2023-01-01,Kenya,Nairobi,Shigella,10,0.0
+2023-01-01,Kenya,Nairobi,Rotavirus,5,0.0
+2023-01-08,Kenya,Nairobi,Cholera,7,0.0
+2023-01-08,Kenya,Nairobi,E. coli,10,0.0
+2023-01-08,Kenya,Nairobi,Salmonella,7,9.48
+2023-01-08,Kenya,Nairobi,Shigella,4,4.55
+2023-01-08,Kenya,Nairobi,Rotavirus,7,0.0
+2023-01-15,Kenya,Nairobi,Cholera,12,3.55
+2023-01-15,Kenya,Nairobi,E. coli,11,0.0
+2023-01-15,Kenya,Nairobi,Salmonella,6,1.91
+2023-01-15,Kenya,Nairobi,Shigella,42,7.97
+2023-01-15,Kenya,Nairobi,Rotavirus,11,0.0
+2023-01-22,Kenya,Nairobi,Cholera,5,5.74
+2023-01-22,Kenya,Nairobi,E. coli,12,8.2
+2023-01-22,Kenya,Nairobi,Salmonella,3,2.2
+2023-01-22,Kenya,Nairobi,Shigella,18,6.03
+2023-01-22,Kenya,Nairobi,Rotavirus,9,0.17
+2023-01-29,Kenya,Nairobi,Cholera,11,3.12
+2023-01-29,Kenya,Nairobi,E. coli,7,0.0
+2023-01-29,Kenya,Nairobi,Salmonella,11,0.0
+2023-01-29,Kenya,Nairobi,Shigella,19,0.0
+2023-01-29,Kenya,Nairobi,Rotavirus,14,5.86
+2023-02-05,Kenya,Nairobi,Cholera,15,4.99
+2023-02-05,Kenya,Nairobi,E. coli,21,5.22
+2023-02-05,Kenya,Nairobi,Salmonella,16,2.64
+2023-02-05,Kenya,Nairobi,Shigella,13,1.0
+2023-02-05,Kenya,Nairobi,Rotavirus,17,6.11
+2023-02-12,Kenya,Nairobi,Cholera,13,11.46
+2023-02-12,Kenya,Nairobi,E. coli,17,0.0
+2023-02-12,Kenya,Nairobi,Salmonella,20,3.47
+2023-02-12,Kenya,Nairobi,Shigella,20,0.0
+2023-02-12,Kenya,Nairobi,Rotavirus,52,0.0
+2023-02-19,Kenya,Nairobi,Cholera,11,0.0
+2023-02-19,Kenya,Nairobi,E. coli,16,1.02
+2023-02-19,Kenya,Nairobi,Salmonella,23,1.44
+2023-02-19,Kenya,Nairobi,Shigella,19,0.0
+2023-02-19,Kenya,Nairobi,Rotavirus,16,0.0
+2023-02-26,Kenya,Nairobi,Cholera,19,2.58
+2023-02-26,Kenya,Nairobi,E. coli,17,5.86
+2023-02-26,Kenya,Nairobi,Salmonella,16,5.16
+2023-02-26,Kenya,Nairobi,Shigella,11,4.67
+2023-02-26,Kenya,Nairobi,Rotavirus,14,0.0
+2023-03-05,Kenya,Nairobi,Cholera,19,7.99
+2023-03-05,Kenya,Nairobi,E. coli,16,5.71
+2023-03-05,Kenya,Nairobi,Salmonella,9,0.0
+2023-03-05,Kenya,Nairobi,Shigella,13,0.0
+2023-03-05,Kenya,Nairobi,Rotavirus,22,12.53
+2023-03-12,Kenya,Nairobi,Cholera,18,0.0
+2023-03-12,Kenya,Nairobi,E. coli,25,0.0
+2023-03-12,Kenya,Nairobi,Salmonella,14,0.0
+2023-03-12,Kenya,Nairobi,Shigella,21,13.65
+2023-03-12,Kenya,Nairobi,Rotavirus,25,5.38
+2023-03-19,Kenya,Nairobi,Cholera,20,7.11
+2023-03-19,Kenya,Nairobi,E. coli,50,9.02
+2023-03-19,Kenya,Nairobi,Salmonella,24,0.0
+2023-03-19,Kenya,Nairobi,Shigella,20,4.54
+2023-03-19,Kenya,Nairobi,Rotavirus,19,2.21
+2023-03-26,Kenya,Nairobi,Cholera,20,7.49
+2023-03-26,Kenya,Nairobi,E. coli,15,0.0
+2023-03-26,Kenya,Nairobi,Salmonella,20,6.29
+2023-03-26,Kenya,Nairobi,Shigella,29,16.29
+2023-03-26,Kenya,Nairobi,Rotavirus,20,0.0
+2023-04-02,Kenya,Nairobi,Cholera,18,0.0
+2023-04-02,Kenya,Nairobi,E. coli,21,5.68
+2023-04-02,Kenya,Nairobi,Salmonella,23,3.41
+2023-04-02,Kenya,Nairobi,Shigella,25,18.52
+2023-04-02,Kenya,Nairobi,Rotavirus,22,3.25
+2023-04-09,Kenya,Nairobi,Cholera,21,0.0
+2023-04-09,Kenya,Nairobi,E. coli,21,7.62
+2023-04-09,Kenya,Nairobi,Salmonella,21,1.22
+2023-04-09,Kenya,Nairobi,Shigella,22,0.0
+2023-04-09,Kenya,Nairobi,Rotavirus,20,0.0
+2023-04-16,Kenya,Nairobi,Cholera,11,6.3
+2023-04-16,Kenya,Nairobi,E. coli,18,5.39
+2023-04-16,Kenya,Nairobi,Salmonella,18,0.0
+2023-04-16,Kenya,Nairobi,Shigella,24,0.19
+2023-04-16,Kenya,Nairobi,Rotavirus,12,0.0
+2023-04-23,Kenya,Nairobi,Cholera,22,0.0
+2023-04-23,Kenya,Nairobi,E. coli,12,0.0
+2023-04-23,Kenya,Nairobi,Salmonella,21,1.37
+2023-04-23,Kenya,Nairobi,Shigella,15,0.0
+2023-04-23,Kenya,Nairobi,Rotavirus,13,4.4
+2023-04-30,Kenya,Nairobi,Cholera,16,0.0
+2023-04-30,Kenya,Nairobi,E. coli,15,0.0
+2023-04-30,Kenya,Nairobi,Salmonella,15,9.96
+2023-04-30,Kenya,Nairobi,Shigella,17,0.0
+2023-04-30,Kenya,Nairobi,Rotavirus,25,3.25
+2023-05-07,Kenya,Nairobi,Cholera,16,0.0
+2023-05-07,Kenya,Nairobi,E. coli,22,9.81
+2023-05-07,Kenya,Nairobi,Salmonella,17,2.64
+2023-05-07,Kenya,Nairobi,Shigella,15,8.3
+2023-05-07,Kenya,Nairobi,Rotavirus,17,5.93
+2023-05-14,Kenya,Nairobi,Cholera,17,2.97
+2023-05-14,Kenya,Nairobi,E. coli,15,6.23
+2023-05-14,Kenya,Nairobi,Salmonella,17,0.0
+2023-05-14,Kenya,Nairobi,Shigella,11,0.0
+2023-05-14,Kenya,Nairobi,Rotavirus,17,0.0
+2023-05-21,Kenya,Nairobi,Cholera,9,0.0
+2023-05-21,Kenya,Nairobi,E. coli,19,0.0
+2023-05-21,Kenya,Nairobi,Salmonella,15,9.14
+2023-05-21,Kenya,Nairobi,Shigella,16,0.0
+2023-05-21,Kenya,Nairobi,Rotavirus,12,2.41
+2023-05-28,Kenya,Nairobi,Cholera,17,0.0
+2023-05-28,Kenya,Nairobi,E. coli,12,3.08
+2023-05-28,Kenya,Nairobi,Salmonella,9,1.93
+2023-05-28,Kenya,Nairobi,Shigella,11,1.58
+2023-05-28,Kenya,Nairobi,Rotavirus,15,6.01
+2023-06-04,Kenya,Nairobi,Cholera,11,9.04
+2023-06-04,Kenya,Nairobi,E. coli,15,3.63
+2023-06-04,Kenya,Nairobi,Salmonella,14,6.23
+2023-06-04,Kenya,Nairobi,Shigella,8,0.0
+2023-06-04,Kenya,Nairobi,Rotavirus,8,2.8
+2023-06-11,Kenya,Nairobi,Cholera,12,4.83
+2023-06-11,Kenya,Nairobi,E. coli,6,9.15
+2023-06-11,Kenya,Nairobi,Salmonella,10,0.0
+2023-06-11,Kenya,Nairobi,Shigella,63,6.06
+2023-06-11,Kenya,Nairobi,Rotavirus,13,0.0
+2023-06-18,Kenya,Nairobi,Cholera,14,5.67
+2023-06-18,Kenya,Nairobi,E. coli,7,0.0
+2023-06-18,Kenya,Nairobi,Salmonella,7,0.73
+2023-06-18,Kenya,Nairobi,Shigella,7,0.0
+2023-06-18,Kenya,Nairobi,Rotavirus,10,1.55
+2023-06-25,Kenya,Nairobi,Cholera,11,2.36
+2023-06-25,Kenya,Nairobi,E. coli,7,4.07
+2023-06-25,Kenya,Nairobi,Salmonella,8,10.0
+2023-06-25,Kenya,Nairobi,Shigella,4,0.75
+2023-06-25,Kenya,Nairobi,Rotavirus,2,0.0
+2023-07-02,Kenya,Nairobi,Cholera,3,2.47
+2023-07-02,Kenya,Nairobi,E. coli,2,0.0
+2023-07-02,Kenya,Nairobi,Salmonella,5,0.0
+2023-07-02,Kenya,Nairobi,Shigella,7,0.0
+2023-07-02,Kenya,Nairobi,Rotavirus,4,0.03
+2023-07-09,Kenya,Nairobi,Cholera,8,0.0
+2023-07-09,Kenya,Nairobi,E. coli,8,0.0
+2023-07-09,Kenya,Nairobi,Salmonella,5,4.87
+2023-07-09,Kenya,Nairobi,Shigella,3,5.96
+2023-07-09,Kenya,Nairobi,Rotavirus,32,4.87
+2023-07-16,Kenya,Nairobi,Cholera,2,0.0
+2023-07-16,Kenya,Nairobi,E. coli,1,0.0
+2023-07-16,Kenya,Nairobi,Salmonella,2,4.02
+2023-07-16,Kenya,Nairobi,Shigella,1,2.44
+2023-07-16,Kenya,Nairobi,Rotavirus,0,0.0
+2023-07-23,Kenya,Nairobi,Cholera,0,0.0
+2023-07-23,Kenya,Nairobi,E. coli,0,0.0
+2023-07-23,Kenya,Nairobi,Salmonella,0,4.45
+2023-07-23,Kenya,Nairobi,Shigella,0,0.0
+2023-07-23,Kenya,Nairobi,Rotavirus,0,8.56
+2023-07-30,Kenya,Nairobi,Cholera,0,3.56
+2023-07-30,Kenya,Nairobi,E. coli,0,0.0
+2023-07-30,Kenya,Nairobi,Salmonella,0,0.0
+2023-07-30,Kenya,Nairobi,Shigella,0,0.0
+2023-07-30,Kenya,Nairobi,Rotavirus,0,11.19
+2023-08-06,Kenya,Nairobi,Cholera,0,0.0
+2023-08-06,Kenya,Nairobi,E. coli,0,0.97
+2023-08-06,Kenya,Nairobi,Salmonella,0,5.27
+2023-08-06,Kenya,Nairobi,Shigella,0,6.58
+2023-08-06,Kenya,Nairobi,Rotavirus,0,0.0
+2023-08-13,Kenya,Nairobi,Cholera,0,0.0
+2023-08-13,Kenya,Nairobi,E. coli,0,0.0
+2023-08-13,Kenya,Nairobi,Salmonella,0,4.91
+2023-08-13,Kenya,Nairobi,Shigella,0,3.35
+2023-08-13,Kenya,Nairobi,Rotavirus,0,0.0
+2023-08-20,Kenya,Nairobi,Cholera,0,0.0
+2023-08-20,Kenya,Nairobi,E. coli,0,0.0
+2023-08-20,Kenya,Nairobi,Salmonella,29,10.91
+2023-08-20,Kenya,Nairobi,Shigella,0,6.86
+2023-08-20,Kenya,Nairobi,Rotavirus,0,2.47
+2023-08-27,Kenya,Nairobi,Cholera,0,4.84
+2023-08-27,Kenya,Nairobi,E. coli,0,1.44
+2023-08-27,Kenya,Nairobi,Salmonella,0,0.0
+2023-08-27,Kenya,Nairobi,Shigella,0,0.0
+2023-08-27,Kenya,Nairobi,Rotavirus,0,0.14
+2023-09-03,Kenya,Nairobi,Cholera,0,0.0
+2023-09-03,Kenya,Nairobi,E. coli,0,0.0
+2023-09-03,Kenya,Nairobi,Salmonella,0,7.24
+2023-09-03,Kenya,Nairobi,Shigella,0,6.22
+2023-09-03,Kenya,Nairobi,Rotavirus,0,1.36
+2023-09-10,Kenya,Nairobi,Cholera,0,0.0
+2023-09-10,Kenya,Nairobi,E. coli,0,9.32
+2023-09-10,Kenya,Nairobi,Salmonella,31,8.8
+2023-09-10,Kenya,Nairobi,Shigella,0,0.0
+2023-09-10,Kenya,Nairobi,Rotavirus,0,4.15
+2023-09-17,Kenya,Nairobi,Cholera,0,0.0
+2023-09-17,Kenya,Nairobi,E. coli,43,13.08
+2023-09-17,Kenya,Nairobi,Salmonella,0,0.0
+2023-09-17,Kenya,Nairobi,Shigella,0,6.01
+2023-09-17,Kenya,Nairobi,Rotavirus,0,4.38
+2023-09-24,Kenya,Nairobi,Cholera,0,6.83
+2023-09-24,Kenya,Nairobi,E. coli,0,2.77
+2023-09-24,Kenya,Nairobi,Salmonella,0,0.0
+2023-09-24,Kenya,Nairobi,Shigella,0,1.46
+2023-09-24,Kenya,Nairobi,Rotavirus,41,11.49
+2023-10-01,Kenya,Nairobi,Cholera,0,0.0
+2023-10-01,Kenya,Nairobi,E. coli,0,1.97
+2023-10-01,Kenya,Nairobi,Salmonella,0,0.0
+2023-10-01,Kenya,Nairobi,Shigella,0,0.0
+2023-10-01,Kenya,Nairobi,Rotavirus,0,0.0
+2023-10-08,Kenya,Nairobi,Cholera,0,0.0
+2023-10-08,Kenya,Nairobi,E. coli,0,5.47
+2023-10-08,Kenya,Nairobi,Salmonella,0,3.79
+2023-10-08,Kenya,Nairobi,Shigella,0,1.33
+2023-10-08,Kenya,Nairobi,Rotavirus,0,1.72
+2023-10-15,Kenya,Nairobi,Cholera,0,0.0
+2023-10-15,Kenya,Nairobi,E. coli,0,0.76
+2023-10-15,Kenya,Nairobi,Salmonella,0,0.0
+2023-10-15,Kenya,Nairobi,Shigella,0,10.18
+2023-10-15,Kenya,Nairobi,Rotavirus,0,1.79
+2023-10-22,Kenya,Nairobi,Cholera,0,0.0
+2023-10-22,Kenya,Nairobi,E. coli,0,0.0
+2023-10-22,Kenya,Nairobi,Salmonella,0,0.0
+2023-10-22,Kenya,Nairobi,Shigella,0,0.0
+2023-10-22,Kenya,Nairobi,Rotavirus,38,2.28
+2023-10-29,Kenya,Nairobi,Cholera,0,0.0
+2023-10-29,Kenya,Nairobi,E. coli,0,2.32
+2023-10-29,Kenya,Nairobi,Salmonella,0,6.12
+2023-10-29,Kenya,Nairobi,Shigella,0,0.0
+2023-10-29,Kenya,Nairobi,Rotavirus,0,0.0
+2023-11-05,Kenya,Nairobi,Cholera,0,5.04
+2023-11-05,Kenya,Nairobi,E. coli,0,0.0
+2023-11-05,Kenya,Nairobi,Salmonella,0,1.01
+2023-11-05,Kenya,Nairobi,Shigella,0,3.83
+2023-11-05,Kenya,Nairobi,Rotavirus,22,3.29
+2023-11-12,Kenya,Nairobi,Cholera,0,0.0
+2023-11-12,Kenya,Nairobi,E. coli,0,4.79
+2023-11-12,Kenya,Nairobi,Salmonella,0,5.64
+2023-11-12,Kenya,Nairobi,Shigella,0,0.0
+2023-11-12,Kenya,Nairobi,Rotavirus,0,4.89
+2023-11-19,Kenya,Nairobi,Cholera,0,0.0
+2023-11-19,Kenya,Nairobi,E. coli,0,0.14
+2023-11-19,Kenya,Nairobi,Salmonella,0,0.0
+2023-11-19,Kenya,Nairobi,Shigella,0,3.04
+2023-11-19,Kenya,Nairobi,Rotavirus,0,11.62
+2023-11-26,Kenya,Nairobi,Cholera,0,0.0
+2023-11-26,Kenya,Nairobi,E. coli,0,6.17
+2023-11-26,Kenya,Nairobi,Salmonella,0,0.0
+2023-11-26,Kenya,Nairobi,Shigella,0,0.0
+2023-11-26,Kenya,Nairobi,Rotavirus,0,0.0
+2023-12-03,Kenya,Nairobi,Cholera,0,6.96
+2023-12-03,Kenya,Nairobi,E. coli,0,0.56
+2023-12-03,Kenya,Nairobi,Salmonella,0,0.0
+2023-12-03,Kenya,Nairobi,Shigella,0,0.0
+2023-12-03,Kenya,Nairobi,Rotavirus,0,3.45
+2023-12-10,Kenya,Nairobi,Cholera,0,0.0
+2023-12-10,Kenya,Nairobi,E. coli,36,10.62
+2023-12-10,Kenya,Nairobi,Salmonella,0,0.0
+2023-12-10,Kenya,Nairobi,Shigella,0,3.87
+2023-12-10,Kenya,Nairobi,Rotavirus,0,3.09
+2023-12-17,Kenya,Nairobi,Cholera,2,2.97
+2023-12-17,Kenya,Nairobi,E. coli,2,1.69
+2023-12-17,Kenya,Nairobi,Salmonella,1,0.0
+2023-12-17,Kenya,Nairobi,Shigella,2,0.0
+2023-12-17,Kenya,Nairobi,Rotavirus,0,0.0
+2023-12-24,Kenya,Nairobi,Cholera,2,0.0
+2023-12-24,Kenya,Nairobi,E. coli,6,3.67
+2023-12-24,Kenya,Nairobi,Salmonella,4,2.3
+2023-12-24,Kenya,Nairobi,Shigella,3,0.0
+2023-12-24,Kenya,Nairobi,Rotavirus,2,4.39
+2023-01-01,Kenya,Kisumu,Cholera,9,1.73
+2023-01-01,Kenya,Kisumu,E. coli,9,0.0
+2023-01-01,Kenya,Kisumu,Salmonella,3,9.4
+2023-01-01,Kenya,Kisumu,Shigella,5,10.66
+2023-01-01,Kenya,Kisumu,Rotavirus,3,0.0
+2023-01-08,Kenya,Kisumu,Cholera,7,3.13
+2023-01-08,Kenya,Kisumu,E. coli,9,1.19
+2023-01-08,Kenya,Kisumu,Salmonella,9,2.28
+2023-01-08,Kenya,Kisumu,Shigella,2,0.0
+2023-01-08,Kenya,Kisumu,Rotavirus,3,1.18
+2023-01-15,Kenya,Kisumu,Cholera,8,0.49
+2023-01-15,Kenya,Kisumu,E. coli,17,0.0
+2023-01-15,Kenya,Kisumu,Salmonella,6,0.0
+2023-01-15,Kenya,Kisumu,Shigella,5,2.53
+2023-01-15,Kenya,Kisumu,Rotavirus,9,0.0
+2023-01-22,Kenya,Kisumu,Cholera,5,4.29
+2023-01-22,Kenya,Kisumu,E. coli,9,6.46
+2023-01-22,Kenya,Kisumu,Salmonella,11,1.92
+2023-01-22,Kenya,Kisumu,Shigella,14,0.0
+2023-01-22,Kenya,Kisumu,Rotavirus,15,2.92
+2023-01-29,Kenya,Kisumu,Cholera,13,5.3
+2023-01-29,Kenya,Kisumu,E. coli,11,5.02
+2023-01-29,Kenya,Kisumu,Salmonella,6,0.0
+2023-01-29,Kenya,Kisumu,Shigella,12,5.71
+2023-01-29,Kenya,Kisumu,Rotavirus,48,11.0
+2023-02-05,Kenya,Kisumu,Cholera,13,0.0
+2023-02-05,Kenya,Kisumu,E. coli,15,4.96
+2023-02-05,Kenya,Kisumu,Salmonella,18,6.51
+2023-02-05,Kenya,Kisumu,Shigella,16,2.66
+2023-02-05,Kenya,Kisumu,Rotavirus,16,8.76
+2023-02-12,Kenya,Kisumu,Cholera,14,2.69
+2023-02-12,Kenya,Kisumu,E. coli,14,6.34
+2023-02-12,Kenya,Kisumu,Salmonella,16,13.92
+2023-02-12,Kenya,Kisumu,Shigella,19,1.45
+2023-02-12,Kenya,Kisumu,Rotavirus,15,4.27
+2023-02-19,Kenya,Kisumu,Cholera,7,0.0
+2023-02-19,Kenya,Kisumu,E. coli,11,10.17
+2023-02-19,Kenya,Kisumu,Salmonella,16,3.72
+2023-02-19,Kenya,Kisumu,Shigella,10,9.35
+2023-02-19,Kenya,Kisumu,Rotavirus,17,0.29
+2023-02-26,Kenya,Kisumu,Cholera,14,0.0
+2023-02-26,Kenya,Kisumu,E. coli,19,4.09
+2023-02-26,Kenya,Kisumu,Salmonella,15,0.0
+2023-02-26,Kenya,Kisumu,Shigella,21,5.22
+2023-02-26,Kenya,Kisumu,Rotavirus,57,15.7
+2023-03-05,Kenya,Kisumu,Cholera,23,2.35
+2023-03-05,Kenya,Kisumu,E. coli,23,4.62
+2023-03-05,Kenya,Kisumu,Salmonella,69,13.34
+2023-03-05,Kenya,Kisumu,Shigella,16,0.66
+2023-03-05,Kenya,Kisumu,Rotavirus,17,0.0
+2023-03-12,Kenya,Kisumu,Cholera,22,0.0
+2023-03-12,Kenya,Kisumu,E. coli,15,2.53
+2023-03-12,Kenya,Kisumu,Salmonella,21,4.51
+2023-03-12,Kenya,Kisumu,Shigella,16,0.0
+2023-03-12,Kenya,Kisumu,Rotavirus,15,9.8
+2023-03-19,Kenya,Kisumu,Cholera,23,8.62
+2023-03-19,Kenya,Kisumu,E. coli,15,4.01
+2023-03-19,Kenya,Kisumu,Salmonella,13,10.6
+2023-03-19,Kenya,Kisumu,Shigella,31,7.5
+2023-03-19,Kenya,Kisumu,Rotavirus,22,6.8
+2023-03-26,Kenya,Kisumu,Cholera,15,2.03
+2023-03-26,Kenya,Kisumu,E. coli,17,0.0
+2023-03-26,Kenya,Kisumu,Salmonella,24,2.77
+2023-03-26,Kenya,Kisumu,Shigella,18,7.1
+2023-03-26,Kenya,Kisumu,Rotavirus,21,10.45
+2023-04-02,Kenya,Kisumu,Cholera,24,10.21
+2023-04-02,Kenya,Kisumu,E. coli,26,2.7
+2023-04-02,Kenya,Kisumu,Salmonella,17,0.0
+2023-04-02,Kenya,Kisumu,Shigella,20,3.84
+2023-04-02,Kenya,Kisumu,Rotavirus,23,0.0
+2023-04-09,Kenya,Kisumu,Cholera,13,0.0
+2023-04-09,Kenya,Kisumu,E. coli,36,8.46
+2023-04-09,Kenya,Kisumu,Salmonella,26,8.04
+2023-04-09,Kenya,Kisumu,Shigella,18,9.03
+2023-04-09,Kenya,Kisumu,Rotavirus,18,0.0
+2023-04-16,Kenya,Kisumu,Cholera,18,12.52
+2023-04-16,Kenya,Kisumu,E. coli,21,8.26
+2023-04-16,Kenya,Kisumu,Salmonella,19,5.46
+2023-04-16,Kenya,Kisumu,Shigella,26,0.0
+2023-04-16,Kenya,Kisumu,Rotavirus,17,0.0
+2023-04-23,Kenya,Kisumu,Cholera,11,0.0
+2023-04-23,Kenya,Kisumu,E. coli,16,2.3
+2023-04-23,Kenya,Kisumu,Salmonella,15,4.73
+2023-04-23,Kenya,Kisumu,Shigella,19,6.26
+2023-04-23,Kenya,Kisumu,Rotavirus,26,0.0
+2023-04-30,Kenya,Kisumu,Cholera,18,5.67
+2023-04-30,Kenya,Kisumu,E. coli,13,0.0
+2023-04-30,Kenya,Kisumu,Salmonella,20,8.11
+2023-04-30,Kenya,Kisumu,Shigella,43,8.96
+2023-04-30,Kenya,Kisumu,Rotavirus,20,12.1
+2023-05-07,Kenya,Kisumu,Cholera,19,0.0
+2023-05-07,Kenya,Kisumu,E. coli,16,0.0
+2023-05-07,Kenya,Kisumu,Salmonella,45,11.69
+2023-05-07,Kenya,Kisumu,Shigella,17,6.17
+2023-05-07,Kenya,Kisumu,Rotavirus,22,5.71
+2023-05-14,Kenya,Kisumu,Cholera,16,0.0
+2023-05-14,Kenya,Kisumu,E. coli,19,0.0
+2023-05-14,Kenya,Kisumu,Salmonella,17,1.12
+2023-05-14,Kenya,Kisumu,Shigella,17,2.53
+2023-05-14,Kenya,Kisumu,Rotavirus,15,8.01
+2023-05-21,Kenya,Kisumu,Cholera,16,0.43
+2023-05-21,Kenya,Kisumu,E. coli,10,0.0
+2023-05-21,Kenya,Kisumu,Salmonella,7,2.87
+2023-05-21,Kenya,Kisumu,Shigella,10,11.13
+2023-05-21,Kenya,Kisumu,Rotavirus,11,0.0
+2023-05-28,Kenya,Kisumu,Cholera,7,5.39
+2023-05-28,Kenya,Kisumu,E. coli,13,2.66
+2023-05-28,Kenya,Kisumu,Salmonella,14,1.26
+2023-05-28,Kenya,Kisumu,Shigella,20,0.06
+2023-05-28,Kenya,Kisumu,Rotavirus,13,0.0
+2023-06-04,Kenya,Kisumu,Cholera,15,7.75
+2023-06-04,Kenya,Kisumu,E. coli,16,2.3
+2023-06-04,Kenya,Kisumu,Salmonella,17,0.0
+2023-06-04,Kenya,Kisumu,Shigella,11,5.76
+2023-06-04,Kenya,Kisumu,Rotavirus,11,0.0
+2023-06-11,Kenya,Kisumu,Cholera,13,0.0
+2023-06-11,Kenya,Kisumu,E. coli,9,10.26
+2023-06-11,Kenya,Kisumu,Salmonella,9,9.53
+2023-06-11,Kenya,Kisumu,Shigella,10,3.15
+2023-06-11,Kenya,Kisumu,Rotavirus,7,0.0
+2023-06-18,Kenya,Kisumu,Cholera,6,5.93
+2023-06-18,Kenya,Kisumu,E. coli,7,1.68
+2023-06-18,Kenya,Kisumu,Salmonella,9,0.0
+2023-06-18,Kenya,Kisumu,Shigella,6,14.0
+2023-06-18,Kenya,Kisumu,Rotavirus,7,0.0
+2023-06-25,Kenya,Kisumu,Cholera,3,6.35
+2023-06-25,Kenya,Kisumu,E. coli,43,7.39
+2023-06-25,Kenya,Kisumu,Salmonella,6,0.0
+2023-06-25,Kenya,Kisumu,Shigella,8,0.62
+2023-06-25,Kenya,Kisumu,Rotavirus,6,0.04
+2023-07-02,Kenya,Kisumu,Cholera,5,3.32
+2023-07-02,Kenya,Kisumu,E. coli,8,4.34
+2023-07-02,Kenya,Kisumu,Salmonella,9,1.25
+2023-07-02,Kenya,Kisumu,Shigella,3,0.0
+2023-07-02,Kenya,Kisumu,Rotavirus,3,0.0
+2023-07-09,Kenya,Kisumu,Cholera,2,1.97
+2023-07-09,Kenya,Kisumu,E. coli,3,0.0
+2023-07-09,Kenya,Kisumu,Salmonella,0,0.0
+2023-07-09,Kenya,Kisumu,Shigella,0,7.46
+2023-07-09,Kenya,Kisumu,Rotavirus,4,4.1
+2023-07-16,Kenya,Kisumu,Cholera,0,0.0
+2023-07-16,Kenya,Kisumu,E. coli,0,4.94
+2023-07-16,Kenya,Kisumu,Salmonella,1,2.04
+2023-07-16,Kenya,Kisumu,Shigella,0,0.0
+2023-07-16,Kenya,Kisumu,Rotavirus,3,0.0
+2023-07-23,Kenya,Kisumu,Cholera,0,4.01
+2023-07-23,Kenya,Kisumu,E. coli,0,0.16
+2023-07-23,Kenya,Kisumu,Salmonella,0,1.38
+2023-07-23,Kenya,Kisumu,Shigella,0,2.58
+2023-07-23,Kenya,Kisumu,Rotavirus,0,0.0
+2023-07-30,Kenya,Kisumu,Cholera,0,0.28
+2023-07-30,Kenya,Kisumu,E. coli,0,0.0
+2023-07-30,Kenya,Kisumu,Salmonella,0,0.0
+2023-07-30,Kenya,Kisumu,Shigella,0,2.84
+2023-07-30,Kenya,Kisumu,Rotavirus,0,0.73
+2023-08-06,Kenya,Kisumu,Cholera,0,6.99
+2023-08-06,Kenya,Kisumu,E. coli,0,9.6
+2023-08-06,Kenya,Kisumu,Salmonella,0,2.66
+2023-08-06,Kenya,Kisumu,Shigella,0,0.0
+2023-08-06,Kenya,Kisumu,Rotavirus,0,0.0
+2023-08-13,Kenya,Kisumu,Cholera,0,0.0
+2023-08-13,Kenya,Kisumu,E. coli,0,7.35
+2023-08-13,Kenya,Kisumu,Salmonella,0,0.0
+2023-08-13,Kenya,Kisumu,Shigella,0,7.58
+2023-08-13,Kenya,Kisumu,Rotavirus,0,4.23
+2023-08-20,Kenya,Kisumu,Cholera,0,2.55
+2023-08-20,Kenya,Kisumu,E. coli,0,10.59
+2023-08-20,Kenya,Kisumu,Salmonella,0,0.0
+2023-08-20,Kenya,Kisumu,Shigella,0,0.0
+2023-08-20,Kenya,Kisumu,Rotavirus,32,7.62
+2023-08-27,Kenya,Kisumu,Cholera,32,3.43
+2023-08-27,Kenya,Kisumu,E. coli,0,0.41
+2023-08-27,Kenya,Kisumu,Salmonella,0,4.16
+2023-08-27,Kenya,Kisumu,Shigella,0,2.24
+2023-08-27,Kenya,Kisumu,Rotavirus,0,0.0
+2023-09-03,Kenya,Kisumu,Cholera,0,0.0
+2023-09-03,Kenya,Kisumu,E. coli,0,0.0
+2023-09-03,Kenya,Kisumu,Salmonella,0,3.88
+2023-09-03,Kenya,Kisumu,Shigella,0,0.74
+2023-09-03,Kenya,Kisumu,Rotavirus,0,0.0
+2023-09-10,Kenya,Kisumu,Cholera,0,5.09
+2023-09-10,Kenya,Kisumu,E. coli,0,0.0
+2023-09-10,Kenya,Kisumu,Salmonella,0,0.0
+2023-09-10,Kenya,Kisumu,Shigella,0,0.4
+2023-09-10,Kenya,Kisumu,Rotavirus,0,0.0
+2023-09-17,Kenya,Kisumu,Cholera,0,5.82
+2023-09-17,Kenya,Kisumu,E. coli,0,0.0
+2023-09-17,Kenya,Kisumu,Salmonella,0,0.0
+2023-09-17,Kenya,Kisumu,Shigella,0,0.0
+2023-09-17,Kenya,Kisumu,Rotavirus,0,2.3
+2023-09-24,Kenya,Kisumu,Cholera,0,0.0
+2023-09-24,Kenya,Kisumu,E. coli,0,0.0
+2023-09-24,Kenya,Kisumu,Salmonella,0,0.0
+2023-09-24,Kenya,Kisumu,Shigella,0,10.53
+2023-09-24,Kenya,Kisumu,Rotavirus,0,0.0
+2023-10-01,Kenya,Kisumu,Cholera,0,0.0
+2023-10-01,Kenya,Kisumu,E. coli,34,3.22
+2023-10-01,Kenya,Kisumu,Salmonella,0,0.0
+2023-10-01,Kenya,Kisumu,Shigella,0,2.05
+2023-10-01,Kenya,Kisumu,Rotavirus,0,2.64
+2023-10-08,Kenya,Kisumu,Cholera,0,0.0
+2023-10-08,Kenya,Kisumu,E. coli,0,0.0
+2023-10-08,Kenya,Kisumu,Salmonella,0,0.0
+2023-10-08,Kenya,Kisumu,Shigella,0,7.66
+2023-10-08,Kenya,Kisumu,Rotavirus,0,4.14
+2023-10-15,Kenya,Kisumu,Cholera,0,3.51
+2023-10-15,Kenya,Kisumu,E. coli,0,0.0
+2023-10-15,Kenya,Kisumu,Salmonella,0,0.0
+2023-10-15,Kenya,Kisumu,Shigella,0,0.0
+2023-10-15,Kenya,Kisumu,Rotavirus,0,5.81
+2023-10-22,Kenya,Kisumu,Cholera,0,0.0
+2023-10-22,Kenya,Kisumu,E. coli,0,9.94
+2023-10-22,Kenya,Kisumu,Salmonella,0,0.62
+2023-10-22,Kenya,Kisumu,Shigella,0,9.48
+2023-10-22,Kenya,Kisumu,Rotavirus,0,5.93
+2023-10-29,Kenya,Kisumu,Cholera,0,0.0
+2023-10-29,Kenya,Kisumu,E. coli,0,0.0
+2023-10-29,Kenya,Kisumu,Salmonella,0,2.07
+2023-10-29,Kenya,Kisumu,Shigella,0,0.0
+2023-10-29,Kenya,Kisumu,Rotavirus,0,3.18
+2023-11-05,Kenya,Kisumu,Cholera,0,12.54
+2023-11-05,Kenya,Kisumu,E. coli,0,8.7
+2023-11-05,Kenya,Kisumu,Salmonella,0,12.13
+2023-11-05,Kenya,Kisumu,Shigella,27,2.53
+2023-11-05,Kenya,Kisumu,Rotavirus,0,0.0
+2023-11-12,Kenya,Kisumu,Cholera,0,0.0
+2023-11-12,Kenya,Kisumu,E. coli,0,3.14
+2023-11-12,Kenya,Kisumu,Salmonella,0,8.1
+2023-11-12,Kenya,Kisumu,Shigella,0,1.15
+2023-11-12,Kenya,Kisumu,Rotavirus,0,0.0
+2023-11-19,Kenya,Kisumu,Cholera,0,2.65
+2023-11-19,Kenya,Kisumu,E. coli,0,0.0
+2023-11-19,Kenya,Kisumu,Salmonella,0,0.0
+2023-11-19,Kenya,Kisumu,Shigella,0,5.92
+2023-11-19,Kenya,Kisumu,Rotavirus,0,0.0
+2023-11-26,Kenya,Kisumu,Cholera,0,0.42
+2023-11-26,Kenya,Kisumu,E. coli,0,1.37
+2023-11-26,Kenya,Kisumu,Salmonella,0,0.0
+2023-11-26,Kenya,Kisumu,Shigella,0,0.0
+2023-11-26,Kenya,Kisumu,Rotavirus,0,2.72
+2023-12-03,Kenya,Kisumu,Cholera,0,0.0
+2023-12-03,Kenya,Kisumu,E. coli,0,5.16
+2023-12-03,Kenya,Kisumu,Salmonella,0,0.0
+2023-12-03,Kenya,Kisumu,Shigella,0,0.0
+2023-12-03,Kenya,Kisumu,Rotavirus,0,0.0
+2023-12-10,Kenya,Kisumu,Cholera,0,2.54
+2023-12-10,Kenya,Kisumu,E. coli,0,1.38
+2023-12-10,Kenya,Kisumu,Salmonella,0,0.0
+2023-12-10,Kenya,Kisumu,Shigella,0,0.0
+2023-12-10,Kenya,Kisumu,Rotavirus,0,0.0
+2023-12-17,Kenya,Kisumu,Cholera,3,0.0
+2023-12-17,Kenya,Kisumu,E. coli,3,0.0
+2023-12-17,Kenya,Kisumu,Salmonella,3,0.0
+2023-12-17,Kenya,Kisumu,Shigella,2,0.0
+2023-12-17,Kenya,Kisumu,Rotavirus,2,0.0
+2023-12-24,Kenya,Kisumu,Cholera,3,2.22
+2023-12-24,Kenya,Kisumu,E. coli,2,0.0
+2023-12-24,Kenya,Kisumu,Salmonella,4,5.22
+2023-12-24,Kenya,Kisumu,Shigella,4,0.0
+2023-12-24,Kenya,Kisumu,Rotavirus,2,0.0
+2023-01-01,Kenya,Mombasa,Cholera,4,0.0
+2023-01-01,Kenya,Mombasa,E. coli,3,0.81
+2023-01-01,Kenya,Mombasa,Salmonella,9,0.02
+2023-01-01,Kenya,Mombasa,Shigella,6,8.6
+2023-01-01,Kenya,Mombasa,Rotavirus,6,7.74
+2023-01-08,Kenya,Mombasa,Cholera,14,3.07
+2023-01-08,Kenya,Mombasa,E. coli,3,0.41
+2023-01-08,Kenya,Mombasa,Salmonella,11,10.15
+2023-01-08,Kenya,Mombasa,Shigella,9,2.13
+2023-01-08,Kenya,Mombasa,Rotavirus,6,5.71
+2023-01-15,Kenya,Mombasa,Cholera,10,7.24
+2023-01-15,Kenya,Mombasa,E. coli,8,0.0
+2023-01-15,Kenya,Mombasa,Salmonella,13,6.59
+2023-01-15,Kenya,Mombasa,Shigella,8,9.08
+2023-01-15,Kenya,Mombasa,Rotavirus,8,0.29
+2023-01-22,Kenya,Mombasa,Cholera,11,1.6
+2023-01-22,Kenya,Mombasa,E. coli,3,1.99
+2023-01-22,Kenya,Mombasa,Salmonella,13,6.51
+2023-01-22,Kenya,Mombasa,Shigella,55,7.35
+2023-01-22,Kenya,Mombasa,Rotavirus,14,7.51
+2023-01-29,Kenya,Mombasa,Cholera,16,0.0
+2023-01-29,Kenya,Mombasa,E. coli,10,0.0
+2023-01-29,Kenya,Mombasa,Salmonella,8,0.0
+2023-01-29,Kenya,Mombasa,Shigella,14,0.0
+2023-01-29,Kenya,Mombasa,Rotavirus,11,3.9
+2023-02-05,Kenya,Mombasa,Cholera,11,0.73
+2023-02-05,Kenya,Mombasa,E. coli,15,9.83
+2023-02-05,Kenya,Mombasa,Salmonella,19,3.52
+2023-02-05,Kenya,Mombasa,Shigella,13,0.8
+2023-02-05,Kenya,Mombasa,Rotavirus,8,4.71
+2023-02-12,Kenya,Mombasa,Cholera,16,3.31
+2023-02-12,Kenya,Mombasa,E. coli,6,0.0
+2023-02-12,Kenya,Mombasa,Salmonella,17,6.19
+2023-02-12,Kenya,Mombasa,Shigella,11,1.76
+2023-02-12,Kenya,Mombasa,Rotavirus,13,0.0
+2023-02-19,Kenya,Mombasa,Cholera,11,6.14
+2023-02-19,Kenya,Mombasa,E. coli,9,1.13
+2023-02-19,Kenya,Mombasa,Salmonella,19,0.0
+2023-02-19,Kenya,Mombasa,Shigella,14,0.07
+2023-02-19,Kenya,Mombasa,Rotavirus,16,4.3
+2023-02-26,Kenya,Mombasa,Cholera,16,13.33
+2023-02-26,Kenya,Mombasa,E. coli,21,0.0
+2023-02-26,Kenya,Mombasa,Salmonella,13,0.0
+2023-02-26,Kenya,Mombasa,Shigella,11,0.29
+2023-02-26,Kenya,Mombasa,Rotavirus,20,13.64
+2023-03-05,Kenya,Mombasa,Cholera,19,4.03
+2023-03-05,Kenya,Mombasa,E. coli,21,9.97
+2023-03-05,Kenya,Mombasa,Salmonella,24,0.0
+2023-03-05,Kenya,Mombasa,Shigella,17,2.7
+2023-03-05,Kenya,Mombasa,Rotavirus,16,0.57
+2023-03-12,Kenya,Mombasa,Cholera,9,0.0
+2023-03-12,Kenya,Mombasa,E. coli,23,5.37
+2023-03-12,Kenya,Mombasa,Salmonella,17,5.29
+2023-03-12,Kenya,Mombasa,Shigella,18,0.65
+2023-03-12,Kenya,Mombasa,Rotavirus,19,2.51
+2023-03-19,Kenya,Mombasa,Cholera,23,4.33
+2023-03-19,Kenya,Mombasa,E. coli,22,0.0
+2023-03-19,Kenya,Mombasa,Salmonella,23,4.44
+2023-03-19,Kenya,Mombasa,Shigella,62,7.21
+2023-03-19,Kenya,Mombasa,Rotavirus,18,8.71
+2023-03-26,Kenya,Mombasa,Cholera,27,3.79
+2023-03-26,Kenya,Mombasa,E. coli,22,11.09
+2023-03-26,Kenya,Mombasa,Salmonella,17,9.72
+2023-03-26,Kenya,Mombasa,Shigella,24,6.95
+2023-03-26,Kenya,Mombasa,Rotavirus,13,8.55
+2023-04-02,Kenya,Mombasa,Cholera,55,9.51
+2023-04-02,Kenya,Mombasa,E. coli,16,8.71
+2023-04-02,Kenya,Mombasa,Salmonella,21,6.66
+2023-04-02,Kenya,Mombasa,Shigella,9,6.63
+2023-04-02,Kenya,Mombasa,Rotavirus,19,7.32
+2023-04-09,Kenya,Mombasa,Cholera,15,0.0
+2023-04-09,Kenya,Mombasa,E. coli,20,4.45
+2023-04-09,Kenya,Mombasa,Salmonella,25,0.01
+2023-04-09,Kenya,Mombasa,Shigella,51,4.9
+2023-04-09,Kenya,Mombasa,Rotavirus,22,5.12
+2023-04-16,Kenya,Mombasa,Cholera,20,3.48
+2023-04-16,Kenya,Mombasa,E. coli,15,6.12
+2023-04-16,Kenya,Mombasa,Salmonella,19,5.1
+2023-04-16,Kenya,Mombasa,Shigella,21,2.34
+2023-04-16,Kenya,Mombasa,Rotavirus,23,4.52
+2023-04-23,Kenya,Mombasa,Cholera,23,0.99
+2023-04-23,Kenya,Mombasa,E. coli,14,7.01
+2023-04-23,Kenya,Mombasa,Salmonella,20,7.62
+2023-04-23,Kenya,Mombasa,Shigella,16,0.75
+2023-04-23,Kenya,Mombasa,Rotavirus,22,11.32
+2023-04-30,Kenya,Mombasa,Cholera,17,0.7
+2023-04-30,Kenya,Mombasa,E. coli,23,10.38
+2023-04-30,Kenya,Mombasa,Salmonella,26,12.11
+2023-04-30,Kenya,Mombasa,Shigella,16,5.91
+2023-04-30,Kenya,Mombasa,Rotavirus,20,4.87
+2023-05-07,Kenya,Mombasa,Cholera,22,3.54
+2023-05-07,Kenya,Mombasa,E. coli,22,0.0
+2023-05-07,Kenya,Mombasa,Salmonella,20,0.0
+2023-05-07,Kenya,Mombasa,Shigella,24,3.77
+2023-05-07,Kenya,Mombasa,Rotavirus,8,0.22
+2023-05-14,Kenya,Mombasa,Cholera,20,4.44
+2023-05-14,Kenya,Mombasa,E. coli,16,2.24
+2023-05-14,Kenya,Mombasa,Salmonella,11,4.63
+2023-05-14,Kenya,Mombasa,Shigella,14,5.7
+2023-05-14,Kenya,Mombasa,Rotavirus,18,0.0
+2023-05-21,Kenya,Mombasa,Cholera,18,7.92
+2023-05-21,Kenya,Mombasa,E. coli,16,0.0
+2023-05-21,Kenya,Mombasa,Salmonella,18,0.68
+2023-05-21,Kenya,Mombasa,Shigella,19,9.76
+2023-05-21,Kenya,Mombasa,Rotavirus,17,4.48
+2023-05-28,Kenya,Mombasa,Cholera,19,0.17
+2023-05-28,Kenya,Mombasa,E. coli,18,2.01
+2023-05-28,Kenya,Mombasa,Salmonella,12,0.0
+2023-05-28,Kenya,Mombasa,Shigella,15,7.84
+2023-05-28,Kenya,Mombasa,Rotavirus,10,0.0
+2023-06-04,Kenya,Mombasa,Cholera,8,8.68
+2023-06-04,Kenya,Mombasa,E. coli,14,0.73
+2023-06-04,Kenya,Mombasa,Salmonella,9,0.0
+2023-06-04,Kenya,Mombasa,Shigella,12,0.0
+2023-06-04,Kenya,Mombasa,Rotavirus,9,0.0
+2023-06-11,Kenya,Mombasa,Cholera,15,0.0
+2023-06-11,Kenya,Mombasa,E. coli,9,0.89
+2023-06-11,Kenya,Mombasa,Salmonella,6,9.34
+2023-06-11,Kenya,Mombasa,Shigella,9,0.0
+2023-06-11,Kenya,Mombasa,Rotavirus,10,2.17
+2023-06-18,Kenya,Mombasa,Cholera,15,2.25
+2023-06-18,Kenya,Mombasa,E. coli,15,0.0
+2023-06-18,Kenya,Mombasa,Salmonella,0,3.15
+2023-06-18,Kenya,Mombasa,Shigella,12,9.91
+2023-06-18,Kenya,Mombasa,Rotavirus,9,6.35
+2023-06-25,Kenya,Mombasa,Cholera,7,1.23
+2023-06-25,Kenya,Mombasa,E. coli,9,0.0
+2023-06-25,Kenya,Mombasa,Salmonella,7,10.53
+2023-06-25,Kenya,Mombasa,Shigella,10,4.46
+2023-06-25,Kenya,Mombasa,Rotavirus,5,2.81
+2023-07-02,Kenya,Mombasa,Cholera,2,2.14
+2023-07-02,Kenya,Mombasa,E. coli,4,4.15
+2023-07-02,Kenya,Mombasa,Salmonella,7,3.6
+2023-07-02,Kenya,Mombasa,Shigella,4,2.14
+2023-07-02,Kenya,Mombasa,Rotavirus,5,5.7
+2023-07-09,Kenya,Mombasa,Cholera,1,4.06
+2023-07-09,Kenya,Mombasa,E. coli,1,0.0
+2023-07-09,Kenya,Mombasa,Salmonella,5,0.0
+2023-07-09,Kenya,Mombasa,Shigella,4,3.47
+2023-07-09,Kenya,Mombasa,Rotavirus,4,0.0
+2023-07-16,Kenya,Mombasa,Cholera,1,1.76
+2023-07-16,Kenya,Mombasa,E. coli,36,8.13
+2023-07-16,Kenya,Mombasa,Salmonella,2,6.45
+2023-07-16,Kenya,Mombasa,Shigella,3,0.48
+2023-07-16,Kenya,Mombasa,Rotavirus,1,1.83
+2023-07-23,Kenya,Mombasa,Cholera,0,0.0
+2023-07-23,Kenya,Mombasa,E. coli,0,0.0
+2023-07-23,Kenya,Mombasa,Salmonella,0,0.0
+2023-07-23,Kenya,Mombasa,Shigella,0,6.39
+2023-07-23,Kenya,Mombasa,Rotavirus,0,2.85
+2023-07-30,Kenya,Mombasa,Cholera,0,0.0
+2023-07-30,Kenya,Mombasa,E. coli,0,5.15
+2023-07-30,Kenya,Mombasa,Salmonella,0,0.0
+2023-07-30,Kenya,Mombasa,Shigella,0,0.0
+2023-07-30,Kenya,Mombasa,Rotavirus,0,0.0
+2023-08-06,Kenya,Mombasa,Cholera,0,0.0
+2023-08-06,Kenya,Mombasa,E. coli,0,10.6
+2023-08-06,Kenya,Mombasa,Salmonella,0,4.89
+2023-08-06,Kenya,Mombasa,Shigella,0,0.0
+2023-08-06,Kenya,Mombasa,Rotavirus,0,0.0
+2023-08-13,Kenya,Mombasa,Cholera,0,0.0
+2023-08-13,Kenya,Mombasa,E. coli,0,0.3
+2023-08-13,Kenya,Mombasa,Salmonella,0,0.0
+2023-08-13,Kenya,Mombasa,Shigella,0,7.51
+2023-08-13,Kenya,Mombasa,Rotavirus,0,0.0
+2023-08-20,Kenya,Mombasa,Cholera,0,9.93
+2023-08-20,Kenya,Mombasa,E. coli,0,0.0
+2023-08-20,Kenya,Mombasa,Salmonella,0,11.27
+2023-08-20,Kenya,Mombasa,Shigella,0,0.0
+2023-08-20,Kenya,Mombasa,Rotavirus,0,0.0
+2023-08-27,Kenya,Mombasa,Cholera,0,4.77
+2023-08-27,Kenya,Mombasa,E. coli,0,3.95
+2023-08-27,Kenya,Mombasa,Salmonella,0,0.0
+2023-08-27,Kenya,Mombasa,Shigella,0,0.42
+2023-08-27,Kenya,Mombasa,Rotavirus,0,0.0
+2023-09-03,Kenya,Mombasa,Cholera,0,0.0
+2023-09-03,Kenya,Mombasa,E. coli,0,0.4
+2023-09-03,Kenya,Mombasa,Salmonella,25,3.56
+2023-09-03,Kenya,Mombasa,Shigella,0,0.0
+2023-09-03,Kenya,Mombasa,Rotavirus,0,0.04
+2023-09-10,Kenya,Mombasa,Cholera,0,0.0
+2023-09-10,Kenya,Mombasa,E. coli,0,0.0
+2023-09-10,Kenya,Mombasa,Salmonella,0,0.0
+2023-09-10,Kenya,Mombasa,Shigella,0,11.25
+2023-09-10,Kenya,Mombasa,Rotavirus,0,0.0
+2023-09-17,Kenya,Mombasa,Cholera,0,0.0
+2023-09-17,Kenya,Mombasa,E. coli,0,0.0
+2023-09-17,Kenya,Mombasa,Salmonella,31,16.48
+2023-09-17,Kenya,Mombasa,Shigella,0,4.87
+2023-09-17,Kenya,Mombasa,Rotavirus,0,0.0
+2023-09-24,Kenya,Mombasa,Cholera,0,0.0
+2023-09-24,Kenya,Mombasa,E. coli,0,0.0
+2023-09-24,Kenya,Mombasa,Salmonella,0,3.3
+2023-09-24,Kenya,Mombasa,Shigella,0,0.0
+2023-09-24,Kenya,Mombasa,Rotavirus,0,5.4
+2023-10-01,Kenya,Mombasa,Cholera,0,0.02
+2023-10-01,Kenya,Mombasa,E. coli,0,5.75
+2023-10-01,Kenya,Mombasa,Salmonella,0,6.12
+2023-10-01,Kenya,Mombasa,Shigella,0,0.0
+2023-10-01,Kenya,Mombasa,Rotavirus,0,0.0
+2023-10-08,Kenya,Mombasa,Cholera,0,0.0
+2023-10-08,Kenya,Mombasa,E. coli,0,0.0
+2023-10-08,Kenya,Mombasa,Salmonella,24,1.87
+2023-10-08,Kenya,Mombasa,Shigella,0,0.0
+2023-10-08,Kenya,Mombasa,Rotavirus,0,6.36
+2023-10-15,Kenya,Mombasa,Cholera,0,2.2
+2023-10-15,Kenya,Mombasa,E. coli,42,3.96
+2023-10-15,Kenya,Mombasa,Salmonella,0,0.0
+2023-10-15,Kenya,Mombasa,Shigella,0,0.0
+2023-10-15,Kenya,Mombasa,Rotavirus,0,0.05
+2023-10-22,Kenya,Mombasa,Cholera,0,2.09
+2023-10-22,Kenya,Mombasa,E. coli,0,0.0
+2023-10-22,Kenya,Mombasa,Salmonella,0,4.4
+2023-10-22,Kenya,Mombasa,Shigella,0,0.0
+2023-10-22,Kenya,Mombasa,Rotavirus,0,0.0
+2023-10-29,Kenya,Mombasa,Cholera,28,8.53
+2023-10-29,Kenya,Mombasa,E. coli,0,0.0
+2023-10-29,Kenya,Mombasa,Salmonella,0,0.0
+2023-10-29,Kenya,Mombasa,Shigella,0,0.0
+2023-10-29,Kenya,Mombasa,Rotavirus,0,0.53
+2023-11-05,Kenya,Mombasa,Cholera,0,0.0
+2023-11-05,Kenya,Mombasa,E. coli,0,3.89
+2023-11-05,Kenya,Mombasa,Salmonella,0,0.0
+2023-11-05,Kenya,Mombasa,Shigella,0,4.61
+2023-11-05,Kenya,Mombasa,Rotavirus,0,0.0
+2023-11-12,Kenya,Mombasa,Cholera,0,6.11
+2023-11-12,Kenya,Mombasa,E. coli,0,0.0
+2023-11-12,Kenya,Mombasa,Salmonella,0,0.0
+2023-11-12,Kenya,Mombasa,Shigella,44,11.58
+2023-11-12,Kenya,Mombasa,Rotavirus,0,1.4
+2023-11-19,Kenya,Mombasa,Cholera,0,0.19
+2023-11-19,Kenya,Mombasa,E. coli,0,3.94
+2023-11-19,Kenya,Mombasa,Salmonella,0,0.0
+2023-11-19,Kenya,Mombasa,Shigella,0,1.6
+2023-11-19,Kenya,Mombasa,Rotavirus,0,0.0
+2023-11-26,Kenya,Mombasa,Cholera,0,0.0
+2023-11-26,Kenya,Mombasa,E. coli,0,5.81
+2023-11-26,Kenya,Mombasa,Salmonella,0,0.0
+2023-11-26,Kenya,Mombasa,Shigella,0,0.0
+2023-11-26,Kenya,Mombasa,Rotavirus,0,6.4
+2023-12-03,Kenya,Mombasa,Cholera,0,0.5
+2023-12-03,Kenya,Mombasa,E. coli,0,0.0
+2023-12-03,Kenya,Mombasa,Salmonella,0,6.81
+2023-12-03,Kenya,Mombasa,Shigella,0,0.28
+2023-12-03,Kenya,Mombasa,Rotavirus,0,0.0
+2023-12-10,Kenya,Mombasa,Cholera,0,4.29
+2023-12-10,Kenya,Mombasa,E. coli,0,0.0
+2023-12-10,Kenya,Mombasa,Salmonella,47,8.1
+2023-12-10,Kenya,Mombasa,Shigella,0,0.0
+2023-12-10,Kenya,Mombasa,Rotavirus,0,0.0
+2023-12-17,Kenya,Mombasa,Cholera,3,10.04
+2023-12-17,Kenya,Mombasa,E. coli,2,0.0
+2023-12-17,Kenya,Mombasa,Salmonella,2,1.33
+2023-12-17,Kenya,Mombasa,Shigella,1,5.6
+2023-12-17,Kenya,Mombasa,Rotavirus,0,0.0
+2023-12-24,Kenya,Mombasa,Cholera,4,0.0
+2023-12-24,Kenya,Mombasa,E. coli,4,7.02
+2023-12-24,Kenya,Mombasa,Salmonella,2,4.66
+2023-12-24,Kenya,Mombasa,Shigella,3,3.91
+2023-12-24,Kenya,Mombasa,Rotavirus,2,0.0
+2023-01-01,Tanzania,Dar es Salaam,Cholera,4,0.0
+2023-01-01,Tanzania,Dar es Salaam,E. coli,2,1.87
+2023-01-01,Tanzania,Dar es Salaam,Salmonella,4,10.85
+2023-01-01,Tanzania,Dar es Salaam,Shigella,8,0.0
+2023-01-01,Tanzania,Dar es Salaam,Rotavirus,3,2.57
+2023-01-08,Tanzania,Dar es Salaam,Cholera,4,2.9
+2023-01-08,Tanzania,Dar es Salaam,E. coli,7,4.5
+2023-01-08,Tanzania,Dar es Salaam,Salmonella,5,2.78
+2023-01-08,Tanzania,Dar es Salaam,Shigella,8,2.68
+2023-01-08,Tanzania,Dar es Salaam,Rotavirus,7,2.37
+2023-01-15,Tanzania,Dar es Salaam,Cholera,6,0.0
+2023-01-15,Tanzania,Dar es Salaam,E. coli,9,0.0
+2023-01-15,Tanzania,Dar es Salaam,Salmonella,4,0.97
+2023-01-15,Tanzania,Dar es Salaam,Shigella,9,5.32
+2023-01-15,Tanzania,Dar es Salaam,Rotavirus,7,0.0
+2023-01-22,Tanzania,Dar es Salaam,Cholera,8,1.18
+2023-01-22,Tanzania,Dar es Salaam,E. coli,10,1.64
+2023-01-22,Tanzania,Dar es Salaam,Salmonella,7,12.69
+2023-01-22,Tanzania,Dar es Salaam,Shigella,11,0.0
+2023-01-22,Tanzania,Dar es Salaam,Rotavirus,57,5.53
+2023-01-29,Tanzania,Dar es Salaam,Cholera,12,0.0
+2023-01-29,Tanzania,Dar es Salaam,E. coli,17,0.0
+2023-01-29,Tanzania,Dar es Salaam,Salmonella,10,6.96
+2023-01-29,Tanzania,Dar es Salaam,Shigella,12,4.65
+2023-01-29,Tanzania,Dar es Salaam,Rotavirus,12,0.0
+2023-02-05,Tanzania,Dar es Salaam,Cholera,23,0.0
+2023-02-05,Tanzania,Dar es Salaam,E. coli,16,2.9
+2023-02-05,Tanzania,Dar es Salaam,Salmonella,21,9.04
+2023-02-05,Tanzania,Dar es Salaam,Shigella,18,3.05
+2023-02-05,Tanzania,Dar es Salaam,Rotavirus,14,6.34
+2023-02-12,Tanzania,Dar es Salaam,Cholera,15,13.6
+2023-02-12,Tanzania,Dar es Salaam,E. coli,10,0.0
+2023-02-12,Tanzania,Dar es Salaam,Salmonella,17,0.2
+2023-02-12,Tanzania,Dar es Salaam,Shigella,11,0.0
+2023-02-12,Tanzania,Dar es Salaam,Rotavirus,20,2.98
+2023-02-19,Tanzania,Dar es Salaam,Cholera,26,0.0
+2023-02-19,Tanzania,Dar es Salaam,E. coli,15,7.07
+2023-02-19,Tanzania,Dar es Salaam,Salmonella,16,0.0
+2023-02-19,Tanzania,Dar es Salaam,Shigella,12,11.25
+2023-02-19,Tanzania,Dar es Salaam,Rotavirus,17,9.64
+2023-02-26,Tanzania,Dar es Salaam,Cholera,18,7.49
+2023-02-26,Tanzania,Dar es Salaam,E. coli,14,0.0
+2023-02-26,Tanzania,Dar es Salaam,Salmonella,20,0.0
+2023-02-26,Tanzania,Dar es Salaam,Shigella,19,2.91
+2023-02-26,Tanzania,Dar es Salaam,Rotavirus,21,7.45
+2023-03-05,Tanzania,Dar es Salaam,Cholera,18,0.19
+2023-03-05,Tanzania,Dar es Salaam,E. coli,14,7.79
+2023-03-05,Tanzania,Dar es Salaam,Salmonella,24,5.85
+2023-03-05,Tanzania,Dar es Salaam,Shigella,17,0.0
+2023-03-05,Tanzania,Dar es Salaam,Rotavirus,20,6.12
+2023-03-12,Tanzania,Dar es Salaam,Cholera,17,11.56
+2023-03-12,Tanzania,Dar es Salaam,E. coli,15,0.0
+2023-03-12,Tanzania,Dar es Salaam,Salmonella,20,0.56
+2023-03-12,Tanzania,Dar es Salaam,Shigella,22,16.56
+2023-03-12,Tanzania,Dar es Salaam,Rotavirus,15,6.9
+2023-03-19,Tanzania,Dar es Salaam,Cholera,20,7.3
+2023-03-19,Tanzania,Dar es Salaam,E. coli,23,10.35
+2023-03-19,Tanzania,Dar es Salaam,Salmonella,17,0.28
+2023-03-19,Tanzania,Dar es Salaam,Shigella,15,9.12
+2023-03-19,Tanzania,Dar es Salaam,Rotavirus,13,0.0
+2023-03-26,Tanzania,Dar es Salaam,Cholera,17,11.97
+2023-03-26,Tanzania,Dar es Salaam,E. coli,23,10.3
+2023-03-26,Tanzania,Dar es Salaam,Salmonella,23,0.0
+2023-03-26,Tanzania,Dar es Salaam,Shigella,19,7.0
+2023-03-26,Tanzania,Dar es Salaam,Rotavirus,30,3.71
+2023-04-02,Tanzania,Dar es Salaam,Cholera,20,4.03
+2023-04-02,Tanzania,Dar es Salaam,E. coli,18,3.98
+2023-04-02,Tanzania,Dar es Salaam,Salmonella,26,7.55
+2023-04-02,Tanzania,Dar es Salaam,Shigella,25,1.5
+2023-04-02,Tanzania,Dar es Salaam,Rotavirus,25,3.04
+2023-04-09,Tanzania,Dar es Salaam,Cholera,29,13.02
+2023-04-09,Tanzania,Dar es Salaam,E. coli,24,0.0
+2023-04-09,Tanzania,Dar es Salaam,Salmonella,23,7.34
+2023-04-09,Tanzania,Dar es Salaam,Shigella,18,4.25
+2023-04-09,Tanzania,Dar es Salaam,Rotavirus,20,10.3
+2023-04-16,Tanzania,Dar es Salaam,Cholera,17,12.43
+2023-04-16,Tanzania,Dar es Salaam,E. coli,18,5.31
+2023-04-16,Tanzania,Dar es Salaam,Salmonella,22,16.93
+2023-04-16,Tanzania,Dar es Salaam,Shigella,24,11.16
+2023-04-16,Tanzania,Dar es Salaam,Rotavirus,14,0.0
+2023-04-23,Tanzania,Dar es Salaam,Cholera,13,9.36
+2023-04-23,Tanzania,Dar es Salaam,E. coli,21,6.27
+2023-04-23,Tanzania,Dar es Salaam,Salmonella,19,0.0
+2023-04-23,Tanzania,Dar es Salaam,Shigella,11,5.08
+2023-04-23,Tanzania,Dar es Salaam,Rotavirus,20,0.0
+2023-04-30,Tanzania,Dar es Salaam,Cholera,17,7.97
+2023-04-30,Tanzania,Dar es Salaam,E. coli,24,3.02
+2023-04-30,Tanzania,Dar es Salaam,Salmonella,14,10.13
+2023-04-30,Tanzania,Dar es Salaam,Shigella,20,0.0
+2023-04-30,Tanzania,Dar es Salaam,Rotavirus,21,0.0
+2023-05-07,Tanzania,Dar es Salaam,Cholera,13,1.19
+2023-05-07,Tanzania,Dar es Salaam,E. coli,20,9.26
+2023-05-07,Tanzania,Dar es Salaam,Salmonella,15,6.97
+2023-05-07,Tanzania,Dar es Salaam,Shigella,13,1.12
+2023-05-07,Tanzania,Dar es Salaam,Rotavirus,19,9.78
+2023-05-14,Tanzania,Dar es Salaam,Cholera,16,7.39
+2023-05-14,Tanzania,Dar es Salaam,E. coli,16,8.05
+2023-05-14,Tanzania,Dar es Salaam,Salmonella,14,3.98
+2023-05-14,Tanzania,Dar es Salaam,Shigella,6,6.93
+2023-05-14,Tanzania,Dar es Salaam,Rotavirus,16,9.57
+2023-05-21,Tanzania,Dar es Salaam,Cholera,22,10.78
+2023-05-21,Tanzania,Dar es Salaam,E. coli,10,14.37
+2023-05-21,Tanzania,Dar es Salaam,Salmonella,17,4.54
+2023-05-21,Tanzania,Dar es Salaam,Shigella,12,2.83
+2023-05-21,Tanzania,Dar es Salaam,Rotavirus,14,0.0
+2023-05-28,Tanzania,Dar es Salaam,Cholera,14,0.0
+2023-05-28,Tanzania,Dar es Salaam,E. coli,18,7.84
+2023-05-28,Tanzania,Dar es Salaam,Salmonella,21,7.44
+2023-05-28,Tanzania,Dar es Salaam,Shigella,20,6.36
+2023-05-28,Tanzania,Dar es Salaam,Rotavirus,16,4.29
+2023-06-04,Tanzania,Dar es Salaam,Cholera,11,4.06
+2023-06-04,Tanzania,Dar es Salaam,E. coli,10,0.0
+2023-06-04,Tanzania,Dar es Salaam,Salmonella,8,2.19
+2023-06-04,Tanzania,Dar es Salaam,Shigella,12,0.0
+2023-06-04,Tanzania,Dar es Salaam,Rotavirus,10,0.0
+2023-06-11,Tanzania,Dar es Salaam,Cholera,8,5.71
+2023-06-11,Tanzania,Dar es Salaam,E. coli,9,5.86
+2023-06-11,Tanzania,Dar es Salaam,Salmonella,11,1.12
+2023-06-11,Tanzania,Dar es Salaam,Shigella,10,4.73
+2023-06-11,Tanzania,Dar es Salaam,Rotavirus,9,5.65
+2023-06-18,Tanzania,Dar es Salaam,Cholera,7,9.54
+2023-06-18,Tanzania,Dar es Salaam,E. coli,7,2.32
+2023-06-18,Tanzania,Dar es Salaam,Salmonella,14,0.0
+2023-06-18,Tanzania,Dar es Salaam,Shigella,9,0.0
+2023-06-18,Tanzania,Dar es Salaam,Rotavirus,8,2.56
+2023-06-25,Tanzania,Dar es Salaam,Cholera,45,9.47
+2023-06-25,Tanzania,Dar es Salaam,E. coli,8,5.77
+2023-06-25,Tanzania,Dar es Salaam,Salmonella,6,4.72
+2023-06-25,Tanzania,Dar es Salaam,Shigella,5,0.0
+2023-06-25,Tanzania,Dar es Salaam,Rotavirus,4,4.97
+2023-07-02,Tanzania,Dar es Salaam,Cholera,4,0.0
+2023-07-02,Tanzania,Dar es Salaam,E. coli,4,0.0
+2023-07-02,Tanzania,Dar es Salaam,Salmonella,3,7.05
+2023-07-02,Tanzania,Dar es Salaam,Shigella,33,0.6
+2023-07-02,Tanzania,Dar es Salaam,Rotavirus,4,0.0
+2023-07-09,Tanzania,Dar es Salaam,Cholera,3,3.25
+2023-07-09,Tanzania,Dar es Salaam,E. coli,4,1.46
+2023-07-09,Tanzania,Dar es Salaam,Salmonella,1,0.0
+2023-07-09,Tanzania,Dar es Salaam,Shigella,4,0.0
+2023-07-09,Tanzania,Dar es Salaam,Rotavirus,5,2.41
+2023-07-16,Tanzania,Dar es Salaam,Cholera,1,0.0
+2023-07-16,Tanzania,Dar es Salaam,E. coli,1,0.0
+2023-07-16,Tanzania,Dar es Salaam,Salmonella,0,2.19
+2023-07-16,Tanzania,Dar es Salaam,Shigella,0,0.0
+2023-07-16,Tanzania,Dar es Salaam,Rotavirus,28,8.12
+2023-07-23,Tanzania,Dar es Salaam,Cholera,0,3.68
+2023-07-23,Tanzania,Dar es Salaam,E. coli,0,6.23
+2023-07-23,Tanzania,Dar es Salaam,Salmonella,0,3.2
+2023-07-23,Tanzania,Dar es Salaam,Shigella,0,4.6
+2023-07-23,Tanzania,Dar es Salaam,Rotavirus,0,7.02
+2023-07-30,Tanzania,Dar es Salaam,Cholera,0,4.39
+2023-07-30,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-07-30,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-07-30,Tanzania,Dar es Salaam,Shigella,0,1.26
+2023-07-30,Tanzania,Dar es Salaam,Rotavirus,0,1.63
+2023-08-06,Tanzania,Dar es Salaam,Cholera,0,0.95
+2023-08-06,Tanzania,Dar es Salaam,E. coli,0,4.39
+2023-08-06,Tanzania,Dar es Salaam,Salmonella,0,3.2
+2023-08-06,Tanzania,Dar es Salaam,Shigella,0,5.92
+2023-08-06,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-08-13,Tanzania,Dar es Salaam,Cholera,0,8.55
+2023-08-13,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-08-13,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-08-13,Tanzania,Dar es Salaam,Shigella,0,0.0
+2023-08-13,Tanzania,Dar es Salaam,Rotavirus,0,3.03
+2023-08-20,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-08-20,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-08-20,Tanzania,Dar es Salaam,Salmonella,0,1.89
+2023-08-20,Tanzania,Dar es Salaam,Shigella,0,0.0
+2023-08-20,Tanzania,Dar es Salaam,Rotavirus,0,0.62
+2023-08-27,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-08-27,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-08-27,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-08-27,Tanzania,Dar es Salaam,Shigella,0,4.84
+2023-08-27,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-09-03,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-09-03,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-09-03,Tanzania,Dar es Salaam,Salmonella,49,14.49
+2023-09-03,Tanzania,Dar es Salaam,Shigella,0,4.18
+2023-09-03,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-09-10,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-09-10,Tanzania,Dar es Salaam,E. coli,0,0.75
+2023-09-10,Tanzania,Dar es Salaam,Salmonella,0,5.85
+2023-09-10,Tanzania,Dar es Salaam,Shigella,0,0.0
+2023-09-10,Tanzania,Dar es Salaam,Rotavirus,0,0.99
+2023-09-17,Tanzania,Dar es Salaam,Cholera,0,13.44
+2023-09-17,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-09-17,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-09-17,Tanzania,Dar es Salaam,Shigella,0,2.34
+2023-09-17,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-09-24,Tanzania,Dar es Salaam,Cholera,0,9.31
+2023-09-24,Tanzania,Dar es Salaam,E. coli,0,1.38
+2023-09-24,Tanzania,Dar es Salaam,Salmonella,0,6.36
+2023-09-24,Tanzania,Dar es Salaam,Shigella,0,0.58
+2023-09-24,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-10-01,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-10-01,Tanzania,Dar es Salaam,E. coli,37,7.93
+2023-10-01,Tanzania,Dar es Salaam,Salmonella,0,1.83
+2023-10-01,Tanzania,Dar es Salaam,Shigella,0,3.46
+2023-10-01,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-10-08,Tanzania,Dar es Salaam,Cholera,0,4.21
+2023-10-08,Tanzania,Dar es Salaam,E. coli,0,10.34
+2023-10-08,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-10-08,Tanzania,Dar es Salaam,Shigella,0,7.05
+2023-10-08,Tanzania,Dar es Salaam,Rotavirus,0,0.9
+2023-10-15,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-10-15,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-10-15,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-10-15,Tanzania,Dar es Salaam,Shigella,0,0.89
+2023-10-15,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-10-22,Tanzania,Dar es Salaam,Cholera,0,1.58
+2023-10-22,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-10-22,Tanzania,Dar es Salaam,Salmonella,0,4.89
+2023-10-22,Tanzania,Dar es Salaam,Shigella,0,2.04
+2023-10-22,Tanzania,Dar es Salaam,Rotavirus,0,1.61
+2023-10-29,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-10-29,Tanzania,Dar es Salaam,E. coli,0,0.79
+2023-10-29,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-10-29,Tanzania,Dar es Salaam,Shigella,0,0.0
+2023-10-29,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-11-05,Tanzania,Dar es Salaam,Cholera,0,4.92
+2023-11-05,Tanzania,Dar es Salaam,E. coli,0,0.53
+2023-11-05,Tanzania,Dar es Salaam,Salmonella,0,3.23
+2023-11-05,Tanzania,Dar es Salaam,Shigella,0,0.54
+2023-11-05,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-11-12,Tanzania,Dar es Salaam,Cholera,38,3.1
+2023-11-12,Tanzania,Dar es Salaam,E. coli,0,3.49
+2023-11-12,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-11-12,Tanzania,Dar es Salaam,Shigella,0,6.08
+2023-11-12,Tanzania,Dar es Salaam,Rotavirus,0,0.78
+2023-11-19,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-11-19,Tanzania,Dar es Salaam,E. coli,0,0.0
+2023-11-19,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-11-19,Tanzania,Dar es Salaam,Shigella,0,5.11
+2023-11-19,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-11-26,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-11-26,Tanzania,Dar es Salaam,E. coli,0,7.66
+2023-11-26,Tanzania,Dar es Salaam,Salmonella,0,2.1
+2023-11-26,Tanzania,Dar es Salaam,Shigella,0,9.24
+2023-11-26,Tanzania,Dar es Salaam,Rotavirus,39,10.5
+2023-12-03,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-12-03,Tanzania,Dar es Salaam,E. coli,0,5.9
+2023-12-03,Tanzania,Dar es Salaam,Salmonella,0,3.34
+2023-12-03,Tanzania,Dar es Salaam,Shigella,0,10.37
+2023-12-03,Tanzania,Dar es Salaam,Rotavirus,0,0.0
+2023-12-10,Tanzania,Dar es Salaam,Cholera,0,0.0
+2023-12-10,Tanzania,Dar es Salaam,E. coli,0,4.38
+2023-12-10,Tanzania,Dar es Salaam,Salmonella,0,0.0
+2023-12-10,Tanzania,Dar es Salaam,Shigella,0,0.98
+2023-12-10,Tanzania,Dar es Salaam,Rotavirus,0,5.37
+2023-12-17,Tanzania,Dar es Salaam,Cholera,3,0.0
+2023-12-17,Tanzania,Dar es Salaam,E. coli,1,0.0
+2023-12-17,Tanzania,Dar es Salaam,Salmonella,0,5.17
+2023-12-17,Tanzania,Dar es Salaam,Shigella,0,0.0
+2023-12-17,Tanzania,Dar es Salaam,Rotavirus,3,1.09
+2023-12-24,Tanzania,Dar es Salaam,Cholera,3,3.68
+2023-12-24,Tanzania,Dar es Salaam,E. coli,3,12.52
+2023-12-24,Tanzania,Dar es Salaam,Salmonella,5,11.74
+2023-12-24,Tanzania,Dar es Salaam,Shigella,3,1.21
+2023-12-24,Tanzania,Dar es Salaam,Rotavirus,4,0.0
+2023-01-01,Tanzania,Arusha,Cholera,7,5.79
+2023-01-01,Tanzania,Arusha,E. coli,5,0.0
+2023-01-01,Tanzania,Arusha,Salmonella,3,2.78
+2023-01-01,Tanzania,Arusha,Shigella,7,5.41
+2023-01-01,Tanzania,Arusha,Rotavirus,53,11.84
+2023-01-08,Tanzania,Arusha,Cholera,13,7.03
+2023-01-08,Tanzania,Arusha,E. coli,4,4.13
+2023-01-08,Tanzania,Arusha,Salmonella,5,12.41
+2023-01-08,Tanzania,Arusha,Shigella,7,0.0
+2023-01-08,Tanzania,Arusha,Rotavirus,5,0.0
+2023-01-15,Tanzania,Arusha,Cholera,10,3.1
+2023-01-15,Tanzania,Arusha,E. coli,8,0.0
+2023-01-15,Tanzania,Arusha,Salmonella,6,8.68
+2023-01-15,Tanzania,Arusha,Shigella,8,7.99
+2023-01-15,Tanzania,Arusha,Rotavirus,11,3.01
+2023-01-22,Tanzania,Arusha,Cholera,8,0.0
+2023-01-22,Tanzania,Arusha,E. coli,8,0.19
+2023-01-22,Tanzania,Arusha,Salmonella,8,0.0
+2023-01-22,Tanzania,Arusha,Shigella,14,11.43
+2023-01-22,Tanzania,Arusha,Rotavirus,13,5.07
+2023-01-29,Tanzania,Arusha,Cholera,17,8.89
+2023-01-29,Tanzania,Arusha,E. coli,8,4.04
+2023-01-29,Tanzania,Arusha,Salmonella,9,0.0
+2023-01-29,Tanzania,Arusha,Shigella,33,4.68
+2023-01-29,Tanzania,Arusha,Rotavirus,13,7.56
+2023-02-05,Tanzania,Arusha,Cholera,24,10.09
+2023-02-05,Tanzania,Arusha,E. coli,13,0.0
+2023-02-05,Tanzania,Arusha,Salmonella,17,0.0
+2023-02-05,Tanzania,Arusha,Shigella,13,5.18
+2023-02-05,Tanzania,Arusha,Rotavirus,9,0.0
+2023-02-12,Tanzania,Arusha,Cholera,20,6.49
+2023-02-12,Tanzania,Arusha,E. coli,20,7.52
+2023-02-12,Tanzania,Arusha,Salmonella,12,0.0
+2023-02-12,Tanzania,Arusha,Shigella,15,0.0
+2023-02-12,Tanzania,Arusha,Rotavirus,52,5.36
+2023-02-19,Tanzania,Arusha,Cholera,17,4.24
+2023-02-19,Tanzania,Arusha,E. coli,24,11.92
+2023-02-19,Tanzania,Arusha,Salmonella,14,9.87
+2023-02-19,Tanzania,Arusha,Shigella,24,9.68
+2023-02-19,Tanzania,Arusha,Rotavirus,16,5.05
+2023-02-26,Tanzania,Arusha,Cholera,11,0.0
+2023-02-26,Tanzania,Arusha,E. coli,20,10.11
+2023-02-26,Tanzania,Arusha,Salmonella,17,0.0
+2023-02-26,Tanzania,Arusha,Shigella,20,5.83
+2023-02-26,Tanzania,Arusha,Rotavirus,17,4.25
+2023-03-05,Tanzania,Arusha,Cholera,15,6.51
+2023-03-05,Tanzania,Arusha,E. coli,64,11.06
+2023-03-05,Tanzania,Arusha,Salmonella,16,11.53
+2023-03-05,Tanzania,Arusha,Shigella,18,0.63
+2023-03-05,Tanzania,Arusha,Rotavirus,17,12.62
+2023-03-12,Tanzania,Arusha,Cholera,26,9.59
+2023-03-12,Tanzania,Arusha,E. coli,17,0.0
+2023-03-12,Tanzania,Arusha,Salmonella,17,1.13
+2023-03-12,Tanzania,Arusha,Shigella,12,6.98
+2023-03-12,Tanzania,Arusha,Rotavirus,9,6.2
+2023-03-19,Tanzania,Arusha,Cholera,24,5.79
+2023-03-19,Tanzania,Arusha,E. coli,21,8.12
+2023-03-19,Tanzania,Arusha,Salmonella,18,5.48
+2023-03-19,Tanzania,Arusha,Shigella,18,6.42
+2023-03-19,Tanzania,Arusha,Rotavirus,14,8.11
+2023-03-26,Tanzania,Arusha,Cholera,40,10.6
+2023-03-26,Tanzania,Arusha,E. coli,29,2.73
+2023-03-26,Tanzania,Arusha,Salmonella,58,7.81
+2023-03-26,Tanzania,Arusha,Shigella,20,4.44
+2023-03-26,Tanzania,Arusha,Rotavirus,23,11.89
+2023-04-02,Tanzania,Arusha,Cholera,14,3.45
+2023-04-02,Tanzania,Arusha,E. coli,16,0.0
+2023-04-02,Tanzania,Arusha,Salmonella,18,0.0
+2023-04-02,Tanzania,Arusha,Shigella,24,12.23
+2023-04-02,Tanzania,Arusha,Rotavirus,16,0.0
+2023-04-09,Tanzania,Arusha,Cholera,24,7.49
+2023-04-09,Tanzania,Arusha,E. coli,19,0.0
+2023-04-09,Tanzania,Arusha,Salmonella,43,6.44
+2023-04-09,Tanzania,Arusha,Shigella,17,5.36
+2023-04-09,Tanzania,Arusha,Rotavirus,23,3.26
+2023-04-16,Tanzania,Arusha,Cholera,37,14.01
+2023-04-16,Tanzania,Arusha,E. coli,15,3.1
+2023-04-16,Tanzania,Arusha,Salmonella,18,3.33
+2023-04-16,Tanzania,Arusha,Shigella,34,6.05
+2023-04-16,Tanzania,Arusha,Rotavirus,27,0.0
+2023-04-23,Tanzania,Arusha,Cholera,18,10.28
+2023-04-23,Tanzania,Arusha,E. coli,17,14.11
+2023-04-23,Tanzania,Arusha,Salmonella,10,6.23
+2023-04-23,Tanzania,Arusha,Shigella,21,0.0
+2023-04-23,Tanzania,Arusha,Rotavirus,17,2.68
+2023-04-30,Tanzania,Arusha,Cholera,12,0.23
+2023-04-30,Tanzania,Arusha,E. coli,17,2.37
+2023-04-30,Tanzania,Arusha,Salmonella,15,8.76
+2023-04-30,Tanzania,Arusha,Shigella,17,7.84
+2023-04-30,Tanzania,Arusha,Rotavirus,13,0.0
+2023-05-07,Tanzania,Arusha,Cholera,14,5.84
+2023-05-07,Tanzania,Arusha,E. coli,19,0.79
+2023-05-07,Tanzania,Arusha,Salmonella,14,0.0
+2023-05-07,Tanzania,Arusha,Shigella,18,4.8
+2023-05-07,Tanzania,Arusha,Rotavirus,13,7.02
+2023-05-14,Tanzania,Arusha,Cholera,15,8.5
+2023-05-14,Tanzania,Arusha,E. coli,20,11.52
+2023-05-14,Tanzania,Arusha,Salmonella,21,4.72
+2023-05-14,Tanzania,Arusha,Shigella,25,0.0
+2023-05-14,Tanzania,Arusha,Rotavirus,13,9.66
+2023-05-21,Tanzania,Arusha,Cholera,13,1.08
+2023-05-21,Tanzania,Arusha,E. coli,14,0.0
+2023-05-21,Tanzania,Arusha,Salmonella,16,0.0
+2023-05-21,Tanzania,Arusha,Shigella,11,12.39
+2023-05-21,Tanzania,Arusha,Rotavirus,21,0.0
+2023-05-28,Tanzania,Arusha,Cholera,20,4.05
+2023-05-28,Tanzania,Arusha,E. coli,16,8.86
+2023-05-28,Tanzania,Arusha,Salmonella,13,2.94
+2023-05-28,Tanzania,Arusha,Shigella,15,2.36
+2023-05-28,Tanzania,Arusha,Rotavirus,8,0.0
+2023-06-04,Tanzania,Arusha,Cholera,12,0.39
+2023-06-04,Tanzania,Arusha,E. coli,9,6.67
+2023-06-04,Tanzania,Arusha,Salmonella,5,3.86
+2023-06-04,Tanzania,Arusha,Shigella,15,14.5
+2023-06-04,Tanzania,Arusha,Rotavirus,12,0.0
+2023-06-11,Tanzania,Arusha,Cholera,9,4.85
+2023-06-11,Tanzania,Arusha,E. coli,50,17.26
+2023-06-11,Tanzania,Arusha,Salmonella,9,0.0
+2023-06-11,Tanzania,Arusha,Shigella,11,0.0
+2023-06-11,Tanzania,Arusha,Rotavirus,9,7.9
+2023-06-18,Tanzania,Arusha,Cholera,10,0.0
+2023-06-18,Tanzania,Arusha,E. coli,11,0.0
+2023-06-18,Tanzania,Arusha,Salmonella,10,1.67
+2023-06-18,Tanzania,Arusha,Shigella,46,11.44
+2023-06-18,Tanzania,Arusha,Rotavirus,8,2.57
+2023-06-25,Tanzania,Arusha,Cholera,1,0.0
+2023-06-25,Tanzania,Arusha,E. coli,12,2.37
+2023-06-25,Tanzania,Arusha,Salmonella,13,0.0
+2023-06-25,Tanzania,Arusha,Shigella,5,2.8
+2023-06-25,Tanzania,Arusha,Rotavirus,7,5.16
+2023-07-02,Tanzania,Arusha,Cholera,6,10.03
+2023-07-02,Tanzania,Arusha,E. coli,3,4.25
+2023-07-02,Tanzania,Arusha,Salmonella,2,5.34
+2023-07-02,Tanzania,Arusha,Shigella,8,7.17
+2023-07-02,Tanzania,Arusha,Rotavirus,3,0.0
+2023-07-09,Tanzania,Arusha,Cholera,3,0.0
+2023-07-09,Tanzania,Arusha,E. coli,3,0.0
+2023-07-09,Tanzania,Arusha,Salmonella,5,0.0
+2023-07-09,Tanzania,Arusha,Shigella,9,0.37
+2023-07-09,Tanzania,Arusha,Rotavirus,2,8.34
+2023-07-16,Tanzania,Arusha,Cholera,1,0.0
+2023-07-16,Tanzania,Arusha,E. coli,2,0.0
+2023-07-16,Tanzania,Arusha,Salmonella,1,6.41
+2023-07-16,Tanzania,Arusha,Shigella,1,0.32
+2023-07-16,Tanzania,Arusha,Rotavirus,1,0.0
+2023-07-23,Tanzania,Arusha,Cholera,0,2.51
+2023-07-23,Tanzania,Arusha,E. coli,0,9.09
+2023-07-23,Tanzania,Arusha,Salmonella,0,0.49
+2023-07-23,Tanzania,Arusha,Shigella,0,6.17
+2023-07-23,Tanzania,Arusha,Rotavirus,0,5.04
+2023-07-30,Tanzania,Arusha,Cholera,0,0.0
+2023-07-30,Tanzania,Arusha,E. coli,0,0.0
+2023-07-30,Tanzania,Arusha,Salmonella,0,0.0
+2023-07-30,Tanzania,Arusha,Shigella,0,0.0
+2023-07-30,Tanzania,Arusha,Rotavirus,0,4.15
+2023-08-06,Tanzania,Arusha,Cholera,0,1.41
+2023-08-06,Tanzania,Arusha,E. coli,0,0.0
+2023-08-06,Tanzania,Arusha,Salmonella,0,2.61
+2023-08-06,Tanzania,Arusha,Shigella,0,0.0
+2023-08-06,Tanzania,Arusha,Rotavirus,32,0.65
+2023-08-13,Tanzania,Arusha,Cholera,0,0.0
+2023-08-13,Tanzania,Arusha,E. coli,0,0.0
+2023-08-13,Tanzania,Arusha,Salmonella,0,0.0
+2023-08-13,Tanzania,Arusha,Shigella,0,4.32
+2023-08-13,Tanzania,Arusha,Rotavirus,0,3.14
+2023-08-20,Tanzania,Arusha,Cholera,0,0.0
+2023-08-20,Tanzania,Arusha,E. coli,0,1.12
+2023-08-20,Tanzania,Arusha,Salmonella,0,0.0
+2023-08-20,Tanzania,Arusha,Shigella,0,0.0
+2023-08-20,Tanzania,Arusha,Rotavirus,0,5.69
+2023-08-27,Tanzania,Arusha,Cholera,0,5.5
+2023-08-27,Tanzania,Arusha,E. coli,0,7.9
+2023-08-27,Tanzania,Arusha,Salmonella,0,4.31
+2023-08-27,Tanzania,Arusha,Shigella,0,1.55
+2023-08-27,Tanzania,Arusha,Rotavirus,0,4.03
+2023-09-03,Tanzania,Arusha,Cholera,0,0.0
+2023-09-03,Tanzania,Arusha,E. coli,0,3.62
+2023-09-03,Tanzania,Arusha,Salmonella,0,4.49
+2023-09-03,Tanzania,Arusha,Shigella,0,0.0
+2023-09-03,Tanzania,Arusha,Rotavirus,0,0.24
+2023-09-10,Tanzania,Arusha,Cholera,0,0.0
+2023-09-10,Tanzania,Arusha,E. coli,0,0.0
+2023-09-10,Tanzania,Arusha,Salmonella,0,0.82
+2023-09-10,Tanzania,Arusha,Shigella,0,1.33
+2023-09-10,Tanzania,Arusha,Rotavirus,0,0.0
+2023-09-17,Tanzania,Arusha,Cholera,0,0.0
+2023-09-17,Tanzania,Arusha,E. coli,0,3.14
+2023-09-17,Tanzania,Arusha,Salmonella,0,1.79
+2023-09-17,Tanzania,Arusha,Shigella,0,0.0
+2023-09-17,Tanzania,Arusha,Rotavirus,0,0.0
+2023-09-24,Tanzania,Arusha,Cholera,0,8.73
+2023-09-24,Tanzania,Arusha,E. coli,0,0.0
+2023-09-24,Tanzania,Arusha,Salmonella,0,0.0
+2023-09-24,Tanzania,Arusha,Shigella,0,0.0
+2023-09-24,Tanzania,Arusha,Rotavirus,0,10.98
+2023-10-01,Tanzania,Arusha,Cholera,0,0.0
+2023-10-01,Tanzania,Arusha,E. coli,0,0.0
+2023-10-01,Tanzania,Arusha,Salmonella,0,2.7
+2023-10-01,Tanzania,Arusha,Shigella,0,2.36
+2023-10-01,Tanzania,Arusha,Rotavirus,0,0.0
+2023-10-08,Tanzania,Arusha,Cholera,0,6.88
+2023-10-08,Tanzania,Arusha,E. coli,0,3.81
+2023-10-08,Tanzania,Arusha,Salmonella,0,0.0
+2023-10-08,Tanzania,Arusha,Shigella,0,0.0
+2023-10-08,Tanzania,Arusha,Rotavirus,0,0.74
+2023-10-15,Tanzania,Arusha,Cholera,0,4.07
+2023-10-15,Tanzania,Arusha,E. coli,0,8.88
+2023-10-15,Tanzania,Arusha,Salmonella,0,1.54
+2023-10-15,Tanzania,Arusha,Shigella,0,0.0
+2023-10-15,Tanzania,Arusha,Rotavirus,0,6.36
+2023-10-22,Tanzania,Arusha,Cholera,0,5.56
+2023-10-22,Tanzania,Arusha,E. coli,36,10.96
+2023-10-22,Tanzania,Arusha,Salmonella,0,0.0
+2023-10-22,Tanzania,Arusha,Shigella,0,1.26
+2023-10-22,Tanzania,Arusha,Rotavirus,0,0.0
+2023-10-29,Tanzania,Arusha,Cholera,0,0.69
+2023-10-29,Tanzania,Arusha,E. coli,0,0.0
+2023-10-29,Tanzania,Arusha,Salmonella,0,0.17
+2023-10-29,Tanzania,Arusha,Shigella,0,0.0
+2023-10-29,Tanzania,Arusha,Rotavirus,0,5.12
+2023-11-05,Tanzania,Arusha,Cholera,0,0.0
+2023-11-05,Tanzania,Arusha,E. coli,0,0.0
+2023-11-05,Tanzania,Arusha,Salmonella,0,0.0
+2023-11-05,Tanzania,Arusha,Shigella,0,5.04
+2023-11-05,Tanzania,Arusha,Rotavirus,0,0.0
+2023-11-12,Tanzania,Arusha,Cholera,0,2.33
+2023-11-12,Tanzania,Arusha,E. coli,0,0.0
+2023-11-12,Tanzania,Arusha,Salmonella,0,0.0
+2023-11-12,Tanzania,Arusha,Shigella,0,0.0
+2023-11-12,Tanzania,Arusha,Rotavirus,0,0.0
+2023-11-19,Tanzania,Arusha,Cholera,0,0.0
+2023-11-19,Tanzania,Arusha,E. coli,0,3.44
+2023-11-19,Tanzania,Arusha,Salmonella,0,0.16
+2023-11-19,Tanzania,Arusha,Shigella,0,1.34
+2023-11-19,Tanzania,Arusha,Rotavirus,0,0.0
+2023-11-26,Tanzania,Arusha,Cholera,0,0.0
+2023-11-26,Tanzania,Arusha,E. coli,0,0.0
+2023-11-26,Tanzania,Arusha,Salmonella,0,1.56
+2023-11-26,Tanzania,Arusha,Shigella,0,2.98
+2023-11-26,Tanzania,Arusha,Rotavirus,0,0.0
+2023-12-03,Tanzania,Arusha,Cholera,0,0.66
+2023-12-03,Tanzania,Arusha,E. coli,0,0.0
+2023-12-03,Tanzania,Arusha,Salmonella,0,0.0
+2023-12-03,Tanzania,Arusha,Shigella,0,9.89
+2023-12-03,Tanzania,Arusha,Rotavirus,0,0.0
+2023-12-10,Tanzania,Arusha,Cholera,0,0.26
+2023-12-10,Tanzania,Arusha,E. coli,0,0.04
+2023-12-10,Tanzania,Arusha,Salmonella,0,0.0
+2023-12-10,Tanzania,Arusha,Shigella,0,0.0
+2023-12-10,Tanzania,Arusha,Rotavirus,0,0.0
+2023-12-17,Tanzania,Arusha,Cholera,1,8.3
+2023-12-17,Tanzania,Arusha,E. coli,1,2.63
+2023-12-17,Tanzania,Arusha,Salmonella,0,0.0
+2023-12-17,Tanzania,Arusha,Shigella,2,6.89
+2023-12-17,Tanzania,Arusha,Rotavirus,0,2.27
+2023-12-24,Tanzania,Arusha,Cholera,7,3.55
+2023-12-24,Tanzania,Arusha,E. coli,42,7.54
+2023-12-24,Tanzania,Arusha,Salmonella,3,2.46
+2023-12-24,Tanzania,Arusha,Shigella,2,0.0
+2023-12-24,Tanzania,Arusha,Rotavirus,3,8.6
+2023-01-01,Tanzania,Mwanza,Cholera,4,3.25
+2023-01-01,Tanzania,Mwanza,E. coli,8,0.0
+2023-01-01,Tanzania,Mwanza,Salmonella,4,0.0
+2023-01-01,Tanzania,Mwanza,Shigella,3,4.21
+2023-01-01,Tanzania,Mwanza,Rotavirus,6,0.0
+2023-01-08,Tanzania,Mwanza,Cholera,7,0.03
+2023-01-08,Tanzania,Mwanza,E. coli,7,1.57
+2023-01-08,Tanzania,Mwanza,Salmonella,8,0.0
+2023-01-08,Tanzania,Mwanza,Shigella,8,4.8
+2023-01-08,Tanzania,Mwanza,Rotavirus,7,3.18
+2023-01-15,Tanzania,Mwanza,Cholera,8,0.0
+2023-01-15,Tanzania,Mwanza,E. coli,6,1.54
+2023-01-15,Tanzania,Mwanza,Salmonella,12,0.0
+2023-01-15,Tanzania,Mwanza,Shigella,9,1.78
+2023-01-15,Tanzania,Mwanza,Rotavirus,10,6.78
+2023-01-22,Tanzania,Mwanza,Cholera,8,0.0
+2023-01-22,Tanzania,Mwanza,E. coli,5,0.0
+2023-01-22,Tanzania,Mwanza,Salmonella,38,11.8
+2023-01-22,Tanzania,Mwanza,Shigella,11,4.69
+2023-01-22,Tanzania,Mwanza,Rotavirus,6,0.0
+2023-01-29,Tanzania,Mwanza,Cholera,19,5.45
+2023-01-29,Tanzania,Mwanza,E. coli,14,0.0
+2023-01-29,Tanzania,Mwanza,Salmonella,4,6.58
+2023-01-29,Tanzania,Mwanza,Shigella,6,0.27
+2023-01-29,Tanzania,Mwanza,Rotavirus,7,7.67
+2023-02-05,Tanzania,Mwanza,Cholera,21,5.02
+2023-02-05,Tanzania,Mwanza,E. coli,14,0.23
+2023-02-05,Tanzania,Mwanza,Salmonella,45,11.62
+2023-02-05,Tanzania,Mwanza,Shigella,14,7.81
+2023-02-05,Tanzania,Mwanza,Rotavirus,63,14.6
+2023-02-12,Tanzania,Mwanza,Cholera,16,0.0
+2023-02-12,Tanzania,Mwanza,E. coli,20,1.81
+2023-02-12,Tanzania,Mwanza,Salmonella,12,0.0
+2023-02-12,Tanzania,Mwanza,Shigella,18,0.0
+2023-02-12,Tanzania,Mwanza,Rotavirus,14,2.51
+2023-02-19,Tanzania,Mwanza,Cholera,12,3.45
+2023-02-19,Tanzania,Mwanza,E. coli,18,0.0
+2023-02-19,Tanzania,Mwanza,Salmonella,11,5.77
+2023-02-19,Tanzania,Mwanza,Shigella,15,0.0
+2023-02-19,Tanzania,Mwanza,Rotavirus,51,8.74
+2023-02-26,Tanzania,Mwanza,Cholera,19,5.06
+2023-02-26,Tanzania,Mwanza,E. coli,16,6.2
+2023-02-26,Tanzania,Mwanza,Salmonella,19,0.0
+2023-02-26,Tanzania,Mwanza,Shigella,17,0.74
+2023-02-26,Tanzania,Mwanza,Rotavirus,16,0.95
+2023-03-05,Tanzania,Mwanza,Cholera,14,0.0
+2023-03-05,Tanzania,Mwanza,E. coli,22,8.31
+2023-03-05,Tanzania,Mwanza,Salmonella,31,5.12
+2023-03-05,Tanzania,Mwanza,Shigella,19,7.27
+2023-03-05,Tanzania,Mwanza,Rotavirus,38,20.46
+2023-03-12,Tanzania,Mwanza,Cholera,27,5.42
+2023-03-12,Tanzania,Mwanza,E. coli,17,7.82
+2023-03-12,Tanzania,Mwanza,Salmonella,18,9.34
+2023-03-12,Tanzania,Mwanza,Shigella,22,0.0
+2023-03-12,Tanzania,Mwanza,Rotavirus,23,0.0
+2023-03-19,Tanzania,Mwanza,Cholera,20,2.19
+2023-03-19,Tanzania,Mwanza,E. coli,18,0.73
+2023-03-19,Tanzania,Mwanza,Salmonella,19,8.35
+2023-03-19,Tanzania,Mwanza,Shigella,19,10.64
+2023-03-19,Tanzania,Mwanza,Rotavirus,17,8.2
+2023-03-26,Tanzania,Mwanza,Cholera,20,11.1
+2023-03-26,Tanzania,Mwanza,E. coli,22,14.55
+2023-03-26,Tanzania,Mwanza,Salmonella,24,9.21
+2023-03-26,Tanzania,Mwanza,Shigella,31,16.67
+2023-03-26,Tanzania,Mwanza,Rotavirus,21,1.6
+2023-04-02,Tanzania,Mwanza,Cholera,52,9.42
+2023-04-02,Tanzania,Mwanza,E. coli,25,13.48
+2023-04-02,Tanzania,Mwanza,Salmonella,20,13.95
+2023-04-02,Tanzania,Mwanza,Shigella,21,5.29
+2023-04-02,Tanzania,Mwanza,Rotavirus,25,8.55
+2023-04-09,Tanzania,Mwanza,Cholera,22,0.0
+2023-04-09,Tanzania,Mwanza,E. coli,22,2.46
+2023-04-09,Tanzania,Mwanza,Salmonella,19,0.85
+2023-04-09,Tanzania,Mwanza,Shigella,17,5.03
+2023-04-09,Tanzania,Mwanza,Rotavirus,25,10.27
+2023-04-16,Tanzania,Mwanza,Cholera,22,9.12
+2023-04-16,Tanzania,Mwanza,E. coli,21,0.0
+2023-04-16,Tanzania,Mwanza,Salmonella,17,0.0
+2023-04-16,Tanzania,Mwanza,Shigella,13,5.54
+2023-04-16,Tanzania,Mwanza,Rotavirus,17,0.0
+2023-04-23,Tanzania,Mwanza,Cholera,14,10.64
+2023-04-23,Tanzania,Mwanza,E. coli,16,6.94
+2023-04-23,Tanzania,Mwanza,Salmonella,18,4.45
+2023-04-23,Tanzania,Mwanza,Shigella,50,6.94
+2023-04-23,Tanzania,Mwanza,Rotavirus,22,6.72
+2023-04-30,Tanzania,Mwanza,Cholera,10,7.45
+2023-04-30,Tanzania,Mwanza,E. coli,17,12.94
+2023-04-30,Tanzania,Mwanza,Salmonella,15,7.51
+2023-04-30,Tanzania,Mwanza,Shigella,14,4.89
+2023-04-30,Tanzania,Mwanza,Rotavirus,22,0.2
+2023-05-07,Tanzania,Mwanza,Cholera,11,10.46
+2023-05-07,Tanzania,Mwanza,E. coli,20,1.77
+2023-05-07,Tanzania,Mwanza,Salmonella,25,0.0
+2023-05-07,Tanzania,Mwanza,Shigella,19,5.96
+2023-05-07,Tanzania,Mwanza,Rotavirus,20,2.85
+2023-05-14,Tanzania,Mwanza,Cholera,13,5.09
+2023-05-14,Tanzania,Mwanza,E. coli,21,1.57
+2023-05-14,Tanzania,Mwanza,Salmonella,18,0.0
+2023-05-14,Tanzania,Mwanza,Shigella,21,0.0
+2023-05-14,Tanzania,Mwanza,Rotavirus,20,7.64
+2023-05-21,Tanzania,Mwanza,Cholera,15,9.37
+2023-05-21,Tanzania,Mwanza,E. coli,16,7.28
+2023-05-21,Tanzania,Mwanza,Salmonella,16,0.69
+2023-05-21,Tanzania,Mwanza,Shigella,13,5.0
+2023-05-21,Tanzania,Mwanza,Rotavirus,8,6.64
+2023-05-28,Tanzania,Mwanza,Cholera,16,9.7
+2023-05-28,Tanzania,Mwanza,E. coli,16,10.17
+2023-05-28,Tanzania,Mwanza,Salmonella,12,0.0
+2023-05-28,Tanzania,Mwanza,Shigella,16,8.41
+2023-05-28,Tanzania,Mwanza,Rotavirus,64,16.57
+2023-06-04,Tanzania,Mwanza,Cholera,9,1.39
+2023-06-04,Tanzania,Mwanza,E. coli,18,7.78
+2023-06-04,Tanzania,Mwanza,Salmonella,15,0.0
+2023-06-04,Tanzania,Mwanza,Shigella,10,0.0
+2023-06-04,Tanzania,Mwanza,Rotavirus,21,3.18
+2023-06-11,Tanzania,Mwanza,Cholera,9,7.41
+2023-06-11,Tanzania,Mwanza,E. coli,13,9.01
+2023-06-11,Tanzania,Mwanza,Salmonella,14,0.0
+2023-06-11,Tanzania,Mwanza,Shigella,7,7.9
+2023-06-11,Tanzania,Mwanza,Rotavirus,12,0.0
+2023-06-18,Tanzania,Mwanza,Cholera,8,0.0
+2023-06-18,Tanzania,Mwanza,E. coli,7,10.37
+2023-06-18,Tanzania,Mwanza,Salmonella,9,0.0
+2023-06-18,Tanzania,Mwanza,Shigella,7,5.1
+2023-06-18,Tanzania,Mwanza,Rotavirus,10,7.51
+2023-06-25,Tanzania,Mwanza,Cholera,7,2.29
+2023-06-25,Tanzania,Mwanza,E. coli,7,4.82
+2023-06-25,Tanzania,Mwanza,Salmonella,7,0.0
+2023-06-25,Tanzania,Mwanza,Shigella,5,6.87
+2023-06-25,Tanzania,Mwanza,Rotavirus,7,11.98
+2023-07-02,Tanzania,Mwanza,Cholera,7,4.59
+2023-07-02,Tanzania,Mwanza,E. coli,1,0.0
+2023-07-02,Tanzania,Mwanza,Salmonella,1,0.0
+2023-07-02,Tanzania,Mwanza,Shigella,6,0.0
+2023-07-02,Tanzania,Mwanza,Rotavirus,4,8.34
+2023-07-09,Tanzania,Mwanza,Cholera,4,0.0
+2023-07-09,Tanzania,Mwanza,E. coli,2,0.0
+2023-07-09,Tanzania,Mwanza,Salmonella,5,0.2
+2023-07-09,Tanzania,Mwanza,Shigella,2,6.67
+2023-07-09,Tanzania,Mwanza,Rotavirus,6,7.46
+2023-07-16,Tanzania,Mwanza,Cholera,2,1.93
+2023-07-16,Tanzania,Mwanza,E. coli,2,11.45
+2023-07-16,Tanzania,Mwanza,Salmonella,3,0.0
+2023-07-16,Tanzania,Mwanza,Shigella,2,4.44
+2023-07-16,Tanzania,Mwanza,Rotavirus,1,0.0
+2023-07-23,Tanzania,Mwanza,Cholera,0,0.83
+2023-07-23,Tanzania,Mwanza,E. coli,0,0.0
+2023-07-23,Tanzania,Mwanza,Salmonella,0,4.73
+2023-07-23,Tanzania,Mwanza,Shigella,0,1.94
+2023-07-23,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-07-30,Tanzania,Mwanza,Cholera,0,7.38
+2023-07-30,Tanzania,Mwanza,E. coli,0,0.31
+2023-07-30,Tanzania,Mwanza,Salmonella,0,0.0
+2023-07-30,Tanzania,Mwanza,Shigella,0,7.27
+2023-07-30,Tanzania,Mwanza,Rotavirus,0,2.14
+2023-08-06,Tanzania,Mwanza,Cholera,0,0.0
+2023-08-06,Tanzania,Mwanza,E. coli,0,0.0
+2023-08-06,Tanzania,Mwanza,Salmonella,0,0.0
+2023-08-06,Tanzania,Mwanza,Shigella,0,5.0
+2023-08-06,Tanzania,Mwanza,Rotavirus,0,4.38
+2023-08-13,Tanzania,Mwanza,Cholera,0,0.74
+2023-08-13,Tanzania,Mwanza,E. coli,0,0.0
+2023-08-13,Tanzania,Mwanza,Salmonella,27,3.82
+2023-08-13,Tanzania,Mwanza,Shigella,0,3.3
+2023-08-13,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-08-20,Tanzania,Mwanza,Cholera,0,0.0
+2023-08-20,Tanzania,Mwanza,E. coli,0,0.0
+2023-08-20,Tanzania,Mwanza,Salmonella,0,5.15
+2023-08-20,Tanzania,Mwanza,Shigella,0,0.0
+2023-08-20,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-08-27,Tanzania,Mwanza,Cholera,0,0.0
+2023-08-27,Tanzania,Mwanza,E. coli,0,1.86
+2023-08-27,Tanzania,Mwanza,Salmonella,0,0.0
+2023-08-27,Tanzania,Mwanza,Shigella,0,0.0
+2023-08-27,Tanzania,Mwanza,Rotavirus,0,5.74
+2023-09-03,Tanzania,Mwanza,Cholera,0,3.16
+2023-09-03,Tanzania,Mwanza,E. coli,0,0.87
+2023-09-03,Tanzania,Mwanza,Salmonella,0,2.76
+2023-09-03,Tanzania,Mwanza,Shigella,0,3.98
+2023-09-03,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-09-10,Tanzania,Mwanza,Cholera,0,0.0
+2023-09-10,Tanzania,Mwanza,E. coli,47,7.22
+2023-09-10,Tanzania,Mwanza,Salmonella,0,0.0
+2023-09-10,Tanzania,Mwanza,Shigella,0,0.0
+2023-09-10,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-09-17,Tanzania,Mwanza,Cholera,0,7.36
+2023-09-17,Tanzania,Mwanza,E. coli,0,0.0
+2023-09-17,Tanzania,Mwanza,Salmonella,0,2.98
+2023-09-17,Tanzania,Mwanza,Shigella,0,3.44
+2023-09-17,Tanzania,Mwanza,Rotavirus,0,3.05
+2023-09-24,Tanzania,Mwanza,Cholera,0,7.1
+2023-09-24,Tanzania,Mwanza,E. coli,0,0.0
+2023-09-24,Tanzania,Mwanza,Salmonella,0,0.0
+2023-09-24,Tanzania,Mwanza,Shigella,0,0.0
+2023-09-24,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-10-01,Tanzania,Mwanza,Cholera,0,1.21
+2023-10-01,Tanzania,Mwanza,E. coli,0,0.0
+2023-10-01,Tanzania,Mwanza,Salmonella,0,0.0
+2023-10-01,Tanzania,Mwanza,Shigella,0,0.41
+2023-10-01,Tanzania,Mwanza,Rotavirus,0,2.37
+2023-10-08,Tanzania,Mwanza,Cholera,0,0.0
+2023-10-08,Tanzania,Mwanza,E. coli,0,2.62
+2023-10-08,Tanzania,Mwanza,Salmonella,0,0.0
+2023-10-08,Tanzania,Mwanza,Shigella,0,0.0
+2023-10-08,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-10-15,Tanzania,Mwanza,Cholera,0,0.0
+2023-10-15,Tanzania,Mwanza,E. coli,0,0.0
+2023-10-15,Tanzania,Mwanza,Salmonella,0,0.0
+2023-10-15,Tanzania,Mwanza,Shigella,0,0.0
+2023-10-15,Tanzania,Mwanza,Rotavirus,47,5.92
+2023-10-22,Tanzania,Mwanza,Cholera,0,0.3
+2023-10-22,Tanzania,Mwanza,E. coli,0,0.0
+2023-10-22,Tanzania,Mwanza,Salmonella,0,0.36
+2023-10-22,Tanzania,Mwanza,Shigella,0,6.73
+2023-10-22,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-10-29,Tanzania,Mwanza,Cholera,0,0.0
+2023-10-29,Tanzania,Mwanza,E. coli,0,0.0
+2023-10-29,Tanzania,Mwanza,Salmonella,0,0.0
+2023-10-29,Tanzania,Mwanza,Shigella,0,0.0
+2023-10-29,Tanzania,Mwanza,Rotavirus,0,2.96
+2023-11-05,Tanzania,Mwanza,Cholera,0,0.0
+2023-11-05,Tanzania,Mwanza,E. coli,0,0.0
+2023-11-05,Tanzania,Mwanza,Salmonella,0,6.81
+2023-11-05,Tanzania,Mwanza,Shigella,0,0.23
+2023-11-05,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-11-12,Tanzania,Mwanza,Cholera,0,3.49
+2023-11-12,Tanzania,Mwanza,E. coli,0,0.0
+2023-11-12,Tanzania,Mwanza,Salmonella,0,0.0
+2023-11-12,Tanzania,Mwanza,Shigella,0,1.89
+2023-11-12,Tanzania,Mwanza,Rotavirus,0,10.6
+2023-11-19,Tanzania,Mwanza,Cholera,0,0.0
+2023-11-19,Tanzania,Mwanza,E. coli,0,2.13
+2023-11-19,Tanzania,Mwanza,Salmonella,0,0.12
+2023-11-19,Tanzania,Mwanza,Shigella,0,0.0
+2023-11-19,Tanzania,Mwanza,Rotavirus,0,0.0
+2023-11-26,Tanzania,Mwanza,Cholera,0,2.28
+2023-11-26,Tanzania,Mwanza,E. coli,0,0.0
+2023-11-26,Tanzania,Mwanza,Salmonella,0,0.0
+2023-11-26,Tanzania,Mwanza,Shigella,0,2.68
+2023-11-26,Tanzania,Mwanza,Rotavirus,0,1.52
+2023-12-03,Tanzania,Mwanza,Cholera,0,0.0
+2023-12-03,Tanzania,Mwanza,E. coli,0,0.0
+2023-12-03,Tanzania,Mwanza,Salmonella,0,0.24
+2023-12-03,Tanzania,Mwanza,Shigella,0,0.0
+2023-12-03,Tanzania,Mwanza,Rotavirus,0,6.17
+2023-12-10,Tanzania,Mwanza,Cholera,0,0.0
+2023-12-10,Tanzania,Mwanza,E. coli,0,0.24
+2023-12-10,Tanzania,Mwanza,Salmonella,0,0.0
+2023-12-10,Tanzania,Mwanza,Shigella,0,8.06
+2023-12-10,Tanzania,Mwanza,Rotavirus,0,0.77
+2023-12-17,Tanzania,Mwanza,Cholera,2,6.6
+2023-12-17,Tanzania,Mwanza,E. coli,3,0.0
+2023-12-17,Tanzania,Mwanza,Salmonella,1,3.55
+2023-12-17,Tanzania,Mwanza,Shigella,2,0.0
+2023-12-17,Tanzania,Mwanza,Rotavirus,2,0.0
+2023-12-24,Tanzania,Mwanza,Cholera,39,10.13
+2023-12-24,Tanzania,Mwanza,E. coli,8,0.0
+2023-12-24,Tanzania,Mwanza,Salmonella,3,7.14
+2023-12-24,Tanzania,Mwanza,Shigella,6,2.02
+2023-12-24,Tanzania,Mwanza,Rotavirus,2,1.52
+2023-01-01,Burundi,Bujumbura,Cholera,3,0.03
+2023-01-01,Burundi,Bujumbura,E. coli,1,2.36
+2023-01-01,Burundi,Bujumbura,Salmonella,2,5.11
+2023-01-01,Burundi,Bujumbura,Shigella,5,0.0
+2023-01-01,Burundi,Bujumbura,Rotavirus,10,0.0
+2023-01-08,Burundi,Bujumbura,Cholera,5,0.0
+2023-01-08,Burundi,Bujumbura,E. coli,4,0.0
+2023-01-08,Burundi,Bujumbura,Salmonella,8,0.0
+2023-01-08,Burundi,Bujumbura,Shigella,4,8.59
+2023-01-08,Burundi,Bujumbura,Rotavirus,14,0.0
+2023-01-15,Burundi,Bujumbura,Cholera,8,0.0
+2023-01-15,Burundi,Bujumbura,E. coli,7,2.72
+2023-01-15,Burundi,Bujumbura,Salmonella,16,5.01
+2023-01-15,Burundi,Bujumbura,Shigella,7,7.21
+2023-01-15,Burundi,Bujumbura,Rotavirus,9,0.0
+2023-01-22,Burundi,Bujumbura,Cholera,12,0.0
+2023-01-22,Burundi,Bujumbura,E. coli,11,0.0
+2023-01-22,Burundi,Bujumbura,Salmonella,10,13.8
+2023-01-22,Burundi,Bujumbura,Shigella,8,6.07
+2023-01-22,Burundi,Bujumbura,Rotavirus,9,3.47
+2023-01-29,Burundi,Bujumbura,Cholera,13,0.79
+2023-01-29,Burundi,Bujumbura,E. coli,12,3.29
+2023-01-29,Burundi,Bujumbura,Salmonella,17,8.42
+2023-01-29,Burundi,Bujumbura,Shigella,18,6.34
+2023-01-29,Burundi,Bujumbura,Rotavirus,13,1.2
+2023-02-05,Burundi,Bujumbura,Cholera,18,0.52
+2023-02-05,Burundi,Bujumbura,E. coli,45,8.94
+2023-02-05,Burundi,Bujumbura,Salmonella,13,0.0
+2023-02-05,Burundi,Bujumbura,Shigella,15,0.0
+2023-02-05,Burundi,Bujumbura,Rotavirus,54,11.95
+2023-02-12,Burundi,Bujumbura,Cholera,13,10.71
+2023-02-12,Burundi,Bujumbura,E. coli,21,0.35
+2023-02-12,Burundi,Bujumbura,Salmonella,16,0.0
+2023-02-12,Burundi,Bujumbura,Shigella,16,9.43
+2023-02-12,Burundi,Bujumbura,Rotavirus,17,0.0
+2023-02-19,Burundi,Bujumbura,Cholera,14,7.05
+2023-02-19,Burundi,Bujumbura,E. coli,22,2.62
+2023-02-19,Burundi,Bujumbura,Salmonella,15,1.88
+2023-02-19,Burundi,Bujumbura,Shigella,16,9.09
+2023-02-19,Burundi,Bujumbura,Rotavirus,26,0.0
+2023-02-26,Burundi,Bujumbura,Cholera,21,4.67
+2023-02-26,Burundi,Bujumbura,E. coli,20,8.61
+2023-02-26,Burundi,Bujumbura,Salmonella,22,4.0
+2023-02-26,Burundi,Bujumbura,Shigella,20,2.34
+2023-02-26,Burundi,Bujumbura,Rotavirus,18,11.63
+2023-03-05,Burundi,Bujumbura,Cholera,47,11.77
+2023-03-05,Burundi,Bujumbura,E. coli,15,6.54
+2023-03-05,Burundi,Bujumbura,Salmonella,23,8.48
+2023-03-05,Burundi,Bujumbura,Shigella,21,14.88
+2023-03-05,Burundi,Bujumbura,Rotavirus,13,0.92
+2023-03-12,Burundi,Bujumbura,Cholera,15,0.0
+2023-03-12,Burundi,Bujumbura,E. coli,23,14.34
+2023-03-12,Burundi,Bujumbura,Salmonella,11,8.09
+2023-03-12,Burundi,Bujumbura,Shigella,18,12.77
+2023-03-12,Burundi,Bujumbura,Rotavirus,14,1.3
+2023-03-19,Burundi,Bujumbura,Cholera,18,1.37
+2023-03-19,Burundi,Bujumbura,E. coli,15,1.76
+2023-03-19,Burundi,Bujumbura,Salmonella,15,0.0
+2023-03-19,Burundi,Bujumbura,Shigella,19,3.03
+2023-03-19,Burundi,Bujumbura,Rotavirus,34,2.47
+2023-03-26,Burundi,Bujumbura,Cholera,48,14.61
+2023-03-26,Burundi,Bujumbura,E. coli,20,7.97
+2023-03-26,Burundi,Bujumbura,Salmonella,25,0.0
+2023-03-26,Burundi,Bujumbura,Shigella,22,7.96
+2023-03-26,Burundi,Bujumbura,Rotavirus,12,6.35
+2023-04-02,Burundi,Bujumbura,Cholera,10,2.25
+2023-04-02,Burundi,Bujumbura,E. coli,20,10.13
+2023-04-02,Burundi,Bujumbura,Salmonella,19,6.06
+2023-04-02,Burundi,Bujumbura,Shigella,21,11.15
+2023-04-02,Burundi,Bujumbura,Rotavirus,20,7.81
+2023-04-09,Burundi,Bujumbura,Cholera,18,3.88
+2023-04-09,Burundi,Bujumbura,E. coli,27,2.61
+2023-04-09,Burundi,Bujumbura,Salmonella,27,15.25
+2023-04-09,Burundi,Bujumbura,Shigella,18,0.0
+2023-04-09,Burundi,Bujumbura,Rotavirus,18,19.12
+2023-04-16,Burundi,Bujumbura,Cholera,46,8.02
+2023-04-16,Burundi,Bujumbura,E. coli,18,7.85
+2023-04-16,Burundi,Bujumbura,Salmonella,56,14.99
+2023-04-16,Burundi,Bujumbura,Shigella,25,3.19
+2023-04-16,Burundi,Bujumbura,Rotavirus,20,4.68
+2023-04-23,Burundi,Bujumbura,Cholera,13,0.0
+2023-04-23,Burundi,Bujumbura,E. coli,22,9.54
+2023-04-23,Burundi,Bujumbura,Salmonella,14,5.95
+2023-04-23,Burundi,Bujumbura,Shigella,17,0.0
+2023-04-23,Burundi,Bujumbura,Rotavirus,21,3.78
+2023-04-30,Burundi,Bujumbura,Cholera,63,11.74
+2023-04-30,Burundi,Bujumbura,E. coli,26,2.49
+2023-04-30,Burundi,Bujumbura,Salmonella,13,0.0
+2023-04-30,Burundi,Bujumbura,Shigella,28,5.5
+2023-04-30,Burundi,Bujumbura,Rotavirus,16,0.0
+2023-05-07,Burundi,Bujumbura,Cholera,22,12.14
+2023-05-07,Burundi,Bujumbura,E. coli,12,2.06
+2023-05-07,Burundi,Bujumbura,Salmonella,23,0.0
+2023-05-07,Burundi,Bujumbura,Shigella,14,4.7
+2023-05-07,Burundi,Bujumbura,Rotavirus,18,0.0
+2023-05-14,Burundi,Bujumbura,Cholera,11,7.46
+2023-05-14,Burundi,Bujumbura,E. coli,13,12.97
+2023-05-14,Burundi,Bujumbura,Salmonella,8,3.77
+2023-05-14,Burundi,Bujumbura,Shigella,42,5.93
+2023-05-14,Burundi,Bujumbura,Rotavirus,15,0.0
+2023-05-21,Burundi,Bujumbura,Cholera,17,2.3
+2023-05-21,Burundi,Bujumbura,E. coli,10,0.82
+2023-05-21,Burundi,Bujumbura,Salmonella,11,1.72
+2023-05-21,Burundi,Bujumbura,Shigella,20,1.19
+2023-05-21,Burundi,Bujumbura,Rotavirus,20,2.33
+2023-05-28,Burundi,Bujumbura,Cholera,13,1.35
+2023-05-28,Burundi,Bujumbura,E. coli,11,0.0
+2023-05-28,Burundi,Bujumbura,Salmonella,40,0.0
+2023-05-28,Burundi,Bujumbura,Shigella,16,9.13
+2023-05-28,Burundi,Bujumbura,Rotavirus,14,8.11
+2023-06-04,Burundi,Bujumbura,Cholera,11,0.65
+2023-06-04,Burundi,Bujumbura,E. coli,11,6.13
+2023-06-04,Burundi,Bujumbura,Salmonella,12,0.0
+2023-06-04,Burundi,Bujumbura,Shigella,8,3.28
+2023-06-04,Burundi,Bujumbura,Rotavirus,8,6.46
+2023-06-11,Burundi,Bujumbura,Cholera,11,9.18
+2023-06-11,Burundi,Bujumbura,E. coli,11,3.58
+2023-06-11,Burundi,Bujumbura,Salmonella,14,7.37
+2023-06-11,Burundi,Bujumbura,Shigella,11,8.47
+2023-06-11,Burundi,Bujumbura,Rotavirus,12,1.95
+2023-06-18,Burundi,Bujumbura,Cholera,10,0.0
+2023-06-18,Burundi,Bujumbura,E. coli,6,3.57
+2023-06-18,Burundi,Bujumbura,Salmonella,9,0.0
+2023-06-18,Burundi,Bujumbura,Shigella,5,0.0
+2023-06-18,Burundi,Bujumbura,Rotavirus,8,3.26
+2023-06-25,Burundi,Bujumbura,Cholera,6,0.0
+2023-06-25,Burundi,Bujumbura,E. coli,9,0.0
+2023-06-25,Burundi,Bujumbura,Salmonella,8,1.76
+2023-06-25,Burundi,Bujumbura,Shigella,6,8.67
+2023-06-25,Burundi,Bujumbura,Rotavirus,6,0.0
+2023-07-02,Burundi,Bujumbura,Cholera,5,0.58
+2023-07-02,Burundi,Bujumbura,E. coli,4,6.28
+2023-07-02,Burundi,Bujumbura,Salmonella,9,0.0
+2023-07-02,Burundi,Bujumbura,Shigella,5,0.0
+2023-07-02,Burundi,Bujumbura,Rotavirus,5,5.21
+2023-07-09,Burundi,Bujumbura,Cholera,4,0.0
+2023-07-09,Burundi,Bujumbura,E. coli,4,0.0
+2023-07-09,Burundi,Bujumbura,Salmonella,2,0.0
+2023-07-09,Burundi,Bujumbura,Shigella,6,8.62
+2023-07-09,Burundi,Bujumbura,Rotavirus,2,0.0
+2023-07-16,Burundi,Bujumbura,Cholera,0,3.02
+2023-07-16,Burundi,Bujumbura,E. coli,2,3.54
+2023-07-16,Burundi,Bujumbura,Salmonella,3,0.66
+2023-07-16,Burundi,Bujumbura,Shigella,3,6.29
+2023-07-16,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-07-23,Burundi,Bujumbura,Cholera,0,8.72
+2023-07-23,Burundi,Bujumbura,E. coli,0,0.0
+2023-07-23,Burundi,Bujumbura,Salmonella,0,0.0
+2023-07-23,Burundi,Bujumbura,Shigella,0,2.65
+2023-07-23,Burundi,Bujumbura,Rotavirus,0,6.78
+2023-07-30,Burundi,Bujumbura,Cholera,0,0.0
+2023-07-30,Burundi,Bujumbura,E. coli,0,2.66
+2023-07-30,Burundi,Bujumbura,Salmonella,0,4.68
+2023-07-30,Burundi,Bujumbura,Shigella,0,0.0
+2023-07-30,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-08-06,Burundi,Bujumbura,Cholera,0,9.76
+2023-08-06,Burundi,Bujumbura,E. coli,0,0.0
+2023-08-06,Burundi,Bujumbura,Salmonella,0,0.67
+2023-08-06,Burundi,Bujumbura,Shigella,0,0.0
+2023-08-06,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-08-13,Burundi,Bujumbura,Cholera,0,4.37
+2023-08-13,Burundi,Bujumbura,E. coli,0,3.04
+2023-08-13,Burundi,Bujumbura,Salmonella,0,1.5
+2023-08-13,Burundi,Bujumbura,Shigella,0,0.0
+2023-08-13,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-08-20,Burundi,Bujumbura,Cholera,0,0.0
+2023-08-20,Burundi,Bujumbura,E. coli,0,0.48
+2023-08-20,Burundi,Bujumbura,Salmonella,0,8.64
+2023-08-20,Burundi,Bujumbura,Shigella,0,0.34
+2023-08-20,Burundi,Bujumbura,Rotavirus,0,4.09
+2023-08-27,Burundi,Bujumbura,Cholera,0,0.0
+2023-08-27,Burundi,Bujumbura,E. coli,0,3.63
+2023-08-27,Burundi,Bujumbura,Salmonella,0,0.04
+2023-08-27,Burundi,Bujumbura,Shigella,0,0.0
+2023-08-27,Burundi,Bujumbura,Rotavirus,0,2.9
+2023-09-03,Burundi,Bujumbura,Cholera,0,2.34
+2023-09-03,Burundi,Bujumbura,E. coli,0,0.0
+2023-09-03,Burundi,Bujumbura,Salmonella,0,0.0
+2023-09-03,Burundi,Bujumbura,Shigella,0,0.0
+2023-09-03,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-09-10,Burundi,Bujumbura,Cholera,0,0.0
+2023-09-10,Burundi,Bujumbura,E. coli,0,1.16
+2023-09-10,Burundi,Bujumbura,Salmonella,0,8.02
+2023-09-10,Burundi,Bujumbura,Shigella,0,3.4
+2023-09-10,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-09-17,Burundi,Bujumbura,Cholera,0,7.53
+2023-09-17,Burundi,Bujumbura,E. coli,0,6.61
+2023-09-17,Burundi,Bujumbura,Salmonella,0,0.0
+2023-09-17,Burundi,Bujumbura,Shigella,0,8.65
+2023-09-17,Burundi,Bujumbura,Rotavirus,34,0.0
+2023-09-24,Burundi,Bujumbura,Cholera,0,0.0
+2023-09-24,Burundi,Bujumbura,E. coli,0,6.41
+2023-09-24,Burundi,Bujumbura,Salmonella,0,0.0
+2023-09-24,Burundi,Bujumbura,Shigella,0,4.91
+2023-09-24,Burundi,Bujumbura,Rotavirus,0,8.86
+2023-10-01,Burundi,Bujumbura,Cholera,0,0.0
+2023-10-01,Burundi,Bujumbura,E. coli,0,0.0
+2023-10-01,Burundi,Bujumbura,Salmonella,0,1.63
+2023-10-01,Burundi,Bujumbura,Shigella,0,10.18
+2023-10-01,Burundi,Bujumbura,Rotavirus,0,7.38
+2023-10-08,Burundi,Bujumbura,Cholera,0,1.08
+2023-10-08,Burundi,Bujumbura,E. coli,25,0.0
+2023-10-08,Burundi,Bujumbura,Salmonella,0,0.67
+2023-10-08,Burundi,Bujumbura,Shigella,0,0.0
+2023-10-08,Burundi,Bujumbura,Rotavirus,0,2.02
+2023-10-15,Burundi,Bujumbura,Cholera,0,7.96
+2023-10-15,Burundi,Bujumbura,E. coli,0,0.0
+2023-10-15,Burundi,Bujumbura,Salmonella,0,0.0
+2023-10-15,Burundi,Bujumbura,Shigella,0,5.5
+2023-10-15,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-10-22,Burundi,Bujumbura,Cholera,0,0.0
+2023-10-22,Burundi,Bujumbura,E. coli,0,3.06
+2023-10-22,Burundi,Bujumbura,Salmonella,0,0.0
+2023-10-22,Burundi,Bujumbura,Shigella,0,1.0
+2023-10-22,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-10-29,Burundi,Bujumbura,Cholera,0,10.79
+2023-10-29,Burundi,Bujumbura,E. coli,0,0.96
+2023-10-29,Burundi,Bujumbura,Salmonella,0,3.68
+2023-10-29,Burundi,Bujumbura,Shigella,0,5.47
+2023-10-29,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-11-05,Burundi,Bujumbura,Cholera,0,6.79
+2023-11-05,Burundi,Bujumbura,E. coli,0,4.43
+2023-11-05,Burundi,Bujumbura,Salmonella,0,0.0
+2023-11-05,Burundi,Bujumbura,Shigella,0,0.0
+2023-11-05,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-11-12,Burundi,Bujumbura,Cholera,0,0.23
+2023-11-12,Burundi,Bujumbura,E. coli,0,0.0
+2023-11-12,Burundi,Bujumbura,Salmonella,0,2.1
+2023-11-12,Burundi,Bujumbura,Shigella,0,0.0
+2023-11-12,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-11-19,Burundi,Bujumbura,Cholera,0,0.0
+2023-11-19,Burundi,Bujumbura,E. coli,0,0.0
+2023-11-19,Burundi,Bujumbura,Salmonella,0,0.0
+2023-11-19,Burundi,Bujumbura,Shigella,0,1.65
+2023-11-19,Burundi,Bujumbura,Rotavirus,0,2.77
+2023-11-26,Burundi,Bujumbura,Cholera,0,0.0
+2023-11-26,Burundi,Bujumbura,E. coli,0,0.0
+2023-11-26,Burundi,Bujumbura,Salmonella,0,0.15
+2023-11-26,Burundi,Bujumbura,Shigella,0,8.08
+2023-11-26,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-12-03,Burundi,Bujumbura,Cholera,0,0.0
+2023-12-03,Burundi,Bujumbura,E. coli,0,0.0
+2023-12-03,Burundi,Bujumbura,Salmonella,0,1.34
+2023-12-03,Burundi,Bujumbura,Shigella,0,0.0
+2023-12-03,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-12-10,Burundi,Bujumbura,Cholera,0,10.6
+2023-12-10,Burundi,Bujumbura,E. coli,0,0.0
+2023-12-10,Burundi,Bujumbura,Salmonella,0,0.0
+2023-12-10,Burundi,Bujumbura,Shigella,0,0.0
+2023-12-10,Burundi,Bujumbura,Rotavirus,0,0.0
+2023-12-17,Burundi,Bujumbura,Cholera,0,0.0
+2023-12-17,Burundi,Bujumbura,E. coli,1,0.0
+2023-12-17,Burundi,Bujumbura,Salmonella,2,2.95
+2023-12-17,Burundi,Bujumbura,Shigella,1,5.09
+2023-12-17,Burundi,Bujumbura,Rotavirus,1,0.0
+2023-12-24,Burundi,Bujumbura,Cholera,4,2.97
+2023-12-24,Burundi,Bujumbura,E. coli,2,0.0
+2023-12-24,Burundi,Bujumbura,Salmonella,10,0.0
+2023-12-24,Burundi,Bujumbura,Shigella,5,0.0
+2023-12-24,Burundi,Bujumbura,Rotavirus,4,0.0
+2023-01-01,Burundi,Ngozi,Cholera,2,0.0
+2023-01-01,Burundi,Ngozi,E. coli,5,6.33
+2023-01-01,Burundi,Ngozi,Salmonella,3,2.53
+2023-01-01,Burundi,Ngozi,Shigella,4,0.0
+2023-01-01,Burundi,Ngozi,Rotavirus,6,0.0
+2023-01-08,Burundi,Ngozi,Cholera,7,0.0
+2023-01-08,Burundi,Ngozi,E. coli,5,0.0
+2023-01-08,Burundi,Ngozi,Salmonella,8,0.0
+2023-01-08,Burundi,Ngozi,Shigella,6,0.0
+2023-01-08,Burundi,Ngozi,Rotavirus,4,4.74
+2023-01-15,Burundi,Ngozi,Cholera,13,0.0
+2023-01-15,Burundi,Ngozi,E. coli,19,10.13
+2023-01-15,Burundi,Ngozi,Salmonella,11,0.0
+2023-01-15,Burundi,Ngozi,Shigella,3,3.1
+2023-01-15,Burundi,Ngozi,Rotavirus,30,0.31
+2023-01-22,Burundi,Ngozi,Cholera,16,5.75
+2023-01-22,Burundi,Ngozi,E. coli,13,0.0
+2023-01-22,Burundi,Ngozi,Salmonella,9,0.0
+2023-01-22,Burundi,Ngozi,Shigella,10,4.01
+2023-01-22,Burundi,Ngozi,Rotavirus,7,0.0
+2023-01-29,Burundi,Ngozi,Cholera,12,3.63
+2023-01-29,Burundi,Ngozi,E. coli,16,3.38
+2023-01-29,Burundi,Ngozi,Salmonella,9,9.11
+2023-01-29,Burundi,Ngozi,Shigella,13,1.93
+2023-01-29,Burundi,Ngozi,Rotavirus,18,5.81
+2023-02-05,Burundi,Ngozi,Cholera,16,4.29
+2023-02-05,Burundi,Ngozi,E. coli,15,3.85
+2023-02-05,Burundi,Ngozi,Salmonella,11,0.0
+2023-02-05,Burundi,Ngozi,Shigella,17,3.39
+2023-02-05,Burundi,Ngozi,Rotavirus,17,0.0
+2023-02-12,Burundi,Ngozi,Cholera,14,0.0
+2023-02-12,Burundi,Ngozi,E. coli,10,4.41
+2023-02-12,Burundi,Ngozi,Salmonella,13,0.81
+2023-02-12,Burundi,Ngozi,Shigella,19,0.0
+2023-02-12,Burundi,Ngozi,Rotavirus,9,2.92
+2023-02-19,Burundi,Ngozi,Cholera,23,1.71
+2023-02-19,Burundi,Ngozi,E. coli,22,0.0
+2023-02-19,Burundi,Ngozi,Salmonella,22,0.0
+2023-02-19,Burundi,Ngozi,Shigella,17,3.13
+2023-02-19,Burundi,Ngozi,Rotavirus,17,2.68
+2023-02-26,Burundi,Ngozi,Cholera,14,3.95
+2023-02-26,Burundi,Ngozi,E. coli,21,6.59
+2023-02-26,Burundi,Ngozi,Salmonella,58,15.5
+2023-02-26,Burundi,Ngozi,Shigella,21,5.26
+2023-02-26,Burundi,Ngozi,Rotavirus,19,2.14
+2023-03-05,Burundi,Ngozi,Cholera,17,7.44
+2023-03-05,Burundi,Ngozi,E. coli,11,0.0
+2023-03-05,Burundi,Ngozi,Salmonella,19,0.0
+2023-03-05,Burundi,Ngozi,Shigella,22,1.36
+2023-03-05,Burundi,Ngozi,Rotavirus,20,0.0
+2023-03-12,Burundi,Ngozi,Cholera,15,1.52
+2023-03-12,Burundi,Ngozi,E. coli,21,8.43
+2023-03-12,Burundi,Ngozi,Salmonella,12,0.0
+2023-03-12,Burundi,Ngozi,Shigella,52,11.61
+2023-03-12,Burundi,Ngozi,Rotavirus,24,8.05
+2023-03-19,Burundi,Ngozi,Cholera,20,8.6
+2023-03-19,Burundi,Ngozi,E. coli,12,7.03
+2023-03-19,Burundi,Ngozi,Salmonella,20,0.0
+2023-03-19,Burundi,Ngozi,Shigella,17,7.48
+2023-03-19,Burundi,Ngozi,Rotavirus,21,10.08
+2023-03-26,Burundi,Ngozi,Cholera,24,10.36
+2023-03-26,Burundi,Ngozi,E. coli,27,2.64
+2023-03-26,Burundi,Ngozi,Salmonella,27,2.38
+2023-03-26,Burundi,Ngozi,Shigella,17,6.55
+2023-03-26,Burundi,Ngozi,Rotavirus,17,4.37
+2023-04-02,Burundi,Ngozi,Cholera,26,10.34
+2023-04-02,Burundi,Ngozi,E. coli,21,7.48
+2023-04-02,Burundi,Ngozi,Salmonella,29,9.65
+2023-04-02,Burundi,Ngozi,Shigella,21,1.89
+2023-04-02,Burundi,Ngozi,Rotavirus,13,0.0
+2023-04-09,Burundi,Ngozi,Cholera,21,2.48
+2023-04-09,Burundi,Ngozi,E. coli,14,0.0
+2023-04-09,Burundi,Ngozi,Salmonella,44,17.99
+2023-04-09,Burundi,Ngozi,Shigella,14,4.4
+2023-04-09,Burundi,Ngozi,Rotavirus,59,14.07
+2023-04-16,Burundi,Ngozi,Cholera,19,0.0
+2023-04-16,Burundi,Ngozi,E. coli,24,9.74
+2023-04-16,Burundi,Ngozi,Salmonella,13,0.0
+2023-04-16,Burundi,Ngozi,Shigella,18,2.33
+2023-04-16,Burundi,Ngozi,Rotavirus,19,11.89
+2023-04-23,Burundi,Ngozi,Cholera,23,8.38
+2023-04-23,Burundi,Ngozi,E. coli,15,0.0
+2023-04-23,Burundi,Ngozi,Salmonella,15,2.87
+2023-04-23,Burundi,Ngozi,Shigella,17,0.0
+2023-04-23,Burundi,Ngozi,Rotavirus,20,4.74
+2023-04-30,Burundi,Ngozi,Cholera,21,1.39
+2023-04-30,Burundi,Ngozi,E. coli,25,8.98
+2023-04-30,Burundi,Ngozi,Salmonella,16,4.03
+2023-04-30,Burundi,Ngozi,Shigella,26,6.85
+2023-04-30,Burundi,Ngozi,Rotavirus,11,12.04
+2023-05-07,Burundi,Ngozi,Cholera,22,0.0
+2023-05-07,Burundi,Ngozi,E. coli,11,2.01
+2023-05-07,Burundi,Ngozi,Salmonella,13,3.12
+2023-05-07,Burundi,Ngozi,Shigella,18,0.93
+2023-05-07,Burundi,Ngozi,Rotavirus,16,3.05
+2023-05-14,Burundi,Ngozi,Cholera,19,0.54
+2023-05-14,Burundi,Ngozi,E. coli,23,0.0
+2023-05-14,Burundi,Ngozi,Salmonella,19,0.05
+2023-05-14,Burundi,Ngozi,Shigella,15,1.25
+2023-05-14,Burundi,Ngozi,Rotavirus,20,14.26
+2023-05-21,Burundi,Ngozi,Cholera,9,0.0
+2023-05-21,Burundi,Ngozi,E. coli,14,7.44
+2023-05-21,Burundi,Ngozi,Salmonella,17,5.63
+2023-05-21,Burundi,Ngozi,Shigella,7,0.0
+2023-05-21,Burundi,Ngozi,Rotavirus,16,0.0
+2023-05-28,Burundi,Ngozi,Cholera,8,0.0
+2023-05-28,Burundi,Ngozi,E. coli,20,0.0
+2023-05-28,Burundi,Ngozi,Salmonella,12,6.55
+2023-05-28,Burundi,Ngozi,Shigella,11,0.0
+2023-05-28,Burundi,Ngozi,Rotavirus,17,2.43
+2023-06-04,Burundi,Ngozi,Cholera,10,1.92
+2023-06-04,Burundi,Ngozi,E. coli,9,0.0
+2023-06-04,Burundi,Ngozi,Salmonella,11,0.11
+2023-06-04,Burundi,Ngozi,Shigella,5,0.0
+2023-06-04,Burundi,Ngozi,Rotavirus,11,3.74
+2023-06-11,Burundi,Ngozi,Cholera,11,4.14
+2023-06-11,Burundi,Ngozi,E. coli,8,2.42
+2023-06-11,Burundi,Ngozi,Salmonella,8,0.09
+2023-06-11,Burundi,Ngozi,Shigella,13,6.13
+2023-06-11,Burundi,Ngozi,Rotavirus,15,2.96
+2023-06-18,Burundi,Ngozi,Cholera,7,0.0
+2023-06-18,Burundi,Ngozi,E. coli,40,10.26
+2023-06-18,Burundi,Ngozi,Salmonella,6,0.61
+2023-06-18,Burundi,Ngozi,Shigella,11,7.51
+2023-06-18,Burundi,Ngozi,Rotavirus,8,0.0
+2023-06-25,Burundi,Ngozi,Cholera,7,0.42
+2023-06-25,Burundi,Ngozi,E. coli,5,0.0
+2023-06-25,Burundi,Ngozi,Salmonella,3,4.94
+2023-06-25,Burundi,Ngozi,Shigella,4,0.52
+2023-06-25,Burundi,Ngozi,Rotavirus,5,0.0
+2023-07-02,Burundi,Ngozi,Cholera,4,0.0
+2023-07-02,Burundi,Ngozi,E. coli,3,0.0
+2023-07-02,Burundi,Ngozi,Salmonella,6,0.0
+2023-07-02,Burundi,Ngozi,Shigella,4,0.0
+2023-07-02,Burundi,Ngozi,Rotavirus,3,0.0
+2023-07-09,Burundi,Ngozi,Cholera,4,5.65
+2023-07-09,Burundi,Ngozi,E. coli,3,1.97
+2023-07-09,Burundi,Ngozi,Salmonella,7,0.0
+2023-07-09,Burundi,Ngozi,Shigella,1,4.49
+2023-07-09,Burundi,Ngozi,Rotavirus,4,0.0
+2023-07-16,Burundi,Ngozi,Cholera,2,0.0
+2023-07-16,Burundi,Ngozi,E. coli,1,0.0
+2023-07-16,Burundi,Ngozi,Salmonella,2,0.0
+2023-07-16,Burundi,Ngozi,Shigella,4,0.0
+2023-07-16,Burundi,Ngozi,Rotavirus,0,0.0
+2023-07-23,Burundi,Ngozi,Cholera,0,1.07
+2023-07-23,Burundi,Ngozi,E. coli,0,4.36
+2023-07-23,Burundi,Ngozi,Salmonella,0,0.0
+2023-07-23,Burundi,Ngozi,Shigella,0,3.59
+2023-07-23,Burundi,Ngozi,Rotavirus,0,0.0
+2023-07-30,Burundi,Ngozi,Cholera,0,0.0
+2023-07-30,Burundi,Ngozi,E. coli,0,5.71
+2023-07-30,Burundi,Ngozi,Salmonella,37,8.08
+2023-07-30,Burundi,Ngozi,Shigella,0,0.0
+2023-07-30,Burundi,Ngozi,Rotavirus,0,2.51
+2023-08-06,Burundi,Ngozi,Cholera,21,0.0
+2023-08-06,Burundi,Ngozi,E. coli,0,3.59
+2023-08-06,Burundi,Ngozi,Salmonella,0,0.0
+2023-08-06,Burundi,Ngozi,Shigella,0,0.0
+2023-08-06,Burundi,Ngozi,Rotavirus,0,3.79
+2023-08-13,Burundi,Ngozi,Cholera,0,0.0
+2023-08-13,Burundi,Ngozi,E. coli,0,0.0
+2023-08-13,Burundi,Ngozi,Salmonella,0,2.62
+2023-08-13,Burundi,Ngozi,Shigella,0,0.65
+2023-08-13,Burundi,Ngozi,Rotavirus,0,0.0
+2023-08-20,Burundi,Ngozi,Cholera,0,2.39
+2023-08-20,Burundi,Ngozi,E. coli,0,0.0
+2023-08-20,Burundi,Ngozi,Salmonella,0,0.0
+2023-08-20,Burundi,Ngozi,Shigella,0,0.0
+2023-08-20,Burundi,Ngozi,Rotavirus,0,0.88
+2023-08-27,Burundi,Ngozi,Cholera,0,0.0
+2023-08-27,Burundi,Ngozi,E. coli,0,9.32
+2023-08-27,Burundi,Ngozi,Salmonella,0,4.75
+2023-08-27,Burundi,Ngozi,Shigella,0,5.31
+2023-08-27,Burundi,Ngozi,Rotavirus,0,0.0
+2023-09-03,Burundi,Ngozi,Cholera,0,10.47
+2023-09-03,Burundi,Ngozi,E. coli,0,0.0
+2023-09-03,Burundi,Ngozi,Salmonella,0,0.68
+2023-09-03,Burundi,Ngozi,Shigella,44,3.26
+2023-09-03,Burundi,Ngozi,Rotavirus,0,3.77
+2023-09-10,Burundi,Ngozi,Cholera,0,4.98
+2023-09-10,Burundi,Ngozi,E. coli,0,0.36
+2023-09-10,Burundi,Ngozi,Salmonella,0,8.02
+2023-09-10,Burundi,Ngozi,Shigella,0,0.0
+2023-09-10,Burundi,Ngozi,Rotavirus,0,0.0
+2023-09-17,Burundi,Ngozi,Cholera,0,0.0
+2023-09-17,Burundi,Ngozi,E. coli,0,0.0
+2023-09-17,Burundi,Ngozi,Salmonella,0,0.0
+2023-09-17,Burundi,Ngozi,Shigella,0,0.0
+2023-09-17,Burundi,Ngozi,Rotavirus,0,2.69
+2023-09-24,Burundi,Ngozi,Cholera,0,0.0
+2023-09-24,Burundi,Ngozi,E. coli,0,6.8
+2023-09-24,Burundi,Ngozi,Salmonella,38,3.63
+2023-09-24,Burundi,Ngozi,Shigella,0,2.35
+2023-09-24,Burundi,Ngozi,Rotavirus,0,7.27
+2023-10-01,Burundi,Ngozi,Cholera,0,0.0
+2023-10-01,Burundi,Ngozi,E. coli,0,0.0
+2023-10-01,Burundi,Ngozi,Salmonella,0,0.0
+2023-10-01,Burundi,Ngozi,Shigella,0,0.0
+2023-10-01,Burundi,Ngozi,Rotavirus,0,3.19
+2023-10-08,Burundi,Ngozi,Cholera,0,0.0
+2023-10-08,Burundi,Ngozi,E. coli,0,1.8
+2023-10-08,Burundi,Ngozi,Salmonella,0,1.56
+2023-10-08,Burundi,Ngozi,Shigella,0,6.16
+2023-10-08,Burundi,Ngozi,Rotavirus,0,0.0
+2023-10-15,Burundi,Ngozi,Cholera,0,0.0
+2023-10-15,Burundi,Ngozi,E. coli,0,1.74
+2023-10-15,Burundi,Ngozi,Salmonella,0,3.59
+2023-10-15,Burundi,Ngozi,Shigella,0,5.55
+2023-10-15,Burundi,Ngozi,Rotavirus,0,0.0
+2023-10-22,Burundi,Ngozi,Cholera,0,3.33
+2023-10-22,Burundi,Ngozi,E. coli,0,1.47
+2023-10-22,Burundi,Ngozi,Salmonella,0,0.0
+2023-10-22,Burundi,Ngozi,Shigella,0,0.0
+2023-10-22,Burundi,Ngozi,Rotavirus,0,0.0
+2023-10-29,Burundi,Ngozi,Cholera,0,0.0
+2023-10-29,Burundi,Ngozi,E. coli,0,0.0
+2023-10-29,Burundi,Ngozi,Salmonella,0,3.41
+2023-10-29,Burundi,Ngozi,Shigella,0,5.49
+2023-10-29,Burundi,Ngozi,Rotavirus,0,11.28
+2023-11-05,Burundi,Ngozi,Cholera,0,0.0
+2023-11-05,Burundi,Ngozi,E. coli,0,1.31
+2023-11-05,Burundi,Ngozi,Salmonella,24,2.96
+2023-11-05,Burundi,Ngozi,Shigella,0,4.73
+2023-11-05,Burundi,Ngozi,Rotavirus,0,0.0
+2023-11-12,Burundi,Ngozi,Cholera,0,4.88
+2023-11-12,Burundi,Ngozi,E. coli,0,8.41
+2023-11-12,Burundi,Ngozi,Salmonella,0,0.0
+2023-11-12,Burundi,Ngozi,Shigella,0,0.0
+2023-11-12,Burundi,Ngozi,Rotavirus,0,0.0
+2023-11-19,Burundi,Ngozi,Cholera,0,7.97
+2023-11-19,Burundi,Ngozi,E. coli,0,0.0
+2023-11-19,Burundi,Ngozi,Salmonella,0,0.0
+2023-11-19,Burundi,Ngozi,Shigella,0,0.0
+2023-11-19,Burundi,Ngozi,Rotavirus,0,0.0
+2023-11-26,Burundi,Ngozi,Cholera,0,1.11
+2023-11-26,Burundi,Ngozi,E. coli,0,7.15
+2023-11-26,Burundi,Ngozi,Salmonella,0,0.0
+2023-11-26,Burundi,Ngozi,Shigella,0,2.77
+2023-11-26,Burundi,Ngozi,Rotavirus,40,4.93
+2023-12-03,Burundi,Ngozi,Cholera,0,0.5
+2023-12-03,Burundi,Ngozi,E. coli,0,0.58
+2023-12-03,Burundi,Ngozi,Salmonella,0,0.0
+2023-12-03,Burundi,Ngozi,Shigella,0,1.33
+2023-12-03,Burundi,Ngozi,Rotavirus,0,5.11
+2023-12-10,Burundi,Ngozi,Cholera,0,0.31
+2023-12-10,Burundi,Ngozi,E. coli,0,1.33
+2023-12-10,Burundi,Ngozi,Salmonella,0,2.52
+2023-12-10,Burundi,Ngozi,Shigella,0,5.87
+2023-12-10,Burundi,Ngozi,Rotavirus,30,8.57
+2023-12-17,Burundi,Ngozi,Cholera,0,0.0
+2023-12-17,Burundi,Ngozi,E. coli,2,0.0
+2023-12-17,Burundi,Ngozi,Salmonella,0,10.79
+2023-12-17,Burundi,Ngozi,Shigella,2,0.58
+2023-12-17,Burundi,Ngozi,Rotavirus,2,0.0
+2023-12-24,Burundi,Ngozi,Cholera,2,0.0
+2023-12-24,Burundi,Ngozi,E. coli,3,5.31
+2023-12-24,Burundi,Ngozi,Salmonella,5,2.16
+2023-12-24,Burundi,Ngozi,Shigella,41,9.57
+2023-12-24,Burundi,Ngozi,Rotavirus,2,2.42
+2023-01-01,Burundi,Gitega,Cholera,6,1.62
+2023-01-01,Burundi,Gitega,E. coli,6,11.7
+2023-01-01,Burundi,Gitega,Salmonella,5,0.0
+2023-01-01,Burundi,Gitega,Shigella,0,0.0
+2023-01-01,Burundi,Gitega,Rotavirus,4,0.08
+2023-01-08,Burundi,Gitega,Cholera,6,2.34
+2023-01-08,Burundi,Gitega,E. coli,56,11.73
+2023-01-08,Burundi,Gitega,Salmonella,9,4.7
+2023-01-08,Burundi,Gitega,Shigella,10,11.92
+2023-01-08,Burundi,Gitega,Rotavirus,8,2.76
+2023-01-15,Burundi,Gitega,Cholera,8,2.92
+2023-01-15,Burundi,Gitega,E. coli,27,6.61
+2023-01-15,Burundi,Gitega,Salmonella,8,5.45
+2023-01-15,Burundi,Gitega,Shigella,6,13.95
+2023-01-15,Burundi,Gitega,Rotavirus,7,0.0
+2023-01-22,Burundi,Gitega,Cholera,10,4.3
+2023-01-22,Burundi,Gitega,E. coli,55,6.92
+2023-01-22,Burundi,Gitega,Salmonella,8,0.0
+2023-01-22,Burundi,Gitega,Shigella,10,0.0
+2023-01-22,Burundi,Gitega,Rotavirus,7,6.78
+2023-01-29,Burundi,Gitega,Cholera,11,2.87
+2023-01-29,Burundi,Gitega,E. coli,14,8.11
+2023-01-29,Burundi,Gitega,Salmonella,12,11.71
+2023-01-29,Burundi,Gitega,Shigella,15,0.0
+2023-01-29,Burundi,Gitega,Rotavirus,8,0.0
+2023-02-05,Burundi,Gitega,Cholera,15,10.64
+2023-02-05,Burundi,Gitega,E. coli,13,3.79
+2023-02-05,Burundi,Gitega,Salmonella,13,13.43
+2023-02-05,Burundi,Gitega,Shigella,36,5.49
+2023-02-05,Burundi,Gitega,Rotavirus,12,3.31
+2023-02-12,Burundi,Gitega,Cholera,9,4.19
+2023-02-12,Burundi,Gitega,E. coli,22,0.94
+2023-02-12,Burundi,Gitega,Salmonella,24,2.42
+2023-02-12,Burundi,Gitega,Shigella,18,0.0
+2023-02-12,Burundi,Gitega,Rotavirus,12,4.97
+2023-02-19,Burundi,Gitega,Cholera,10,0.0
+2023-02-19,Burundi,Gitega,E. coli,21,5.74
+2023-02-19,Burundi,Gitega,Salmonella,65,23.71
+2023-02-19,Burundi,Gitega,Shigella,18,8.32
+2023-02-19,Burundi,Gitega,Rotavirus,27,11.11
+2023-02-26,Burundi,Gitega,Cholera,13,0.0
+2023-02-26,Burundi,Gitega,E. coli,15,3.76
+2023-02-26,Burundi,Gitega,Salmonella,18,3.41
+2023-02-26,Burundi,Gitega,Shigella,18,8.22
+2023-02-26,Burundi,Gitega,Rotavirus,18,2.34
+2023-03-05,Burundi,Gitega,Cholera,12,14.76
+2023-03-05,Burundi,Gitega,E. coli,23,7.04
+2023-03-05,Burundi,Gitega,Salmonella,15,8.31
+2023-03-05,Burundi,Gitega,Shigella,27,5.1
+2023-03-05,Burundi,Gitega,Rotavirus,18,2.25
+2023-03-12,Burundi,Gitega,Cholera,15,0.0
+2023-03-12,Burundi,Gitega,E. coli,14,6.08
+2023-03-12,Burundi,Gitega,Salmonella,22,7.64
+2023-03-12,Burundi,Gitega,Shigella,18,10.65
+2023-03-12,Burundi,Gitega,Rotavirus,27,3.71
+2023-03-19,Burundi,Gitega,Cholera,16,6.01
+2023-03-19,Burundi,Gitega,E. coli,20,9.28
+2023-03-19,Burundi,Gitega,Salmonella,15,0.0
+2023-03-19,Burundi,Gitega,Shigella,22,12.3
+2023-03-19,Burundi,Gitega,Rotavirus,19,6.33
+2023-03-26,Burundi,Gitega,Cholera,57,2.94
+2023-03-26,Burundi,Gitega,E. coli,19,2.19
+2023-03-26,Burundi,Gitega,Salmonella,18,3.06
+2023-03-26,Burundi,Gitega,Shigella,24,11.83
+2023-03-26,Burundi,Gitega,Rotavirus,17,6.13
+2023-04-02,Burundi,Gitega,Cholera,16,0.09
+2023-04-02,Burundi,Gitega,E. coli,13,0.0
+2023-04-02,Burundi,Gitega,Salmonella,18,7.32
+2023-04-02,Burundi,Gitega,Shigella,47,8.54
+2023-04-02,Burundi,Gitega,Rotavirus,23,13.44
+2023-04-09,Burundi,Gitega,Cholera,18,6.9
+2023-04-09,Burundi,Gitega,E. coli,21,9.48
+2023-04-09,Burundi,Gitega,Salmonella,49,17.6
+2023-04-09,Burundi,Gitega,Shigella,27,0.0
+2023-04-09,Burundi,Gitega,Rotavirus,18,0.0
+2023-04-16,Burundi,Gitega,Cholera,21,0.0
+2023-04-16,Burundi,Gitega,E. coli,50,11.01
+2023-04-16,Burundi,Gitega,Salmonella,16,0.0
+2023-04-16,Burundi,Gitega,Shigella,17,4.36
+2023-04-16,Burundi,Gitega,Rotavirus,19,1.04
+2023-04-23,Burundi,Gitega,Cholera,17,3.54
+2023-04-23,Burundi,Gitega,E. coli,19,7.2
+2023-04-23,Burundi,Gitega,Salmonella,19,0.0
+2023-04-23,Burundi,Gitega,Shigella,54,9.82
+2023-04-23,Burundi,Gitega,Rotavirus,11,2.81
+2023-04-30,Burundi,Gitega,Cholera,19,0.0
+2023-04-30,Burundi,Gitega,E. coli,23,13.14
+2023-04-30,Burundi,Gitega,Salmonella,20,8.58
+2023-04-30,Burundi,Gitega,Shigella,20,4.79
+2023-04-30,Burundi,Gitega,Rotavirus,21,4.54
+2023-05-07,Burundi,Gitega,Cholera,14,0.38
+2023-05-07,Burundi,Gitega,E. coli,16,0.0
+2023-05-07,Burundi,Gitega,Salmonella,15,6.41
+2023-05-07,Burundi,Gitega,Shigella,18,5.05
+2023-05-07,Burundi,Gitega,Rotavirus,16,10.06
+2023-05-14,Burundi,Gitega,Cholera,19,3.89
+2023-05-14,Burundi,Gitega,E. coli,17,5.84
+2023-05-14,Burundi,Gitega,Salmonella,19,15.72
+2023-05-14,Burundi,Gitega,Shigella,21,0.0
+2023-05-14,Burundi,Gitega,Rotavirus,14,0.0
+2023-05-21,Burundi,Gitega,Cholera,11,0.0
+2023-05-21,Burundi,Gitega,E. coli,17,0.52
+2023-05-21,Burundi,Gitega,Salmonella,18,0.99
+2023-05-21,Burundi,Gitega,Shigella,16,0.0
+2023-05-21,Burundi,Gitega,Rotavirus,5,0.0
+2023-05-28,Burundi,Gitega,Cholera,18,0.0
+2023-05-28,Burundi,Gitega,E. coli,13,1.48
+2023-05-28,Burundi,Gitega,Salmonella,22,1.26
+2023-05-28,Burundi,Gitega,Shigella,13,9.5
+2023-05-28,Burundi,Gitega,Rotavirus,16,6.0
+2023-06-04,Burundi,Gitega,Cholera,14,1.89
+2023-06-04,Burundi,Gitega,E. coli,10,10.39
+2023-06-04,Burundi,Gitega,Salmonella,19,5.6
+2023-06-04,Burundi,Gitega,Shigella,7,0.26
+2023-06-04,Burundi,Gitega,Rotavirus,16,0.0
+2023-06-11,Burundi,Gitega,Cholera,4,0.0
+2023-06-11,Burundi,Gitega,E. coli,5,11.27
+2023-06-11,Burundi,Gitega,Salmonella,12,4.7
+2023-06-11,Burundi,Gitega,Shigella,10,0.0
+2023-06-11,Burundi,Gitega,Rotavirus,16,0.0
+2023-06-18,Burundi,Gitega,Cholera,9,0.0
+2023-06-18,Burundi,Gitega,E. coli,12,2.27
+2023-06-18,Burundi,Gitega,Salmonella,11,2.27
+2023-06-18,Burundi,Gitega,Shigella,8,0.0
+2023-06-18,Burundi,Gitega,Rotavirus,11,3.95
+2023-06-25,Burundi,Gitega,Cholera,10,3.01
+2023-06-25,Burundi,Gitega,E. coli,7,3.31
+2023-06-25,Burundi,Gitega,Salmonella,11,7.24
+2023-06-25,Burundi,Gitega,Shigella,4,3.07
+2023-06-25,Burundi,Gitega,Rotavirus,7,0.0
+2023-07-02,Burundi,Gitega,Cholera,13,0.0
+2023-07-02,Burundi,Gitega,E. coli,9,0.0
+2023-07-02,Burundi,Gitega,Salmonella,10,0.0
+2023-07-02,Burundi,Gitega,Shigella,7,9.7
+2023-07-02,Burundi,Gitega,Rotavirus,2,3.4
+2023-07-09,Burundi,Gitega,Cholera,2,0.0
+2023-07-09,Burundi,Gitega,E. coli,2,8.76
+2023-07-09,Burundi,Gitega,Salmonella,2,2.89
+2023-07-09,Burundi,Gitega,Shigella,5,2.17
+2023-07-09,Burundi,Gitega,Rotavirus,3,0.0
+2023-07-16,Burundi,Gitega,Cholera,0,0.84
+2023-07-16,Burundi,Gitega,E. coli,1,3.87
+2023-07-16,Burundi,Gitega,Salmonella,2,7.78
+2023-07-16,Burundi,Gitega,Shigella,3,4.21
+2023-07-16,Burundi,Gitega,Rotavirus,2,0.0
+2023-07-23,Burundi,Gitega,Cholera,0,0.0
+2023-07-23,Burundi,Gitega,E. coli,0,1.81
+2023-07-23,Burundi,Gitega,Salmonella,0,0.0
+2023-07-23,Burundi,Gitega,Shigella,0,7.19
+2023-07-23,Burundi,Gitega,Rotavirus,0,1.67
+2023-07-30,Burundi,Gitega,Cholera,30,10.09
+2023-07-30,Burundi,Gitega,E. coli,0,3.95
+2023-07-30,Burundi,Gitega,Salmonella,0,4.17
+2023-07-30,Burundi,Gitega,Shigella,0,0.0
+2023-07-30,Burundi,Gitega,Rotavirus,0,0.0
+2023-08-06,Burundi,Gitega,Cholera,0,2.7
+2023-08-06,Burundi,Gitega,E. coli,0,0.38
+2023-08-06,Burundi,Gitega,Salmonella,0,5.79
+2023-08-06,Burundi,Gitega,Shigella,0,2.2
+2023-08-06,Burundi,Gitega,Rotavirus,0,0.0
+2023-08-13,Burundi,Gitega,Cholera,0,0.0
+2023-08-13,Burundi,Gitega,E. coli,0,0.0
+2023-08-13,Burundi,Gitega,Salmonella,0,0.0
+2023-08-13,Burundi,Gitega,Shigella,0,5.28
+2023-08-13,Burundi,Gitega,Rotavirus,0,3.84
+2023-08-20,Burundi,Gitega,Cholera,0,0.0
+2023-08-20,Burundi,Gitega,E. coli,0,0.0
+2023-08-20,Burundi,Gitega,Salmonella,0,3.59
+2023-08-20,Burundi,Gitega,Shigella,0,4.77
+2023-08-20,Burundi,Gitega,Rotavirus,0,1.39
+2023-08-27,Burundi,Gitega,Cholera,0,0.0
+2023-08-27,Burundi,Gitega,E. coli,0,7.78
+2023-08-27,Burundi,Gitega,Salmonella,0,3.15
+2023-08-27,Burundi,Gitega,Shigella,0,0.0
+2023-08-27,Burundi,Gitega,Rotavirus,0,16.5
+2023-09-03,Burundi,Gitega,Cholera,0,10.4
+2023-09-03,Burundi,Gitega,E. coli,0,4.24
+2023-09-03,Burundi,Gitega,Salmonella,0,1.16
+2023-09-03,Burundi,Gitega,Shigella,0,0.02
+2023-09-03,Burundi,Gitega,Rotavirus,0,0.0
+2023-09-10,Burundi,Gitega,Cholera,0,4.32
+2023-09-10,Burundi,Gitega,E. coli,0,0.0
+2023-09-10,Burundi,Gitega,Salmonella,0,0.0
+2023-09-10,Burundi,Gitega,Shigella,0,1.91
+2023-09-10,Burundi,Gitega,Rotavirus,0,0.0
+2023-09-17,Burundi,Gitega,Cholera,0,0.0
+2023-09-17,Burundi,Gitega,E. coli,0,4.97
+2023-09-17,Burundi,Gitega,Salmonella,0,3.29
+2023-09-17,Burundi,Gitega,Shigella,0,0.0
+2023-09-17,Burundi,Gitega,Rotavirus,0,9.71
+2023-09-24,Burundi,Gitega,Cholera,0,1.28
+2023-09-24,Burundi,Gitega,E. coli,0,0.0
+2023-09-24,Burundi,Gitega,Salmonella,0,0.0
+2023-09-24,Burundi,Gitega,Shigella,0,0.0
+2023-09-24,Burundi,Gitega,Rotavirus,0,3.34
+2023-10-01,Burundi,Gitega,Cholera,0,0.0
+2023-10-01,Burundi,Gitega,E. coli,0,0.12
+2023-10-01,Burundi,Gitega,Salmonella,0,0.0
+2023-10-01,Burundi,Gitega,Shigella,0,0.0
+2023-10-01,Burundi,Gitega,Rotavirus,0,0.0
+2023-10-08,Burundi,Gitega,Cholera,0,0.0
+2023-10-08,Burundi,Gitega,E. coli,0,4.5
+2023-10-08,Burundi,Gitega,Salmonella,0,2.65
+2023-10-08,Burundi,Gitega,Shigella,0,0.0
+2023-10-08,Burundi,Gitega,Rotavirus,0,0.0
+2023-10-15,Burundi,Gitega,Cholera,0,3.57
+2023-10-15,Burundi,Gitega,E. coli,0,2.95
+2023-10-15,Burundi,Gitega,Salmonella,0,6.55
+2023-10-15,Burundi,Gitega,Shigella,0,3.85
+2023-10-15,Burundi,Gitega,Rotavirus,0,0.0
+2023-10-22,Burundi,Gitega,Cholera,0,0.0
+2023-10-22,Burundi,Gitega,E. coli,21,11.04
+2023-10-22,Burundi,Gitega,Salmonella,0,0.0
+2023-10-22,Burundi,Gitega,Shigella,0,0.0
+2023-10-22,Burundi,Gitega,Rotavirus,37,10.89
+2023-10-29,Burundi,Gitega,Cholera,0,5.58
+2023-10-29,Burundi,Gitega,E. coli,0,0.0
+2023-10-29,Burundi,Gitega,Salmonella,0,0.0
+2023-10-29,Burundi,Gitega,Shigella,0,0.0
+2023-10-29,Burundi,Gitega,Rotavirus,0,0.0
+2023-11-05,Burundi,Gitega,Cholera,0,0.0
+2023-11-05,Burundi,Gitega,E. coli,0,3.5
+2023-11-05,Burundi,Gitega,Salmonella,0,0.0
+2023-11-05,Burundi,Gitega,Shigella,0,0.0
+2023-11-05,Burundi,Gitega,Rotavirus,0,0.0
+2023-11-12,Burundi,Gitega,Cholera,0,0.45
+2023-11-12,Burundi,Gitega,E. coli,0,8.41
+2023-11-12,Burundi,Gitega,Salmonella,0,0.0
+2023-11-12,Burundi,Gitega,Shigella,0,9.5
+2023-11-12,Burundi,Gitega,Rotavirus,0,1.7
+2023-11-19,Burundi,Gitega,Cholera,0,0.0
+2023-11-19,Burundi,Gitega,E. coli,0,0.0
+2023-11-19,Burundi,Gitega,Salmonella,0,0.0
+2023-11-19,Burundi,Gitega,Shigella,48,0.68
+2023-11-19,Burundi,Gitega,Rotavirus,0,6.72
+2023-11-26,Burundi,Gitega,Cholera,0,0.0
+2023-11-26,Burundi,Gitega,E. coli,0,4.83
+2023-11-26,Burundi,Gitega,Salmonella,0,0.0
+2023-11-26,Burundi,Gitega,Shigella,0,0.0
+2023-11-26,Burundi,Gitega,Rotavirus,34,14.12
+2023-12-03,Burundi,Gitega,Cholera,34,5.96
+2023-12-03,Burundi,Gitega,E. coli,0,0.0
+2023-12-03,Burundi,Gitega,Salmonella,0,0.0
+2023-12-03,Burundi,Gitega,Shigella,0,0.34
+2023-12-03,Burundi,Gitega,Rotavirus,0,0.0
+2023-12-10,Burundi,Gitega,Cholera,0,4.66
+2023-12-10,Burundi,Gitega,E. coli,0,0.01
+2023-12-10,Burundi,Gitega,Salmonella,0,5.39
+2023-12-10,Burundi,Gitega,Shigella,21,11.62
+2023-12-10,Burundi,Gitega,Rotavirus,0,0.0
+2023-12-17,Burundi,Gitega,Cholera,2,0.0
+2023-12-17,Burundi,Gitega,E. coli,3,10.95
+2023-12-17,Burundi,Gitega,Salmonella,1,0.51
+2023-12-17,Burundi,Gitega,Shigella,1,10.25
+2023-12-17,Burundi,Gitega,Rotavirus,0,0.42
+2023-12-24,Burundi,Gitega,Cholera,7,0.0
+2023-12-24,Burundi,Gitega,E. coli,6,0.0
+2023-12-24,Burundi,Gitega,Salmonella,6,0.0
+2023-12-24,Burundi,Gitega,Shigella,8,0.41
+2023-12-24,Burundi,Gitega,Rotavirus,4,0.0
+2023-01-01,DRC,Kinshasa,Cholera,7,4.73
+2023-01-01,DRC,Kinshasa,E. coli,6,4.57
+2023-01-01,DRC,Kinshasa,Salmonella,4,0.0
+2023-01-01,DRC,Kinshasa,Shigella,6,0.0
+2023-01-01,DRC,Kinshasa,Rotavirus,6,1.3
+2023-01-08,DRC,Kinshasa,Cholera,2,0.0
+2023-01-08,DRC,Kinshasa,E. coli,5,0.0
+2023-01-08,DRC,Kinshasa,Salmonella,6,0.0
+2023-01-08,DRC,Kinshasa,Shigella,11,8.81
+2023-01-08,DRC,Kinshasa,Rotavirus,6,0.96
+2023-01-15,DRC,Kinshasa,Cholera,8,0.0
+2023-01-15,DRC,Kinshasa,E. coli,8,0.0
+2023-01-15,DRC,Kinshasa,Salmonella,8,0.0
+2023-01-15,DRC,Kinshasa,Shigella,10,3.8
+2023-01-15,DRC,Kinshasa,Rotavirus,11,5.37
+2023-01-22,DRC,Kinshasa,Cholera,11,4.24
+2023-01-22,DRC,Kinshasa,E. coli,9,5.97
+2023-01-22,DRC,Kinshasa,Salmonella,8,2.73
+2023-01-22,DRC,Kinshasa,Shigella,7,0.0
+2023-01-22,DRC,Kinshasa,Rotavirus,11,14.1
+2023-01-29,DRC,Kinshasa,Cholera,14,0.0
+2023-01-29,DRC,Kinshasa,E. coli,10,0.0
+2023-01-29,DRC,Kinshasa,Salmonella,57,6.64
+2023-01-29,DRC,Kinshasa,Shigella,16,7.85
+2023-01-29,DRC,Kinshasa,Rotavirus,12,6.32
+2023-02-05,DRC,Kinshasa,Cholera,14,7.1
+2023-02-05,DRC,Kinshasa,E. coli,22,2.09
+2023-02-05,DRC,Kinshasa,Salmonella,13,1.2
+2023-02-05,DRC,Kinshasa,Shigella,14,0.0
+2023-02-05,DRC,Kinshasa,Rotavirus,14,7.32
+2023-02-12,DRC,Kinshasa,Cholera,19,1.25
+2023-02-12,DRC,Kinshasa,E. coli,15,0.0
+2023-02-12,DRC,Kinshasa,Salmonella,27,6.93
+2023-02-12,DRC,Kinshasa,Shigella,21,0.0
+2023-02-12,DRC,Kinshasa,Rotavirus,11,12.99
+2023-02-19,DRC,Kinshasa,Cholera,17,2.8
+2023-02-19,DRC,Kinshasa,E. coli,18,0.0
+2023-02-19,DRC,Kinshasa,Salmonella,18,0.0
+2023-02-19,DRC,Kinshasa,Shigella,16,7.51
+2023-02-19,DRC,Kinshasa,Rotavirus,25,1.71
+2023-02-26,DRC,Kinshasa,Cholera,20,3.35
+2023-02-26,DRC,Kinshasa,E. coli,13,6.56
+2023-02-26,DRC,Kinshasa,Salmonella,13,3.26
+2023-02-26,DRC,Kinshasa,Shigella,19,1.1
+2023-02-26,DRC,Kinshasa,Rotavirus,14,0.0
+2023-03-05,DRC,Kinshasa,Cholera,27,5.37
+2023-03-05,DRC,Kinshasa,E. coli,19,0.0
+2023-03-05,DRC,Kinshasa,Salmonella,18,11.74
+2023-03-05,DRC,Kinshasa,Shigella,9,5.29
+2023-03-05,DRC,Kinshasa,Rotavirus,12,6.15
+2023-03-12,DRC,Kinshasa,Cholera,26,6.27
+2023-03-12,DRC,Kinshasa,E. coli,16,0.0
+2023-03-12,DRC,Kinshasa,Salmonella,18,12.44
+2023-03-12,DRC,Kinshasa,Shigella,12,9.17
+2023-03-12,DRC,Kinshasa,Rotavirus,13,0.0
+2023-03-19,DRC,Kinshasa,Cholera,22,0.39
+2023-03-19,DRC,Kinshasa,E. coli,27,7.47
+2023-03-19,DRC,Kinshasa,Salmonella,16,5.85
+2023-03-19,DRC,Kinshasa,Shigella,21,5.3
+2023-03-19,DRC,Kinshasa,Rotavirus,18,2.33
+2023-03-26,DRC,Kinshasa,Cholera,11,7.26
+2023-03-26,DRC,Kinshasa,E. coli,13,7.08
+2023-03-26,DRC,Kinshasa,Salmonella,13,6.98
+2023-03-26,DRC,Kinshasa,Shigella,24,7.91
+2023-03-26,DRC,Kinshasa,Rotavirus,23,2.88
+2023-04-02,DRC,Kinshasa,Cholera,16,0.0
+2023-04-02,DRC,Kinshasa,E. coli,20,6.28
+2023-04-02,DRC,Kinshasa,Salmonella,18,0.0
+2023-04-02,DRC,Kinshasa,Shigella,22,0.0
+2023-04-02,DRC,Kinshasa,Rotavirus,20,5.9
+2023-04-09,DRC,Kinshasa,Cholera,13,9.71
+2023-04-09,DRC,Kinshasa,E. coli,23,0.01
+2023-04-09,DRC,Kinshasa,Salmonella,16,4.56
+2023-04-09,DRC,Kinshasa,Shigella,52,23.2
+2023-04-09,DRC,Kinshasa,Rotavirus,28,8.36
+2023-04-16,DRC,Kinshasa,Cholera,20,7.63
+2023-04-16,DRC,Kinshasa,E. coli,11,5.64
+2023-04-16,DRC,Kinshasa,Salmonella,19,5.5
+2023-04-16,DRC,Kinshasa,Shigella,22,0.0
+2023-04-16,DRC,Kinshasa,Rotavirus,19,8.04
+2023-04-23,DRC,Kinshasa,Cholera,21,0.71
+2023-04-23,DRC,Kinshasa,E. coli,24,4.39
+2023-04-23,DRC,Kinshasa,Salmonella,13,4.27
+2023-04-23,DRC,Kinshasa,Shigella,13,0.7
+2023-04-23,DRC,Kinshasa,Rotavirus,18,11.14
+2023-04-30,DRC,Kinshasa,Cholera,14,5.36
+2023-04-30,DRC,Kinshasa,E. coli,24,0.0
+2023-04-30,DRC,Kinshasa,Salmonella,16,10.32
+2023-04-30,DRC,Kinshasa,Shigella,25,0.0
+2023-04-30,DRC,Kinshasa,Rotavirus,60,9.02
+2023-05-07,DRC,Kinshasa,Cholera,44,6.14
+2023-05-07,DRC,Kinshasa,E. coli,27,5.59
+2023-05-07,DRC,Kinshasa,Salmonella,10,1.41
+2023-05-07,DRC,Kinshasa,Shigella,19,1.56
+2023-05-07,DRC,Kinshasa,Rotavirus,16,0.0
+2023-05-14,DRC,Kinshasa,Cholera,10,2.65
+2023-05-14,DRC,Kinshasa,E. coli,20,6.79
+2023-05-14,DRC,Kinshasa,Salmonella,19,0.0
+2023-05-14,DRC,Kinshasa,Shigella,15,5.72
+2023-05-14,DRC,Kinshasa,Rotavirus,22,6.21
+2023-05-21,DRC,Kinshasa,Cholera,13,1.16
+2023-05-21,DRC,Kinshasa,E. coli,13,1.97
+2023-05-21,DRC,Kinshasa,Salmonella,16,2.42
+2023-05-21,DRC,Kinshasa,Shigella,10,6.58
+2023-05-21,DRC,Kinshasa,Rotavirus,17,6.79
+2023-05-28,DRC,Kinshasa,Cholera,17,8.94
+2023-05-28,DRC,Kinshasa,E. coli,10,0.85
+2023-05-28,DRC,Kinshasa,Salmonella,12,4.53
+2023-05-28,DRC,Kinshasa,Shigella,19,0.43
+2023-05-28,DRC,Kinshasa,Rotavirus,8,0.0
+2023-06-04,DRC,Kinshasa,Cholera,10,4.17
+2023-06-04,DRC,Kinshasa,E. coli,13,0.0
+2023-06-04,DRC,Kinshasa,Salmonella,14,6.43
+2023-06-04,DRC,Kinshasa,Shigella,14,0.0
+2023-06-04,DRC,Kinshasa,Rotavirus,10,10.86
+2023-06-11,DRC,Kinshasa,Cholera,8,5.05
+2023-06-11,DRC,Kinshasa,E. coli,9,0.48
+2023-06-11,DRC,Kinshasa,Salmonella,10,3.42
+2023-06-11,DRC,Kinshasa,Shigella,13,10.24
+2023-06-11,DRC,Kinshasa,Rotavirus,8,4.45
+2023-06-18,DRC,Kinshasa,Cholera,6,6.05
+2023-06-18,DRC,Kinshasa,E. coli,5,0.0
+2023-06-18,DRC,Kinshasa,Salmonella,7,8.63
+2023-06-18,DRC,Kinshasa,Shigella,10,3.22
+2023-06-18,DRC,Kinshasa,Rotavirus,7,0.0
+2023-06-25,DRC,Kinshasa,Cholera,7,0.0
+2023-06-25,DRC,Kinshasa,E. coli,8,0.0
+2023-06-25,DRC,Kinshasa,Salmonella,6,0.38
+2023-06-25,DRC,Kinshasa,Shigella,6,1.23
+2023-06-25,DRC,Kinshasa,Rotavirus,9,9.44
+2023-07-02,DRC,Kinshasa,Cholera,11,2.26
+2023-07-02,DRC,Kinshasa,E. coli,2,0.0
+2023-07-02,DRC,Kinshasa,Salmonella,3,0.0
+2023-07-02,DRC,Kinshasa,Shigella,11,0.0
+2023-07-02,DRC,Kinshasa,Rotavirus,5,0.0
+2023-07-09,DRC,Kinshasa,Cholera,3,3.18
+2023-07-09,DRC,Kinshasa,E. coli,3,1.91
+2023-07-09,DRC,Kinshasa,Salmonella,1,0.39
+2023-07-09,DRC,Kinshasa,Shigella,10,0.0
+2023-07-09,DRC,Kinshasa,Rotavirus,3,1.3
+2023-07-16,DRC,Kinshasa,Cholera,1,6.81
+2023-07-16,DRC,Kinshasa,E. coli,2,0.0
+2023-07-16,DRC,Kinshasa,Salmonella,1,0.0
+2023-07-16,DRC,Kinshasa,Shigella,1,0.0
+2023-07-16,DRC,Kinshasa,Rotavirus,0,0.0
+2023-07-23,DRC,Kinshasa,Cholera,0,0.91
+2023-07-23,DRC,Kinshasa,E. coli,0,3.4
+2023-07-23,DRC,Kinshasa,Salmonella,0,0.0
+2023-07-23,DRC,Kinshasa,Shigella,0,1.24
+2023-07-23,DRC,Kinshasa,Rotavirus,0,0.0
+2023-07-30,DRC,Kinshasa,Cholera,0,5.86
+2023-07-30,DRC,Kinshasa,E. coli,0,0.0
+2023-07-30,DRC,Kinshasa,Salmonella,0,0.0
+2023-07-30,DRC,Kinshasa,Shigella,0,0.0
+2023-07-30,DRC,Kinshasa,Rotavirus,0,0.0
+2023-08-06,DRC,Kinshasa,Cholera,0,0.0
+2023-08-06,DRC,Kinshasa,E. coli,0,0.0
+2023-08-06,DRC,Kinshasa,Salmonella,0,2.25
+2023-08-06,DRC,Kinshasa,Shigella,0,1.66
+2023-08-06,DRC,Kinshasa,Rotavirus,0,2.53
+2023-08-13,DRC,Kinshasa,Cholera,0,0.0
+2023-08-13,DRC,Kinshasa,E. coli,0,0.0
+2023-08-13,DRC,Kinshasa,Salmonella,0,11.04
+2023-08-13,DRC,Kinshasa,Shigella,0,0.63
+2023-08-13,DRC,Kinshasa,Rotavirus,0,0.0
+2023-08-20,DRC,Kinshasa,Cholera,0,7.38
+2023-08-20,DRC,Kinshasa,E. coli,0,6.49
+2023-08-20,DRC,Kinshasa,Salmonella,0,3.07
+2023-08-20,DRC,Kinshasa,Shigella,0,0.0
+2023-08-20,DRC,Kinshasa,Rotavirus,0,0.0
+2023-08-27,DRC,Kinshasa,Cholera,0,0.0
+2023-08-27,DRC,Kinshasa,E. coli,0,5.68
+2023-08-27,DRC,Kinshasa,Salmonella,0,0.0
+2023-08-27,DRC,Kinshasa,Shigella,0,0.0
+2023-08-27,DRC,Kinshasa,Rotavirus,0,2.98
+2023-09-03,DRC,Kinshasa,Cholera,0,0.0
+2023-09-03,DRC,Kinshasa,E. coli,0,0.0
+2023-09-03,DRC,Kinshasa,Salmonella,0,0.0
+2023-09-03,DRC,Kinshasa,Shigella,0,0.0
+2023-09-03,DRC,Kinshasa,Rotavirus,0,0.0
+2023-09-10,DRC,Kinshasa,Cholera,0,5.14
+2023-09-10,DRC,Kinshasa,E. coli,0,0.0
+2023-09-10,DRC,Kinshasa,Salmonella,21,13.21
+2023-09-10,DRC,Kinshasa,Shigella,0,2.08
+2023-09-10,DRC,Kinshasa,Rotavirus,0,0.0
+2023-09-17,DRC,Kinshasa,Cholera,0,0.65
+2023-09-17,DRC,Kinshasa,E. coli,0,4.1
+2023-09-17,DRC,Kinshasa,Salmonella,0,0.0
+2023-09-17,DRC,Kinshasa,Shigella,0,0.59
+2023-09-17,DRC,Kinshasa,Rotavirus,0,4.27
+2023-09-24,DRC,Kinshasa,Cholera,30,1.81
+2023-09-24,DRC,Kinshasa,E. coli,0,1.57
+2023-09-24,DRC,Kinshasa,Salmonella,0,1.67
+2023-09-24,DRC,Kinshasa,Shigella,0,2.55
+2023-09-24,DRC,Kinshasa,Rotavirus,0,0.0
+2023-10-01,DRC,Kinshasa,Cholera,0,0.12
+2023-10-01,DRC,Kinshasa,E. coli,0,0.0
+2023-10-01,DRC,Kinshasa,Salmonella,0,2.5
+2023-10-01,DRC,Kinshasa,Shigella,0,0.0
+2023-10-01,DRC,Kinshasa,Rotavirus,0,0.0
+2023-10-08,DRC,Kinshasa,Cholera,0,0.0
+2023-10-08,DRC,Kinshasa,E. coli,0,1.72
+2023-10-08,DRC,Kinshasa,Salmonella,0,2.96
+2023-10-08,DRC,Kinshasa,Shigella,0,0.0
+2023-10-08,DRC,Kinshasa,Rotavirus,0,0.0
+2023-10-15,DRC,Kinshasa,Cholera,0,0.0
+2023-10-15,DRC,Kinshasa,E. coli,0,3.33
+2023-10-15,DRC,Kinshasa,Salmonella,0,4.11
+2023-10-15,DRC,Kinshasa,Shigella,0,0.0
+2023-10-15,DRC,Kinshasa,Rotavirus,0,0.0
+2023-10-22,DRC,Kinshasa,Cholera,0,0.0
+2023-10-22,DRC,Kinshasa,E. coli,0,5.64
+2023-10-22,DRC,Kinshasa,Salmonella,0,4.05
+2023-10-22,DRC,Kinshasa,Shigella,0,0.29
+2023-10-22,DRC,Kinshasa,Rotavirus,0,6.95
+2023-10-29,DRC,Kinshasa,Cholera,0,0.0
+2023-10-29,DRC,Kinshasa,E. coli,0,0.0
+2023-10-29,DRC,Kinshasa,Salmonella,0,3.7
+2023-10-29,DRC,Kinshasa,Shigella,0,0.0
+2023-10-29,DRC,Kinshasa,Rotavirus,0,10.18
+2023-11-05,DRC,Kinshasa,Cholera,22,6.56
+2023-11-05,DRC,Kinshasa,E. coli,0,2.45
+2023-11-05,DRC,Kinshasa,Salmonella,0,0.0
+2023-11-05,DRC,Kinshasa,Shigella,0,0.0
+2023-11-05,DRC,Kinshasa,Rotavirus,0,4.23
+2023-11-12,DRC,Kinshasa,Cholera,0,4.22
+2023-11-12,DRC,Kinshasa,E. coli,0,0.0
+2023-11-12,DRC,Kinshasa,Salmonella,0,0.06
+2023-11-12,DRC,Kinshasa,Shigella,0,1.6
+2023-11-12,DRC,Kinshasa,Rotavirus,0,0.97
+2023-11-19,DRC,Kinshasa,Cholera,0,3.16
+2023-11-19,DRC,Kinshasa,E. coli,0,0.0
+2023-11-19,DRC,Kinshasa,Salmonella,0,5.06
+2023-11-19,DRC,Kinshasa,Shigella,0,4.6
+2023-11-19,DRC,Kinshasa,Rotavirus,0,0.0
+2023-11-26,DRC,Kinshasa,Cholera,0,0.37
+2023-11-26,DRC,Kinshasa,E. coli,0,6.04
+2023-11-26,DRC,Kinshasa,Salmonella,0,0.74
+2023-11-26,DRC,Kinshasa,Shigella,0,0.42
+2023-11-26,DRC,Kinshasa,Rotavirus,0,0.0
+2023-12-03,DRC,Kinshasa,Cholera,0,2.36
+2023-12-03,DRC,Kinshasa,E. coli,0,0.0
+2023-12-03,DRC,Kinshasa,Salmonella,0,5.23
+2023-12-03,DRC,Kinshasa,Shigella,0,0.0
+2023-12-03,DRC,Kinshasa,Rotavirus,0,1.61
+2023-12-10,DRC,Kinshasa,Cholera,0,0.0
+2023-12-10,DRC,Kinshasa,E. coli,0,0.0
+2023-12-10,DRC,Kinshasa,Salmonella,0,7.0
+2023-12-10,DRC,Kinshasa,Shigella,0,4.7
+2023-12-10,DRC,Kinshasa,Rotavirus,0,0.0
+2023-12-17,DRC,Kinshasa,Cholera,0,3.22
+2023-12-17,DRC,Kinshasa,E. coli,2,0.0
+2023-12-17,DRC,Kinshasa,Salmonella,0,9.51
+2023-12-17,DRC,Kinshasa,Shigella,2,0.0
+2023-12-17,DRC,Kinshasa,Rotavirus,1,0.0
+2023-12-24,DRC,Kinshasa,Cholera,3,0.0
+2023-12-24,DRC,Kinshasa,E. coli,5,0.0
+2023-12-24,DRC,Kinshasa,Salmonella,2,0.0
+2023-12-24,DRC,Kinshasa,Shigella,5,0.15
+2023-12-24,DRC,Kinshasa,Rotavirus,6,8.79
+2023-01-01,DRC,Goma,Cholera,43,10.41
+2023-01-01,DRC,Goma,E. coli,4,0.0
+2023-01-01,DRC,Goma,Salmonella,6,2.75
+2023-01-01,DRC,Goma,Shigella,9,7.41
+2023-01-01,DRC,Goma,Rotavirus,4,0.65
+2023-01-08,DRC,Goma,Cholera,13,3.72
+2023-01-08,DRC,Goma,E. coli,8,0.55
+2023-01-08,DRC,Goma,Salmonella,4,0.0
+2023-01-08,DRC,Goma,Shigella,13,3.43
+2023-01-08,DRC,Goma,Rotavirus,9,6.78
+2023-01-15,DRC,Goma,Cholera,7,0.0
+2023-01-15,DRC,Goma,E. coli,4,3.74
+2023-01-15,DRC,Goma,Salmonella,7,10.15
+2023-01-15,DRC,Goma,Shigella,10,0.0
+2023-01-15,DRC,Goma,Rotavirus,9,4.44
+2023-01-22,DRC,Goma,Cholera,10,5.02
+2023-01-22,DRC,Goma,E. coli,12,7.92
+2023-01-22,DRC,Goma,Salmonella,10,0.0
+2023-01-22,DRC,Goma,Shigella,3,0.39
+2023-01-22,DRC,Goma,Rotavirus,10,10.58
+2023-01-29,DRC,Goma,Cholera,17,0.21
+2023-01-29,DRC,Goma,E. coli,11,3.61
+2023-01-29,DRC,Goma,Salmonella,14,4.36
+2023-01-29,DRC,Goma,Shigella,11,5.43
+2023-01-29,DRC,Goma,Rotavirus,16,0.0
+2023-02-05,DRC,Goma,Cholera,12,5.08
+2023-02-05,DRC,Goma,E. coli,10,0.0
+2023-02-05,DRC,Goma,Salmonella,16,3.25
+2023-02-05,DRC,Goma,Shigella,16,4.26
+2023-02-05,DRC,Goma,Rotavirus,8,2.8
+2023-02-12,DRC,Goma,Cholera,10,1.28
+2023-02-12,DRC,Goma,E. coli,21,4.04
+2023-02-12,DRC,Goma,Salmonella,7,7.58
+2023-02-12,DRC,Goma,Shigella,14,0.49
+2023-02-12,DRC,Goma,Rotavirus,14,6.9
+2023-02-19,DRC,Goma,Cholera,15,7.73
+2023-02-19,DRC,Goma,E. coli,13,0.0
+2023-02-19,DRC,Goma,Salmonella,14,1.75
+2023-02-19,DRC,Goma,Shigella,18,4.07
+2023-02-19,DRC,Goma,Rotavirus,23,8.3
+2023-02-26,DRC,Goma,Cholera,16,0.0
+2023-02-26,DRC,Goma,E. coli,13,8.71
+2023-02-26,DRC,Goma,Salmonella,12,0.0
+2023-02-26,DRC,Goma,Shigella,49,5.57
+2023-02-26,DRC,Goma,Rotavirus,34,2.31
+2023-03-05,DRC,Goma,Cholera,14,7.07
+2023-03-05,DRC,Goma,E. coli,20,4.32
+2023-03-05,DRC,Goma,Salmonella,18,4.56
+2023-03-05,DRC,Goma,Shigella,16,0.0
+2023-03-05,DRC,Goma,Rotavirus,28,4.1
+2023-03-12,DRC,Goma,Cholera,54,6.76
+2023-03-12,DRC,Goma,E. coli,25,6.39
+2023-03-12,DRC,Goma,Salmonella,13,6.84
+2023-03-12,DRC,Goma,Shigella,20,0.0
+2023-03-12,DRC,Goma,Rotavirus,27,2.78
+2023-03-19,DRC,Goma,Cholera,17,0.0
+2023-03-19,DRC,Goma,E. coli,20,0.0
+2023-03-19,DRC,Goma,Salmonella,19,0.0
+2023-03-19,DRC,Goma,Shigella,20,7.49
+2023-03-19,DRC,Goma,Rotavirus,17,4.18
+2023-03-26,DRC,Goma,Cholera,18,0.0
+2023-03-26,DRC,Goma,E. coli,23,8.44
+2023-03-26,DRC,Goma,Salmonella,14,3.02
+2023-03-26,DRC,Goma,Shigella,23,8.67
+2023-03-26,DRC,Goma,Rotavirus,31,4.58
+2023-04-02,DRC,Goma,Cholera,16,1.88
+2023-04-02,DRC,Goma,E. coli,21,0.96
+2023-04-02,DRC,Goma,Salmonella,24,3.92
+2023-04-02,DRC,Goma,Shigella,16,5.17
+2023-04-02,DRC,Goma,Rotavirus,21,0.0
+2023-04-09,DRC,Goma,Cholera,27,0.0
+2023-04-09,DRC,Goma,E. coli,51,11.75
+2023-04-09,DRC,Goma,Salmonella,25,0.14
+2023-04-09,DRC,Goma,Shigella,31,4.5
+2023-04-09,DRC,Goma,Rotavirus,23,7.73
+2023-04-16,DRC,Goma,Cholera,23,7.98
+2023-04-16,DRC,Goma,E. coli,19,0.0
+2023-04-16,DRC,Goma,Salmonella,26,0.0
+2023-04-16,DRC,Goma,Shigella,15,3.57
+2023-04-16,DRC,Goma,Rotavirus,23,7.25
+2023-04-23,DRC,Goma,Cholera,71,8.53
+2023-04-23,DRC,Goma,E. coli,21,4.6
+2023-04-23,DRC,Goma,Salmonella,20,2.0
+2023-04-23,DRC,Goma,Shigella,14,0.0
+2023-04-23,DRC,Goma,Rotavirus,8,0.19
+2023-04-30,DRC,Goma,Cholera,25,3.7
+2023-04-30,DRC,Goma,E. coli,22,5.72
+2023-04-30,DRC,Goma,Salmonella,8,1.59
+2023-04-30,DRC,Goma,Shigella,18,3.06
+2023-04-30,DRC,Goma,Rotavirus,19,1.13
+2023-05-07,DRC,Goma,Cholera,21,6.08
+2023-05-07,DRC,Goma,E. coli,27,8.43
+2023-05-07,DRC,Goma,Salmonella,18,7.55
+2023-05-07,DRC,Goma,Shigella,20,8.7
+2023-05-07,DRC,Goma,Rotavirus,18,0.29
+2023-05-14,DRC,Goma,Cholera,15,0.0
+2023-05-14,DRC,Goma,E. coli,25,3.98
+2023-05-14,DRC,Goma,Salmonella,10,0.0
+2023-05-14,DRC,Goma,Shigella,46,4.35
+2023-05-14,DRC,Goma,Rotavirus,15,1.41
+2023-05-21,DRC,Goma,Cholera,53,4.96
+2023-05-21,DRC,Goma,E. coli,62,15.22
+2023-05-21,DRC,Goma,Salmonella,21,0.45
+2023-05-21,DRC,Goma,Shigella,21,7.89
+2023-05-21,DRC,Goma,Rotavirus,12,1.32
+2023-05-28,DRC,Goma,Cholera,11,0.0
+2023-05-28,DRC,Goma,E. coli,17,2.81
+2023-05-28,DRC,Goma,Salmonella,10,0.0
+2023-05-28,DRC,Goma,Shigella,10,3.41
+2023-05-28,DRC,Goma,Rotavirus,18,10.48
+2023-06-04,DRC,Goma,Cholera,14,3.12
+2023-06-04,DRC,Goma,E. coli,16,3.61
+2023-06-04,DRC,Goma,Salmonella,6,0.0
+2023-06-04,DRC,Goma,Shigella,14,4.66
+2023-06-04,DRC,Goma,Rotavirus,12,7.93
+2023-06-11,DRC,Goma,Cholera,8,1.99
+2023-06-11,DRC,Goma,E. coli,5,17.08
+2023-06-11,DRC,Goma,Salmonella,6,0.0
+2023-06-11,DRC,Goma,Shigella,14,3.58
+2023-06-11,DRC,Goma,Rotavirus,17,3.34
+2023-06-18,DRC,Goma,Cholera,9,5.08
+2023-06-18,DRC,Goma,E. coli,11,0.0
+2023-06-18,DRC,Goma,Salmonella,12,9.38
+2023-06-18,DRC,Goma,Shigella,10,3.02
+2023-06-18,DRC,Goma,Rotavirus,12,4.97
+2023-06-25,DRC,Goma,Cholera,7,0.4
+2023-06-25,DRC,Goma,E. coli,2,0.0
+2023-06-25,DRC,Goma,Salmonella,4,0.45
+2023-06-25,DRC,Goma,Shigella,6,0.0
+2023-06-25,DRC,Goma,Rotavirus,3,0.0
+2023-07-02,DRC,Goma,Cholera,2,8.87
+2023-07-02,DRC,Goma,E. coli,4,0.0
+2023-07-02,DRC,Goma,Salmonella,9,0.15
+2023-07-02,DRC,Goma,Shigella,5,3.01
+2023-07-02,DRC,Goma,Rotavirus,2,2.55
+2023-07-09,DRC,Goma,Cholera,3,0.0
+2023-07-09,DRC,Goma,E. coli,5,0.0
+2023-07-09,DRC,Goma,Salmonella,5,2.22
+2023-07-09,DRC,Goma,Shigella,4,3.93
+2023-07-09,DRC,Goma,Rotavirus,3,1.09
+2023-07-16,DRC,Goma,Cholera,0,6.99
+2023-07-16,DRC,Goma,E. coli,1,0.0
+2023-07-16,DRC,Goma,Salmonella,1,8.48
+2023-07-16,DRC,Goma,Shigella,3,2.96
+2023-07-16,DRC,Goma,Rotavirus,47,5.71
+2023-07-23,DRC,Goma,Cholera,0,0.0
+2023-07-23,DRC,Goma,E. coli,0,9.79
+2023-07-23,DRC,Goma,Salmonella,35,6.15
+2023-07-23,DRC,Goma,Shigella,0,0.0
+2023-07-23,DRC,Goma,Rotavirus,0,6.64
+2023-07-30,DRC,Goma,Cholera,0,0.0
+2023-07-30,DRC,Goma,E. coli,0,6.64
+2023-07-30,DRC,Goma,Salmonella,0,0.0
+2023-07-30,DRC,Goma,Shigella,0,7.22
+2023-07-30,DRC,Goma,Rotavirus,0,6.37
+2023-08-06,DRC,Goma,Cholera,0,0.0
+2023-08-06,DRC,Goma,E. coli,0,0.0
+2023-08-06,DRC,Goma,Salmonella,0,2.54
+2023-08-06,DRC,Goma,Shigella,0,0.0
+2023-08-06,DRC,Goma,Rotavirus,0,0.0
+2023-08-13,DRC,Goma,Cholera,0,0.0
+2023-08-13,DRC,Goma,E. coli,0,0.0
+2023-08-13,DRC,Goma,Salmonella,0,0.0
+2023-08-13,DRC,Goma,Shigella,0,0.0
+2023-08-13,DRC,Goma,Rotavirus,0,2.48
+2023-08-20,DRC,Goma,Cholera,0,4.55
+2023-08-20,DRC,Goma,E. coli,0,0.0
+2023-08-20,DRC,Goma,Salmonella,0,0.0
+2023-08-20,DRC,Goma,Shigella,0,0.0
+2023-08-20,DRC,Goma,Rotavirus,46,11.86
+2023-08-27,DRC,Goma,Cholera,0,3.03
+2023-08-27,DRC,Goma,E. coli,0,0.0
+2023-08-27,DRC,Goma,Salmonella,0,5.61
+2023-08-27,DRC,Goma,Shigella,37,0.0
+2023-08-27,DRC,Goma,Rotavirus,0,5.83
+2023-09-03,DRC,Goma,Cholera,0,1.79
+2023-09-03,DRC,Goma,E. coli,0,0.0
+2023-09-03,DRC,Goma,Salmonella,0,1.29
+2023-09-03,DRC,Goma,Shigella,47,10.37
+2023-09-03,DRC,Goma,Rotavirus,0,0.0
+2023-09-10,DRC,Goma,Cholera,0,0.0
+2023-09-10,DRC,Goma,E. coli,0,0.0
+2023-09-10,DRC,Goma,Salmonella,0,0.0
+2023-09-10,DRC,Goma,Shigella,0,10.5
+2023-09-10,DRC,Goma,Rotavirus,0,0.0
+2023-09-17,DRC,Goma,Cholera,0,0.0
+2023-09-17,DRC,Goma,E. coli,0,5.54
+2023-09-17,DRC,Goma,Salmonella,0,5.04
+2023-09-17,DRC,Goma,Shigella,0,3.21
+2023-09-17,DRC,Goma,Rotavirus,0,0.0
+2023-09-24,DRC,Goma,Cholera,0,3.08
+2023-09-24,DRC,Goma,E. coli,0,1.52
+2023-09-24,DRC,Goma,Salmonella,20,0.79
+2023-09-24,DRC,Goma,Shigella,0,0.0
+2023-09-24,DRC,Goma,Rotavirus,0,0.0
+2023-10-01,DRC,Goma,Cholera,0,0.0
+2023-10-01,DRC,Goma,E. coli,0,0.0
+2023-10-01,DRC,Goma,Salmonella,0,0.0
+2023-10-01,DRC,Goma,Shigella,0,0.0
+2023-10-01,DRC,Goma,Rotavirus,0,0.0
+2023-10-08,DRC,Goma,Cholera,0,0.0
+2023-10-08,DRC,Goma,E. coli,0,3.05
+2023-10-08,DRC,Goma,Salmonella,0,1.33
+2023-10-08,DRC,Goma,Shigella,0,0.0
+2023-10-08,DRC,Goma,Rotavirus,0,3.09
+2023-10-15,DRC,Goma,Cholera,0,1.42
+2023-10-15,DRC,Goma,E. coli,0,0.0
+2023-10-15,DRC,Goma,Salmonella,0,1.65
+2023-10-15,DRC,Goma,Shigella,0,10.0
+2023-10-15,DRC,Goma,Rotavirus,0,3.88
+2023-10-22,DRC,Goma,Cholera,0,0.0
+2023-10-22,DRC,Goma,E. coli,0,2.44
+2023-10-22,DRC,Goma,Salmonella,0,8.54
+2023-10-22,DRC,Goma,Shigella,0,6.22
+2023-10-22,DRC,Goma,Rotavirus,0,0.0
+2023-10-29,DRC,Goma,Cholera,0,2.31
+2023-10-29,DRC,Goma,E. coli,0,0.24
+2023-10-29,DRC,Goma,Salmonella,0,8.39
+2023-10-29,DRC,Goma,Shigella,0,5.1
+2023-10-29,DRC,Goma,Rotavirus,0,0.0
+2023-11-05,DRC,Goma,Cholera,0,0.0
+2023-11-05,DRC,Goma,E. coli,0,8.97
+2023-11-05,DRC,Goma,Salmonella,0,0.0
+2023-11-05,DRC,Goma,Shigella,0,0.0
+2023-11-05,DRC,Goma,Rotavirus,0,4.84
+2023-11-12,DRC,Goma,Cholera,0,0.0
+2023-11-12,DRC,Goma,E. coli,0,2.52
+2023-11-12,DRC,Goma,Salmonella,0,0.93
+2023-11-12,DRC,Goma,Shigella,0,2.8
+2023-11-12,DRC,Goma,Rotavirus,0,0.0
+2023-11-19,DRC,Goma,Cholera,0,0.0
+2023-11-19,DRC,Goma,E. coli,0,0.0
+2023-11-19,DRC,Goma,Salmonella,0,0.0
+2023-11-19,DRC,Goma,Shigella,0,5.68
+2023-11-19,DRC,Goma,Rotavirus,0,0.0
+2023-11-26,DRC,Goma,Cholera,0,0.0
+2023-11-26,DRC,Goma,E. coli,0,0.0
+2023-11-26,DRC,Goma,Salmonella,0,2.32
+2023-11-26,DRC,Goma,Shigella,0,0.0
+2023-11-26,DRC,Goma,Rotavirus,0,0.0
+2023-12-03,DRC,Goma,Cholera,0,7.45
+2023-12-03,DRC,Goma,E. coli,0,8.69
+2023-12-03,DRC,Goma,Salmonella,0,4.27
+2023-12-03,DRC,Goma,Shigella,0,0.0
+2023-12-03,DRC,Goma,Rotavirus,0,0.0
+2023-12-10,DRC,Goma,Cholera,0,1.74
+2023-12-10,DRC,Goma,E. coli,0,0.0
+2023-12-10,DRC,Goma,Salmonella,0,0.0
+2023-12-10,DRC,Goma,Shigella,0,0.0
+2023-12-10,DRC,Goma,Rotavirus,0,0.0
+2023-12-17,DRC,Goma,Cholera,3,0.63
+2023-12-17,DRC,Goma,E. coli,1,0.0
+2023-12-17,DRC,Goma,Salmonella,1,0.87
+2023-12-17,DRC,Goma,Shigella,0,0.0
+2023-12-17,DRC,Goma,Rotavirus,2,0.0
+2023-12-24,DRC,Goma,Cholera,3,0.74
+2023-12-24,DRC,Goma,E. coli,3,0.0
+2023-12-24,DRC,Goma,Salmonella,1,0.0
+2023-12-24,DRC,Goma,Shigella,2,0.0
+2023-12-24,DRC,Goma,Rotavirus,2,8.16
+2023-01-01,DRC,Lubumbashi,Cholera,6,0.0
+2023-01-01,DRC,Lubumbashi,E. coli,5,2.56
+2023-01-01,DRC,Lubumbashi,Salmonella,4,0.0
+2023-01-01,DRC,Lubumbashi,Shigella,8,3.67
+2023-01-01,DRC,Lubumbashi,Rotavirus,4,0.0
+2023-01-08,DRC,Lubumbashi,Cholera,7,0.0
+2023-01-08,DRC,Lubumbashi,E. coli,11,0.0
+2023-01-08,DRC,Lubumbashi,Salmonella,10,2.16
+2023-01-08,DRC,Lubumbashi,Shigella,6,1.89
+2023-01-08,DRC,Lubumbashi,Rotavirus,5,2.67
+2023-01-15,DRC,Lubumbashi,Cholera,9,1.23
+2023-01-15,DRC,Lubumbashi,E. coli,13,1.47
+2023-01-15,DRC,Lubumbashi,Salmonella,9,0.0
+2023-01-15,DRC,Lubumbashi,Shigella,6,2.05
+2023-01-15,DRC,Lubumbashi,Rotavirus,9,6.71
+2023-01-22,DRC,Lubumbashi,Cholera,14,0.0
+2023-01-22,DRC,Lubumbashi,E. coli,12,6.09
+2023-01-22,DRC,Lubumbashi,Salmonella,13,4.31
+2023-01-22,DRC,Lubumbashi,Shigella,45,0.29
+2023-01-22,DRC,Lubumbashi,Rotavirus,10,6.53
+2023-01-29,DRC,Lubumbashi,Cholera,21,7.1
+2023-01-29,DRC,Lubumbashi,E. coli,6,0.0
+2023-01-29,DRC,Lubumbashi,Salmonella,10,0.0
+2023-01-29,DRC,Lubumbashi,Shigella,6,0.32
+2023-01-29,DRC,Lubumbashi,Rotavirus,15,2.86
+2023-02-05,DRC,Lubumbashi,Cholera,16,0.0
+2023-02-05,DRC,Lubumbashi,E. coli,20,0.0
+2023-02-05,DRC,Lubumbashi,Salmonella,10,5.75
+2023-02-05,DRC,Lubumbashi,Shigella,10,2.76
+2023-02-05,DRC,Lubumbashi,Rotavirus,17,5.34
+2023-02-12,DRC,Lubumbashi,Cholera,14,1.07
+2023-02-12,DRC,Lubumbashi,E. coli,10,0.0
+2023-02-12,DRC,Lubumbashi,Salmonella,13,5.74
+2023-02-12,DRC,Lubumbashi,Shigella,12,3.69
+2023-02-12,DRC,Lubumbashi,Rotavirus,17,11.47
+2023-02-19,DRC,Lubumbashi,Cholera,18,9.75
+2023-02-19,DRC,Lubumbashi,E. coli,17,1.99
+2023-02-19,DRC,Lubumbashi,Salmonella,13,0.0
+2023-02-19,DRC,Lubumbashi,Shigella,17,8.44
+2023-02-19,DRC,Lubumbashi,Rotavirus,15,0.66
+2023-02-26,DRC,Lubumbashi,Cholera,14,5.36
+2023-02-26,DRC,Lubumbashi,E. coli,16,8.55
+2023-02-26,DRC,Lubumbashi,Salmonella,20,0.18
+2023-02-26,DRC,Lubumbashi,Shigella,15,7.7
+2023-02-26,DRC,Lubumbashi,Rotavirus,25,5.81
+2023-03-05,DRC,Lubumbashi,Cholera,15,0.0
+2023-03-05,DRC,Lubumbashi,E. coli,23,1.16
+2023-03-05,DRC,Lubumbashi,Salmonella,20,0.0
+2023-03-05,DRC,Lubumbashi,Shigella,19,4.14
+2023-03-05,DRC,Lubumbashi,Rotavirus,26,10.76
+2023-03-12,DRC,Lubumbashi,Cholera,20,0.0
+2023-03-12,DRC,Lubumbashi,E. coli,53,2.15
+2023-03-12,DRC,Lubumbashi,Salmonella,13,0.0
+2023-03-12,DRC,Lubumbashi,Shigella,18,2.51
+2023-03-12,DRC,Lubumbashi,Rotavirus,22,6.85
+2023-03-19,DRC,Lubumbashi,Cholera,21,8.75
+2023-03-19,DRC,Lubumbashi,E. coli,19,3.89
+2023-03-19,DRC,Lubumbashi,Salmonella,26,3.02
+2023-03-19,DRC,Lubumbashi,Shigella,27,0.0
+2023-03-19,DRC,Lubumbashi,Rotavirus,14,3.12
+2023-03-26,DRC,Lubumbashi,Cholera,23,0.0
+2023-03-26,DRC,Lubumbashi,E. coli,20,13.07
+2023-03-26,DRC,Lubumbashi,Salmonella,15,0.0
+2023-03-26,DRC,Lubumbashi,Shigella,19,0.0
+2023-03-26,DRC,Lubumbashi,Rotavirus,22,9.69
+2023-04-02,DRC,Lubumbashi,Cholera,18,0.91
+2023-04-02,DRC,Lubumbashi,E. coli,27,3.63
+2023-04-02,DRC,Lubumbashi,Salmonella,21,5.14
+2023-04-02,DRC,Lubumbashi,Shigella,25,1.15
+2023-04-02,DRC,Lubumbashi,Rotavirus,26,0.84
+2023-04-09,DRC,Lubumbashi,Cholera,18,2.99
+2023-04-09,DRC,Lubumbashi,E. coli,18,4.8
+2023-04-09,DRC,Lubumbashi,Salmonella,22,1.49
+2023-04-09,DRC,Lubumbashi,Shigella,21,0.0
+2023-04-09,DRC,Lubumbashi,Rotavirus,19,0.0
+2023-04-16,DRC,Lubumbashi,Cholera,9,0.45
+2023-04-16,DRC,Lubumbashi,E. coli,17,0.09
+2023-04-16,DRC,Lubumbashi,Salmonella,16,2.42
+2023-04-16,DRC,Lubumbashi,Shigella,12,10.47
+2023-04-16,DRC,Lubumbashi,Rotavirus,24,4.36
+2023-04-23,DRC,Lubumbashi,Cholera,13,8.56
+2023-04-23,DRC,Lubumbashi,E. coli,15,0.0
+2023-04-23,DRC,Lubumbashi,Salmonella,23,0.0
+2023-04-23,DRC,Lubumbashi,Shigella,49,4.09
+2023-04-23,DRC,Lubumbashi,Rotavirus,19,2.92
+2023-04-30,DRC,Lubumbashi,Cholera,18,7.58
+2023-04-30,DRC,Lubumbashi,E. coli,20,0.94
+2023-04-30,DRC,Lubumbashi,Salmonella,15,0.0
+2023-04-30,DRC,Lubumbashi,Shigella,21,8.32
+2023-04-30,DRC,Lubumbashi,Rotavirus,20,4.09
+2023-05-07,DRC,Lubumbashi,Cholera,19,0.0
+2023-05-07,DRC,Lubumbashi,E. coli,18,0.0
+2023-05-07,DRC,Lubumbashi,Salmonella,11,0.0
+2023-05-07,DRC,Lubumbashi,Shigella,16,2.93
+2023-05-07,DRC,Lubumbashi,Rotavirus,8,10.45
+2023-05-14,DRC,Lubumbashi,Cholera,12,9.56
+2023-05-14,DRC,Lubumbashi,E. coli,10,0.0
+2023-05-14,DRC,Lubumbashi,Salmonella,14,7.34
+2023-05-14,DRC,Lubumbashi,Shigella,9,0.04
+2023-05-14,DRC,Lubumbashi,Rotavirus,17,3.05
+2023-05-21,DRC,Lubumbashi,Cholera,15,11.44
+2023-05-21,DRC,Lubumbashi,E. coli,17,0.47
+2023-05-21,DRC,Lubumbashi,Salmonella,12,0.0
+2023-05-21,DRC,Lubumbashi,Shigella,43,17.23
+2023-05-21,DRC,Lubumbashi,Rotavirus,60,15.32
+2023-05-28,DRC,Lubumbashi,Cholera,13,5.36
+2023-05-28,DRC,Lubumbashi,E. coli,13,0.0
+2023-05-28,DRC,Lubumbashi,Salmonella,12,3.44
+2023-05-28,DRC,Lubumbashi,Shigella,51,5.91
+2023-05-28,DRC,Lubumbashi,Rotavirus,10,10.37
+2023-06-04,DRC,Lubumbashi,Cholera,56,18.35
+2023-06-04,DRC,Lubumbashi,E. coli,13,3.61
+2023-06-04,DRC,Lubumbashi,Salmonella,10,0.0
+2023-06-04,DRC,Lubumbashi,Shigella,19,6.32
+2023-06-04,DRC,Lubumbashi,Rotavirus,14,0.19
+2023-06-11,DRC,Lubumbashi,Cholera,9,4.87
+2023-06-11,DRC,Lubumbashi,E. coli,15,3.24
+2023-06-11,DRC,Lubumbashi,Salmonella,11,7.91
+2023-06-11,DRC,Lubumbashi,Shigella,12,1.71
+2023-06-11,DRC,Lubumbashi,Rotavirus,42,0.0
+2023-06-18,DRC,Lubumbashi,Cholera,7,4.47
+2023-06-18,DRC,Lubumbashi,E. coli,7,0.0
+2023-06-18,DRC,Lubumbashi,Salmonella,7,0.0
+2023-06-18,DRC,Lubumbashi,Shigella,9,0.0
+2023-06-18,DRC,Lubumbashi,Rotavirus,9,0.6
+2023-06-25,DRC,Lubumbashi,Cholera,7,0.41
+2023-06-25,DRC,Lubumbashi,E. coli,5,0.0
+2023-06-25,DRC,Lubumbashi,Salmonella,58,7.6
+2023-06-25,DRC,Lubumbashi,Shigella,13,3.19
+2023-06-25,DRC,Lubumbashi,Rotavirus,5,5.58
+2023-07-02,DRC,Lubumbashi,Cholera,6,0.0
+2023-07-02,DRC,Lubumbashi,E. coli,8,5.39
+2023-07-02,DRC,Lubumbashi,Salmonella,8,0.0
+2023-07-02,DRC,Lubumbashi,Shigella,6,0.0
+2023-07-02,DRC,Lubumbashi,Rotavirus,5,3.36
+2023-07-09,DRC,Lubumbashi,Cholera,1,5.69
+2023-07-09,DRC,Lubumbashi,E. coli,4,2.33
+2023-07-09,DRC,Lubumbashi,Salmonella,2,1.14
+2023-07-09,DRC,Lubumbashi,Shigella,3,3.27
+2023-07-09,DRC,Lubumbashi,Rotavirus,6,7.7
+2023-07-16,DRC,Lubumbashi,Cholera,1,0.0
+2023-07-16,DRC,Lubumbashi,E. coli,3,1.38
+2023-07-16,DRC,Lubumbashi,Salmonella,1,2.3
+2023-07-16,DRC,Lubumbashi,Shigella,1,0.0
+2023-07-16,DRC,Lubumbashi,Rotavirus,0,11.91
+2023-07-23,DRC,Lubumbashi,Cholera,0,1.14
+2023-07-23,DRC,Lubumbashi,E. coli,40,11.89
+2023-07-23,DRC,Lubumbashi,Salmonella,0,0.0
+2023-07-23,DRC,Lubumbashi,Shigella,0,0.0
+2023-07-23,DRC,Lubumbashi,Rotavirus,0,5.53
+2023-07-30,DRC,Lubumbashi,Cholera,0,0.0
+2023-07-30,DRC,Lubumbashi,E. coli,0,4.38
+2023-07-30,DRC,Lubumbashi,Salmonella,0,0.0
+2023-07-30,DRC,Lubumbashi,Shigella,0,2.91
+2023-07-30,DRC,Lubumbashi,Rotavirus,0,3.9
+2023-08-06,DRC,Lubumbashi,Cholera,0,1.21
+2023-08-06,DRC,Lubumbashi,E. coli,0,2.1
+2023-08-06,DRC,Lubumbashi,Salmonella,39,4.95
+2023-08-06,DRC,Lubumbashi,Shigella,0,0.0
+2023-08-06,DRC,Lubumbashi,Rotavirus,0,3.58
+2023-08-13,DRC,Lubumbashi,Cholera,0,1.77
+2023-08-13,DRC,Lubumbashi,E. coli,0,3.58
+2023-08-13,DRC,Lubumbashi,Salmonella,0,2.67
+2023-08-13,DRC,Lubumbashi,Shigella,0,0.0
+2023-08-13,DRC,Lubumbashi,Rotavirus,0,0.16
+2023-08-20,DRC,Lubumbashi,Cholera,0,5.44
+2023-08-20,DRC,Lubumbashi,E. coli,0,0.77
+2023-08-20,DRC,Lubumbashi,Salmonella,0,0.0
+2023-08-20,DRC,Lubumbashi,Shigella,0,0.0
+2023-08-20,DRC,Lubumbashi,Rotavirus,0,2.08
+2023-08-27,DRC,Lubumbashi,Cholera,0,5.08
+2023-08-27,DRC,Lubumbashi,E. coli,0,0.0
+2023-08-27,DRC,Lubumbashi,Salmonella,0,0.0
+2023-08-27,DRC,Lubumbashi,Shigella,0,4.66
+2023-08-27,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-09-03,DRC,Lubumbashi,Cholera,0,0.0
+2023-09-03,DRC,Lubumbashi,E. coli,0,0.1
+2023-09-03,DRC,Lubumbashi,Salmonella,0,0.0
+2023-09-03,DRC,Lubumbashi,Shigella,0,8.92
+2023-09-03,DRC,Lubumbashi,Rotavirus,0,2.01
+2023-09-10,DRC,Lubumbashi,Cholera,0,3.13
+2023-09-10,DRC,Lubumbashi,E. coli,0,5.82
+2023-09-10,DRC,Lubumbashi,Salmonella,0,12.13
+2023-09-10,DRC,Lubumbashi,Shigella,0,0.0
+2023-09-10,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-09-17,DRC,Lubumbashi,Cholera,0,1.55
+2023-09-17,DRC,Lubumbashi,E. coli,0,0.0
+2023-09-17,DRC,Lubumbashi,Salmonella,0,0.0
+2023-09-17,DRC,Lubumbashi,Shigella,0,0.0
+2023-09-17,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-09-24,DRC,Lubumbashi,Cholera,0,5.92
+2023-09-24,DRC,Lubumbashi,E. coli,0,9.09
+2023-09-24,DRC,Lubumbashi,Salmonella,0,0.0
+2023-09-24,DRC,Lubumbashi,Shigella,0,0.0
+2023-09-24,DRC,Lubumbashi,Rotavirus,0,2.89
+2023-10-01,DRC,Lubumbashi,Cholera,0,3.6
+2023-10-01,DRC,Lubumbashi,E. coli,0,0.0
+2023-10-01,DRC,Lubumbashi,Salmonella,25,9.66
+2023-10-01,DRC,Lubumbashi,Shigella,33,8.38
+2023-10-01,DRC,Lubumbashi,Rotavirus,20,15.45
+2023-10-08,DRC,Lubumbashi,Cholera,0,0.0
+2023-10-08,DRC,Lubumbashi,E. coli,0,0.0
+2023-10-08,DRC,Lubumbashi,Salmonella,0,0.0
+2023-10-08,DRC,Lubumbashi,Shigella,0,1.86
+2023-10-08,DRC,Lubumbashi,Rotavirus,33,5.88
+2023-10-15,DRC,Lubumbashi,Cholera,0,9.12
+2023-10-15,DRC,Lubumbashi,E. coli,0,1.76
+2023-10-15,DRC,Lubumbashi,Salmonella,0,0.0
+2023-10-15,DRC,Lubumbashi,Shigella,0,0.0
+2023-10-15,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-10-22,DRC,Lubumbashi,Cholera,0,1.97
+2023-10-22,DRC,Lubumbashi,E. coli,0,0.0
+2023-10-22,DRC,Lubumbashi,Salmonella,0,0.93
+2023-10-22,DRC,Lubumbashi,Shigella,0,6.41
+2023-10-22,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-10-29,DRC,Lubumbashi,Cholera,0,0.0
+2023-10-29,DRC,Lubumbashi,E. coli,0,0.0
+2023-10-29,DRC,Lubumbashi,Salmonella,0,0.0
+2023-10-29,DRC,Lubumbashi,Shigella,0,1.13
+2023-10-29,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-11-05,DRC,Lubumbashi,Cholera,0,0.0
+2023-11-05,DRC,Lubumbashi,E. coli,0,8.36
+2023-11-05,DRC,Lubumbashi,Salmonella,0,0.0
+2023-11-05,DRC,Lubumbashi,Shigella,0,0.0
+2023-11-05,DRC,Lubumbashi,Rotavirus,0,6.37
+2023-11-12,DRC,Lubumbashi,Cholera,0,0.0
+2023-11-12,DRC,Lubumbashi,E. coli,0,1.68
+2023-11-12,DRC,Lubumbashi,Salmonella,0,1.82
+2023-11-12,DRC,Lubumbashi,Shigella,0,4.3
+2023-11-12,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-11-19,DRC,Lubumbashi,Cholera,0,0.0
+2023-11-19,DRC,Lubumbashi,E. coli,0,0.0
+2023-11-19,DRC,Lubumbashi,Salmonella,0,0.0
+2023-11-19,DRC,Lubumbashi,Shigella,0,3.93
+2023-11-19,DRC,Lubumbashi,Rotavirus,0,1.83
+2023-11-26,DRC,Lubumbashi,Cholera,0,2.6
+2023-11-26,DRC,Lubumbashi,E. coli,0,0.0
+2023-11-26,DRC,Lubumbashi,Salmonella,0,1.0
+2023-11-26,DRC,Lubumbashi,Shigella,0,7.28
+2023-11-26,DRC,Lubumbashi,Rotavirus,25,15.82
+2023-12-03,DRC,Lubumbashi,Cholera,32,3.21
+2023-12-03,DRC,Lubumbashi,E. coli,0,0.0
+2023-12-03,DRC,Lubumbashi,Salmonella,0,6.85
+2023-12-03,DRC,Lubumbashi,Shigella,0,0.0
+2023-12-03,DRC,Lubumbashi,Rotavirus,0,0.0
+2023-12-10,DRC,Lubumbashi,Cholera,0,0.0
+2023-12-10,DRC,Lubumbashi,E. coli,0,0.0
+2023-12-10,DRC,Lubumbashi,Salmonella,0,0.0
+2023-12-10,DRC,Lubumbashi,Shigella,0,0.0
+2023-12-10,DRC,Lubumbashi,Rotavirus,0,0.89
+2023-12-17,DRC,Lubumbashi,Cholera,2,0.0
+2023-12-17,DRC,Lubumbashi,E. coli,4,0.0
+2023-12-17,DRC,Lubumbashi,Salmonella,0,11.16
+2023-12-17,DRC,Lubumbashi,Shigella,1,0.0
+2023-12-17,DRC,Lubumbashi,Rotavirus,1,1.58
+2023-12-24,DRC,Lubumbashi,Cholera,3,11.04
+2023-12-24,DRC,Lubumbashi,E. coli,1,6.85
+2023-12-24,DRC,Lubumbashi,Salmonella,3,0.0
+2023-12-24,DRC,Lubumbashi,Shigella,5,10.92
+2023-12-24,DRC,Lubumbashi,Rotavirus,4,0.0
