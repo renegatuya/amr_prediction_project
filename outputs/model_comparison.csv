@@ -1,0 +1,41 @@
+Model,Accuracy,AUC,Confusion Matrix,Classification Report
+Logistic Regression,0.9957264957264957,0.9999957734930389,"[[562   0]
+ [  6 836]]","              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       562
+           1       1.00      0.99      1.00       842
+
+    accuracy                           1.00      1404
+   macro avg       0.99      1.00      1.00      1404
+weighted avg       1.00      1.00      1.00      1404
+"
+Random Forest,0.9992877492877493,1.0,"[[562   0]
+ [  1 841]]","              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       562
+           1       1.00      1.00      1.00       842
+
+    accuracy                           1.00      1404
+   macro avg       1.00      1.00      1.00      1404
+weighted avg       1.00      1.00      1.00      1404
+"
+SVM,0.9764957264957265,0.9995731227969332,"[[559   3]
+ [ 30 812]]","              precision    recall  f1-score   support
+
+           0       0.95      0.99      0.97       562
+           1       1.00      0.96      0.98       842
+
+    accuracy                           0.98      1404
+   macro avg       0.97      0.98      0.98      1404
+weighted avg       0.98      0.98      0.98      1404
+"
+XGBoost,0.9992877492877493,0.9999957734930389,"[[562   0]
+ [  1 841]]","              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       562
+           1       1.00      1.00      1.00       842
+
+    accuracy                           1.00      1404
+   macro avg       1.00      1.00      1.00      1404
+weighted avg       1.00      1.00      1.00      1404
+"

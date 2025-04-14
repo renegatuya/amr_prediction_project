@@ -1,63 +1,86 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 import os
 from datetime import timedelta
 
-# Defensive programming: Ensure directory exists
-def ensure_dir(directory):
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+# Set random seed for reproducibility
+np.random.seed(42)
 
-# Function to generate synthetic weekly data
-def generate_synthetic_data():
-    countries = ["Rwanda", "Burundi", "Kenya", "Uganda", "Tanzania", "DRC"]
-    start_date = pd.to_datetime("2022-01-01")
-    weeks = 104  # 2 years
-    data = []
+# Define countries and districts
+regions = {
+    "Rwanda": ["Kigali", "Huye", "Rubavu"],
+    "Uganda": ["Kampala", "Gulu", "Mbale"],
+    "Kenya": ["Nairobi", "Kisumu", "Mombasa"],
+    "Tanzania": ["Dar es Salaam", "Arusha", "Mwanza"],
+    "Burundi": ["Bujumbura", "Ngozi", "Gitega"],
+    "DRC": ["Kinshasa", "Goma", "Lubumbashi"]
+}
 
-    for country in countries:
-        date = start_date
-        for _ in range(weeks):
-            temperature = np.random.normal(25, 3)  # Avg temp
-            rainfall = np.random.gamma(2, 15)
-            humidity = np.random.uniform(50, 90)
-            sanitation_score = np.random.uniform(0, 1)
-            resistance_gene_score = np.random.uniform(0, 1)
+pathogens = ["Cholera", "E. coli", "Salmonella", "Shigella", "Rotavirus"]
+start_date = pd.to_datetime("2023-01-01")
+weeks = pd.date_range(start=start_date, periods=52, freq='W')
 
-            git_infection_cases = int(
-                np.random.poisson(50 + 10 * (1 - sanitation_score))
-            )
+# Simulate data
+data = []
 
-            # AMR cases depend on infections & resistance gene score
-            amr_rate = 0.1 + 0.6 * resistance_gene_score
-            amr_cases = int(git_infection_cases * amr_rate)
+for country, districts in regions.items():
+    for district in districts:
+        for week in weeks:
+            for pathogen in pathogens:
+                # Simulate seasonal trend
+                week_of_year = week.isocalendar().week
+                seasonal_effect = np.sin(2 * np.pi * week_of_year / 52)
+                lam = max(0, 5 + 15 * seasonal_effect)  # Ensure lambda is non-negative
+                base_cases = np.random.poisson(lam)
 
-            data.append({
-                "week": date,
-                "country": country,
-                "temperature": round(temperature, 2),
-                "rainfall": round(rainfall, 2),
-                "humidity": round(humidity, 2),
-                "sanitation_score": round(sanitation_score, 2),
-                "resistance_gene_score": round(resistance_gene_score, 2),
-                "git_infection_cases": git_infection_cases,
-                "amr_cases": amr_cases
-            })
+                # Add outbreak spike
+                outbreak = np.random.binomial(1, 0.05)
+                cases = base_cases + (np.random.randint(20, 50) if outbreak else 0)
 
-            date += timedelta(weeks=1)
+                # Simulate AMR gene abundance from cases
+                amr_abundance = round(np.random.normal(loc=0.2 * cases, scale=5), 2)
+                amr_abundance = max(0, amr_abundance)
 
-    return pd.DataFrame(data)
+                data.append({
+                    "week": week,
+                    "country": country,
+                    "district": district,
+                    "pathogen": pathogen,
+                    "cases": cases,
+                    "amr_abundance": amr_abundance
+                })
 
-# Main function
-def main():
-    print("Generating synthetic data...")
-    df = generate_synthetic_data()
+# Create DataFrame
+df = pd.DataFrame(data)
 
-    ensure_dir("data")
-    file_path = "data/amr_synthetic_data.csv"
-    df.to_csv(file_path, index=False)
-    print(f"✅ Data saved to {file_path}")
+# Save data to CSV
+output_dir = "../outputs"
+os.makedirs(output_dir, exist_ok=True)
+df.to_csv(os.path.join(output_dir, "synthetic_git_amr_data.csv"), index=False)
 
-if __name__ == "__main__":
-    main()
+# Plot example: total cases per week
+total_cases_weekly = df.groupby("week")["cases"].sum().reset_index()
+plt.figure(figsize=(12, 6))
+sns.lineplot(data=total_cases_weekly, x="week", y="cases", color="blue")
+plt.title("Total GIT Infection Cases Over Time")
+plt.xlabel("Week")
+plt.ylabel("Cases")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig(os.path.join(output_dir, "total_cases_over_time.png"))
+plt.close()
+
+# Plot example: heatmap of correlation (by country)
+avg_amr = df.groupby("country")["amr_abundance"].mean()
+avg_cases = df.groupby("country")["cases"].mean()
+summary_df = pd.DataFrame({"cases": avg_cases, "amr_abundance": avg_amr})
+sns.heatmap(summary_df.corr(), annot=True, cmap='coolwarm', fmt='.2f')
+plt.title("Correlation between AMR Abundance and Cases by Country")
+plt.tight_layout()
+plt.savefig(os.path.join(output_dir, "correlation_heatmap.png"))
+plt.close()
+
+print("Synthetic data and visuals generated and saved to outputs folder.")
 
