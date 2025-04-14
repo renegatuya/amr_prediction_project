@@ -1,4 +1,4 @@
-
+import joblib
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -22,11 +22,19 @@ df_encoded = pd.get_dummies(df, columns=["country", "district", "pathogen"], dro
 
 # Features and target
 X = df_encoded.drop(columns=["week", "amr_abundance"])
+joblib.dump(X.columns, "model_features.pkl")
 y = df_encoded["amr_abundance"]
+
+# Save feature names
+joblib.dump(X.columns, 'model_features.pkl')
 
 # Train-test split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
+# Train the model
+model = RandomForestRegressor(n_estimators=100)
+model.fit(X_train, y_train)
+# Save the trained model
+joblib.dump(model, 'best_amr_model.pkl')
 #Save the model
 import joblib
 
@@ -100,7 +108,7 @@ import joblib
 
 # After you've finished tuning and identifying the best model, save it
 best_model = rf_random.best_estimator_  # This assumes you're using Random Forest
-joblib.dump(best_model, 'models/best_amr_model.pkl')
+joblib.dump(best_model, 'best_amr_model.pkl')
 
 import os
 import joblib
@@ -110,5 +118,5 @@ if not os.path.exists('models'):
     os.makedirs('models')
 
 # Save the best model
-joblib.dump(best_model, 'models/best_amr_model.pkl')
+joblib.dump(best_model, 'best_amr_model.pkl')
 

@@ -1,21 +1,21 @@
-import pandas as pd
 import joblib
+import pandas as pd
 
-# Load the saved model
-model = joblib.load('models/amr_predictor.pkl')
+# Load the trained model
+model = joblib.load('best_amr_model.pkl')
 
-# Load new data (replace 'new_data.csv' with the actual data path)
+# Load new data for prediction
 new_data = pd.read_csv('/Users/ndore/Academics/PhD/courses/python_1/assignements/amr_prediction_project/outputs/synthetic_git_amr_data.csv')
 
-# Preprocess the new data (apply any necessary transformations that were applied to the training data)
-# Ensure the columns in the new data match the columns used during model training
+# One-hot encode categorical features in the new data (same as in training)
+new_data_encoded = pd.get_dummies(new_data, columns=["country", "district", "pathogen"], drop_first=True)
 
-# Make predictions on the new data
-predictions = model.predict(new_data)
+# Assuming your features match the ones from training
+X_new = new_data_encoded.drop(columns=["week", "amr_abundance"])
 
-# Save the predictions to a CSV file
-new_data['predictions'] = predictions
-new_data.to_csv('predictions.csv', index=False)
+# Predict using the trained model
+predictions = model.predict(X_new)
 
-print("Predictions for new data saved to 'predictions.csv'")
+# Print or save predictions
+print(predictions)
 
