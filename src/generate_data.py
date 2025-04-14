@@ -52,15 +52,13 @@ for country, districts in regions.items():
                     "amr_abundance": amr_abundance
                 })
 
-# Create DataFrame
+# Create and save dataframe
 df = pd.DataFrame(data)
-
-# Save data to CSV
 output_dir = "../outputs"
 os.makedirs(output_dir, exist_ok=True)
 df.to_csv(os.path.join(output_dir, "synthetic_git_amr_data.csv"), index=False)
 
-# Plot example: total cases per week
+# Plot total cases per week
 total_cases_weekly = df.groupby("week")["cases"].sum().reset_index()
 plt.figure(figsize=(12, 6))
 sns.lineplot(data=total_cases_weekly, x="week", y="cases", color="blue")
@@ -72,7 +70,7 @@ plt.tight_layout()
 plt.savefig(os.path.join(output_dir, "total_cases_over_time.png"))
 plt.close()
 
-# Plot example: heatmap of correlation (by country)
+# Plot heatmap of correlation
 avg_amr = df.groupby("country")["amr_abundance"].mean()
 avg_cases = df.groupby("country")["cases"].mean()
 summary_df = pd.DataFrame({"cases": avg_cases, "amr_abundance": avg_amr})
